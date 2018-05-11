@@ -1,7 +1,6 @@
 ---
 title: "A New AI Evaluation Cosmos: Ready to Play the Game?"
 collection: publications
-permalink: /publication/2017-10-01-AImagazine
 date: 2017-10-01
 venue: 'AI Magazine'
 paperurl: 'https://doi.org/10.1609/aimag.v38i3.2748'
