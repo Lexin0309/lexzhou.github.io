@@ -25,7 +25,6 @@ Recent Highlights
 
 * <a href="http://www.journals.elsevier.com/artificial-intelligence/">Artificial Intelligence Journal</a> paper: J. Hern&aacute;ndez-Orallo, F. Mart&iacute;nez-Plumed, U. Schmid, M. Siebers, D L Dowe <em><a href="http://www.sciencedirect.com/science/article/pii/S0004370215001538">"Computer models solving intelligence test problems: progress and implications"</a></em>, 2016.
 
-* Member of the <a href="http://reframe-d2k.org/Main_Page">REFRAME</a> Project</a>.
 
 * <a href="http://hackforgood.net/el-resumen-de-hackforgood-2016/">2nd Prize (Local) & 2nd Prize (National)</a> VI Hackathon Telef&oacute;nica <em><a href="http://hackforgood.net/">HackForGood 2018</a></em> - Project <a href="http://users.dsic.upv.es/~flip/particleAI/">ParticleAI</a>.
 
@@ -34,6 +33,8 @@ Recent Highlights
 * <a href="http://hackforgood.net/el-resumen-de-hackforgood-2016/">1st Prize (Local) & 3rd Prize (National)</a> IV Hackathon Telef&oacute;nica <em><a href="http://hackforgood.net/">HackForGood 2016</a></em> - Project <a href="http://users.dsic.upv.es/~flip/bikeXplorer/">BikeXplorer</a>.					
 
 * <a href="http://noticias.inf.upv.es/?p=7962">1st prize</a> <a href="http://dataupv.webs.upv.es/i-opendatathon-etsinf-upv/">I OpenDatathon ETSINF-UPV 2016</a>: <em>BigML Award for Best predictive project</em> - Project <a href="http://users.dsic.upv.es/~flip/trafico/">TrafficXplorer</a>.
+
+* Member of the <a href="http://reframe-d2k.org/Main_Page">REFRAME</a> Project</a>.
 
 * Check out our Context-Aware Standard Process for Data Mining: <a href="http://www.casp-dm.org/">CASP-DM</a>.
 
