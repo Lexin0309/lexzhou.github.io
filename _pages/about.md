@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Postdoctoral researcher in Artificial Intelligence in the Department of Information Systems and Computation ([DSIC](http://www.upv.es/entidades/DSIC/index-en.html)) at the Technical University of Valencia ([UPV](http://www.upv.es/)), Spain. Lecturer in the [Master in Big Data Analytics](http://bigdata.inf.upv.es/) and in the [Máster Universitario en Ingeniería Informática](http://muiinf.webs.upv.es/). Teaching Assistant in the [Máster Universitario en Investigación en Inteligencia Artificial](http://www.uimp.es/postgrado/estudios/fichaestudio.php?plan=P03S&any=2016-17&verasi=N&lan=es) at [UIMP](http://www.uimp.es/). I received a B.Sc. degree in Computer Science (2009), M.Sc. degree in Software Engineering, Formal Methods and Information Systems (2010), a Post-Graduate Diploma in Engineering Business Management (2011) and a Ph.D in Computer Science (2016) from UPV. My main research and academic interest encompasses several areas of Artificial Intelligence, machine learning, IRT, inductive programming, cognitive systems, data science and visualisation. 
 
-A data-driven personal website
+Recent Highlights
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* Co-organising  the 1st edition of [Architectures and Evaluation for Generality, Autonomy & Progress in AI (AEGAP2017)](http://cadia.ru.is/workshops/aegap2018/)  @ [IJCAI-ECAI 2018](https://www.ijcai-18.org/),[AAMAS 2018](http://celweb.vuse.vanderbilt.edu/aamas18/) & [ICML 2018](https://icml.cc/) to take place in Stockholm in July 2018.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+			
+* Co-organised  the **2nd [Evaluating General-Purpose AI (EGPAI 2017)](http://users.dsic.upv.es/~flip/EGPAI2017/)** @ [IJCAI 2017] (http://ijcai-17.org/) at Melbourne (Australia) in August 20, 2017.
+					
+* Co-organised  the <b>1st edition of </b><a href="http://users.dsic.upv.es/~flip/DWA2016/"><b>Data Wrangling Automation</b> (DWA 2016)</b></a> @ <a href="http://icdm2016.eurecat.org/"> ICDM 2016</a> at Barcelona (Spain) in December 12, 2016.
+					
+* <a href="http://www.aaai.org/Magazine/magazine.php"><em>AI Magazine</em></a> paper: Jos&eacute; Hern&aacute;ndez-Orallo, Marco Baroni, Jordi Bieger, Nader Chmait, David L. Dowe, Katja Hofmann, Fernando Mart&iacute;nez-Plumed, Claes Strannegård, Kristinn R. Thórisson, <em><a href="https://doi.org/10.1609/aimag.v38i3.2748"> "A New AI Evaluation Cosmos: Ready to Play the Game?"</a></em>, Fall 2017.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* <a href="http://www.ecai2016.org"><em>ECAI 2016</em></a> <b>Best Paper Award</b>: F. Mart&iacute;nez-Plumed, Ricardo Prud&ecirc;ncio, Adolfo Mart&iacute;nez-Uso, Jose Hern&aacute;ndez-Orallo, <a href="http://ebooks.iospress.com/volumearticle/44867"><em>"Making sense of item response theory in machine learning"</em></a>, The Hague (Holland), 2016.
 
-Site-wide configuration
+* <a href="http://www.journals.elsevier.com/artificial-intelligence/">Artificial Intelligence Journal</a> paper: J. Hern&aacute;ndez-Orallo, F. Mart&iacute;nez-Plumed, U. Schmid, M. Siebers, D L Dowe <em><a href="http://www.sciencedirect.com/science/article/pii/S0004370215001538">"Computer models solving intelligence test problems: progress and implications"</a></em>, 2016.
+
+* Member of the <a href="http://reframe-d2k.org/Main_Page">REFRAME</a> Project</a>.
+* <a href="http://noticias.inf.upv.es/?p=7962">1st prize</a> <a href="http://dataupv.webs.upv.es/ii-opendatathon-etsinf-upv/">II OpenDatathon ETSINF-UPV 2017</a>: <em>Valencia City council Award</em> - Project <a href="http://safe-tools.dsic.upv.es/bikeflow/"><img src="./img/bikeFlow.png" height="25"/> bikeFlow</a> - <a href="./papers/fmartinez_BikeFlow_TR.pdf">TechReport</a>.
+
+* <a href="http://hackforgood.net/el-resumen-de-hackforgood-2016/">1st Prize</a> (Local) IV Hackathon Telef&oacute;nica <em><a href="http://hackforgood.net/">HackForGood 2016</a></em> - Project <a href="http://users.dsic.upv.es/~flip/bikeXplorer/">BikeXplorer</a>.					
+
+* <a href="http://hackforgood.net/resultados-hackforgood-2016/">3rd Prize</a> (National) IV Hackathon Telef&oacute;nica <em><a href="http://hackforgood.net/">HackForGood 2016</a></em> - Project <a href="http://users.dsic.upv.es/~flip/bikeXplorer/">BikeXplorer</a>.
+* <a href="http://noticias.inf.upv.es/?p=7962">1st prize</a> <a href="http://dataupv.webs.upv.es/i-opendatathon-etsinf-upv/">I OpenDatathon ETSINF-UPV 2016</a>: <em>BigML Award for Best predictive project</em> - Project <a href="http://users.dsic.upv.es/~flip/trafico/">TrafficXplorer</a>.
+
+* Check out our Context-Aware Standard Process for Data Mining: <a href="http://www.casp-dm.org/">CASP-DM</a>.
+* Open Data believer. Part of the <a href="http://dataupv.webs.upv.es/">DataUPV</a> team.
+
+Drop me a line
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
