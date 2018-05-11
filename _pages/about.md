@@ -12,12 +12,12 @@ Postdoctoral researcher in Artificial Intelligence in the Department of Informat
 
 Recent Highlights
 ======
-* Co-organising  the 1st edition of [Architectures and Evaluation for Generality, Autonomy & Progress in AI (AEGAP2017)](http://cadia.ru.is/workshops/aegap2018/)  @ [IJCAI-ECAI 2018](https://www.ijcai-18.org/),[AAMAS 2018](http://celweb.vuse.vanderbilt.edu/aamas18/) & [ICML 2018](https://icml.cc/) to take place in Stockholm in July 2018.
+* Co-organising  the 1st Workshop on **[Architectures and Evaluation for Generality, Autonomy & Progress in AI (AEGAP2017)](http://cadia.ru.is/workshops/aegap2018/)**  @ [IJCAI-ECAI 2018](https://www.ijcai-18.org/),[AAMAS 2018](http://celweb.vuse.vanderbilt.edu/aamas18/) & [ICML 2018](https://icml.cc/) to take place in Stockholm in July 2018.
 
 			
-* Co-organised  the **2nd [Evaluating General-Purpose AI (EGPAI 2017)](http://users.dsic.upv.es/~flip/EGPAI2017/)** @ [IJCAI 2017] (http://ijcai-17.org/) at Melbourne (Australia) in August 20, 2017.
+* Co-organised  the 2nd Workshop **[Evaluating General-Purpose AI (EGPAI 2017)](http://users.dsic.upv.es/~flip/EGPAI2017/)** @ [IJCAI 2017] (http://ijcai-17.org/) at Melbourne (Australia) in August 20, 2017.
 					
-* Co-organised  the <b>1st edition of </b><a href="http://users.dsic.upv.es/~flip/DWA2016/"><b>Data Wrangling Automation</b> (DWA 2016)</b></a> @ <a href="http://icdm2016.eurecat.org/"> ICDM 2016</a> at Barcelona (Spain) in December 12, 2016.
+* Co-organised  the 1st Workshop <a href="http://users.dsic.upv.es/~flip/DWA2016/"><b>Data Wrangling Automation</b> (DWA 2016)</b></a> @ <a href="http://icdm2016.eurecat.org/"> ICDM 2016</a> at Barcelona (Spain) in December 12, 2016.
 					
 * <a href="http://www.aaai.org/Magazine/magazine.php"><em>AI Magazine</em></a> paper: Jos&eacute; Hern&aacute;ndez-Orallo, Marco Baroni, Jordi Bieger, Nader Chmait, David L. Dowe, Katja Hofmann, Fernando Mart&iacute;nez-Plumed, Claes Strannegård, Kristinn R. Thórisson, <em><a href="https://doi.org/10.1609/aimag.v38i3.2748"> "A New AI Evaluation Cosmos: Ready to Play the Game?"</a></em>, Fall 2017.
 
@@ -26,17 +26,16 @@ Recent Highlights
 * <a href="http://www.journals.elsevier.com/artificial-intelligence/">Artificial Intelligence Journal</a> paper: J. Hern&aacute;ndez-Orallo, F. Mart&iacute;nez-Plumed, U. Schmid, M. Siebers, D L Dowe <em><a href="http://www.sciencedirect.com/science/article/pii/S0004370215001538">"Computer models solving intelligence test problems: progress and implications"</a></em>, 2016.
 
 * Member of the <a href="http://reframe-d2k.org/Main_Page">REFRAME</a> Project</a>.
-* <a href="http://noticias.inf.upv.es/?p=7962">1st prize</a> <a href="http://dataupv.webs.upv.es/ii-opendatathon-etsinf-upv/">II OpenDatathon ETSINF-UPV 2017</a>: <em>Valencia City council Award</em> - Project <a href="http://safe-tools.dsic.upv.es/bikeflow/"><img src="./img/bikeFlow.png" height="25"/> bikeFlow</a> - <a href="./papers/fmartinez_BikeFlow_TR.pdf">TechReport</a>.
 
-* <a href="http://hackforgood.net/el-resumen-de-hackforgood-2016/">1st Prize</a> (Local) IV Hackathon Telef&oacute;nica <em><a href="http://hackforgood.net/">HackForGood 2016</a></em> - Project <a href="http://users.dsic.upv.es/~flip/bikeXplorer/">BikeXplorer</a>.					
+* <a href="http://hackforgood.net/el-resumen-de-hackforgood-2016/">2nd Prize</a> (Local) & 2nd Prize</a> (National) IVI Hackathon Telef&oacute;nica <em><a href="http://hackforgood.net/">HackForGood 2018</a></em> - Project <a href="http://users.dsic.upv.es/~flip/particleAI/">ParticleAI</a>.
 
-* <a href="http://hackforgood.net/resultados-hackforgood-2016/">3rd Prize</a> (National) IV Hackathon Telef&oacute;nica <em><a href="http://hackforgood.net/">HackForGood 2016</a></em> - Project <a href="http://users.dsic.upv.es/~flip/bikeXplorer/">BikeXplorer</a>.
+* <a href="http://noticias.inf.upv.es/?p=7962">1st prize</a> <a href="http://dataupv.webs.upv.es/ii-opendatathon-etsinf-upv/">II OpenDatathon ETSINF-UPV 2017</a>: <em>Valencia City council Award</em> - Project <a href="http://safe-tools.dsic.upv.es/bikeflow/"> bikeFlow</a> - <a href="./papers/fmartinez_BikeFlow_TR.pdf">TechReport</a>.
+
+* <a href="http://hackforgood.net/el-resumen-de-hackforgood-2016/">1st Prize</a> (Local) & 3rd Prize</a> (National) IV Hackathon Telef&oacute;nica <em><a href="http://hackforgood.net/">HackForGood 2016</a></em> - Project <a href="http://users.dsic.upv.es/~flip/bikeXplorer/">BikeXplorer</a>.					
+
 * <a href="http://noticias.inf.upv.es/?p=7962">1st prize</a> <a href="http://dataupv.webs.upv.es/i-opendatathon-etsinf-upv/">I OpenDatathon ETSINF-UPV 2016</a>: <em>BigML Award for Best predictive project</em> - Project <a href="http://users.dsic.upv.es/~flip/trafico/">TrafficXplorer</a>.
 
 * Check out our Context-Aware Standard Process for Data Mining: <a href="http://www.casp-dm.org/">CASP-DM</a>.
+
 * Open Data believer. Part of the <a href="http://dataupv.webs.upv.es/">DataUPV</a> team.
-
-Drop me a line
-------
-
 
