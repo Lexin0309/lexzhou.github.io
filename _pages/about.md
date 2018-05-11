@@ -27,11 +27,11 @@ Recent Highlights
 
 * Member of the <a href="http://reframe-d2k.org/Main_Page">REFRAME</a> Project</a>.
 
-* <a href="http://hackforgood.net/el-resumen-de-hackforgood-2016/">2nd Prize</a> (Local) & 2nd Prize</a> (National) IVI Hackathon Telef&oacute;nica <em><a href="http://hackforgood.net/">HackForGood 2018</a></em> - Project <a href="http://users.dsic.upv.es/~flip/particleAI/">ParticleAI</a>.
+* <a href="http://hackforgood.net/el-resumen-de-hackforgood-2016/">2nd Prize (Local) & 2nd Prize (National)</a> VI Hackathon Telef&oacute;nica <em><a href="http://hackforgood.net/">HackForGood 2018</a></em> - Project <a href="http://users.dsic.upv.es/~flip/particleAI/">ParticleAI</a>.
 
 * <a href="http://noticias.inf.upv.es/?p=7962">1st prize</a> <a href="http://dataupv.webs.upv.es/ii-opendatathon-etsinf-upv/">II OpenDatathon ETSINF-UPV 2017</a>: <em>Valencia City council Award</em> - Project <a href="http://safe-tools.dsic.upv.es/bikeflow/"> bikeFlow</a> - <a href="./papers/fmartinez_BikeFlow_TR.pdf">TechReport</a>.
 
-* <a href="http://hackforgood.net/el-resumen-de-hackforgood-2016/">1st Prize</a> (Local) & 3rd Prize</a> (National) IV Hackathon Telef&oacute;nica <em><a href="http://hackforgood.net/">HackForGood 2016</a></em> - Project <a href="http://users.dsic.upv.es/~flip/bikeXplorer/">BikeXplorer</a>.					
+* <a href="http://hackforgood.net/el-resumen-de-hackforgood-2016/">1st Prize (Local) & 3rd Prize (National)</a> IV Hackathon Telef&oacute;nica <em><a href="http://hackforgood.net/">HackForGood 2016</a></em> - Project <a href="http://users.dsic.upv.es/~flip/bikeXplorer/">BikeXplorer</a>.					
 
 * <a href="http://noticias.inf.upv.es/?p=7962">1st prize</a> <a href="http://dataupv.webs.upv.es/i-opendatathon-etsinf-upv/">I OpenDatathon ETSINF-UPV 2016</a>: <em>BigML Award for Best predictive project</em> - Project <a href="http://users.dsic.upv.es/~flip/trafico/">TrafficXplorer</a>.
 
