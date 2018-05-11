@@ -1,14 +1,10 @@
 ---
 title: "A New AI Evaluation Cosmos: Ready to Play the Game?"
 collection: publications
-permalink: /publication/2017-10-01-AImagazine.md
+permalink: /publication/2017-10-01-AImagazine
 date: 2017-10-01
 venue: 'AI Magazine'
 paperurl: 'https://doi.org/10.1609/aimag.v38i3.2748'
-citation: 'Hernández-Orallo, Jose et al. (2009). &quot;A New AI Evaluation Cosmos: Ready to Play the Game?.&quot; <i>AI Magazine</i>. Vol. 38, No 3, Fall 2017.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](https://doi.org/10.1609/aimag.v38i3.2748)
 
 Recommended citation: José Hernández-Orallo, Marco Baroni, Jordi Bieger, Nader Chmait, David L. Dowe, Katja Hofmann, Fernando Martínez-Plumed, Claes Strannegård, Kristinn R. Thórisson, "A New AI Evaluation Cosmos: Ready to Play the Game?", *AI Magazine*, Association for the Advancement of Artificial Intelligence, Vol. 38, No 3, Fall 2017. 
