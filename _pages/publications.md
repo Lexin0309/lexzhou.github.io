@@ -7,6 +7,10 @@ author_profile: true
 
 2018
 ----
+<ul>
+<li> <b>Fernando Mart&iacute;nez-Plumed</b> , Bao Sheng Loe, Peter Flach, Se&aacute;n &Oacute; h&Eacute;igeartaigh, Karina Vold, Jos&eacute; Hern&aacute;ndez-Orallo, <em><a href=""> "The Facets of Artificial Intelligence: A Framework to Track the Evolution of AI"</a></em>, <a href="https://www.ijcai-18.org/"> Proceedings of the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI 2018) </a>, Stockholm, Sweden, July 13-19, 2018.</li>
+</ul>					
+
 
 2017
 ----
