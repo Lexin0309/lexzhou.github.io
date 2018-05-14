@@ -18,7 +18,7 @@ Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, <b>Fernando Mart&iacute
 
 
 <li> Sankalp Bhatnagar, Anna Alexandrova, Shahar Avin, Stephen Cave, Lucy Cheke, Matthew Crosby, Jan Feyereis, Marta Halina, 
-Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, <b>Fernando Mart&iacute;nez-Plumed</b>, Huw Price, Henry Shevlin, Adrian Weller, Alan Wineld, and Jos&eacute; Hern&aacute;ndez-Orallo, <em><a href="http://users.dsic.upv.es/~flip/papers/Bhatnagar18_SurveyAtlas.pdf"> "A First Survey on an Atlas of Intelligence"</a></em> Technical Report, 2018.</li>
+Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, <b>Fernando Mart&iacute;nez-Plumed</b>, Huw Price, Henry Shevlin, Adrian Weller, Alan Wineld, and Jos&eacute; Hern&aacute;ndez-Orallo, <em><a href="http://users.dsic.upv.es/~flip/papers/Bhatnagar18_SurveyAtlas.pdf"> "A First Survey on an Atlas of Intelligence"</a></em>, Technical Report, 2018.</li>
 
 
 <li> Lidia Contreras-Ochando, Cristina I. Font-Juli&aacute;n, David Nieves, <b>Fernando Mart&iacute;nez-Plumed</b> <em><a href=""> "How Data Science helps build Smart Cities. Valencia as a use case"</a></em>, <a href="http://www.smartcitiesalcoy.es">Conference on Small and Medium Smart Cities Proceedings of the  </a>, Alcoy, Spain, February 14-15, 2018.</li>
