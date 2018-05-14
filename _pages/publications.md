@@ -8,19 +8,19 @@ author_profile: true
 2018
 ----
 
-* **Fernando Mart&iacute;nez-Plumed** , Bao Sheng Loe, Peter Flach, Se&aacute;n &Oacute; h&Eacute;igeartaigh, Karina Vold, Jos&eacute; Hern&aacute;ndez-Orallo, *"The Facets of Artificial Intelligence: A Framework to Track the Evolution of AI"*, Proceedings of the [27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI 2018)](https://www.ijcai-18.org/), Stockholm, Sweden, July 13-19, 2018.
+* **Fernando Mart&iacute;nez-Plumed** , Bao Sheng Loe, Peter Flach, Se&aacute;n &Oacute; h&Eacute;igeartaigh, Karina Vold, Jos&eacute; Hern&aacute;ndez-Orallo, [*"The Facets of Artificial Intelligence: A Framework to Track the Evolution of AI"*](), Proceedings of the [27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI 2018)](https://www.ijcai-18.org/), Stockholm, Sweden, July 13-19, 2018.
 
 * Sankalp Bhatnagar, Anna Alexandrova, Shahar Avin, Stephen Cave, Lucy Cheke, Matthew Crosby, Jan Feyereis, Marta Halina, 
-Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, <b>Fernando Mart&iacute;nez-Plumed</b>, Huw Price, Henry Shevlin, Adrian Weller, Alan Wineld, and Jos&eacute; Hern&aacute;ndez-Orallo, <em><a href=""> "Mapping Intelligence: Requirements and Possibilities"</a></em>, Proceedings of the <a href=""> Müller, Vincent C. (ed.), Philosophy and Theory of Artificial Intelligence 2018 </a>, Studies in Applied Philosophy, Epistemology and Rational Ethics (SAPERE), Springer, 2018.
+Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, **Fernando Mart&iacute;nez-Plumed**, Huw Price, Henry Shevlin, Adrian Weller, Alan Wineld, and Jos&eacute; Hern&aacute;ndez-Orallo, [*"Mapping Intelligence: Requirements and Possibilities"*](), Müller, Vincent C. (ed.), [Philosophy and Theory of Artificial Intelligence 2018](), Studies in Applied Philosophy, Epistemology and Rational Ethics (SAPERE), Springer, 2018.
 
-* Raul Fabra-Boluda, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, <b>Fernando Mart&iacute;nez-Plumed</b> and M. Jos&eacute; Ram&iacute;rez-Quintana, <em><a href=""> "Modelling Machine Learning Models" </a></em>, Proceedings of the <a href=""> Müller, Vincent C. (ed.), Philosophy and Theory of Artificial Intelligence 2018 </a>, Studies in Applied Philosophy, Epistemology and Rational Ethics (SAPERE), Springer, 2018.
+* Raul Fabra-Boluda, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed** and M. Jos&eacute; Ram&iacute;rez-Quintana, [*"Modelling Machine Learning Models"*](), Müller, Vincent C. (ed.), [Philosophy and Theory of Artificial Intelligence 2018](), Studies in Applied Philosophy, Epistemology and Rational Ethics (SAPERE), Springer, 2018.
 
 
 * Sankalp Bhatnagar, Anna Alexandrova, Shahar Avin, Stephen Cave, Lucy Cheke, Matthew Crosby, Jan Feyereis, Marta Halina, 
-Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, <b>Fernando Mart&iacute;nez-Plumed</b>, Huw Price, Henry Shevlin, Adrian Weller, Alan Wineld, and Jos&eacute; Hern&aacute;ndez-Orallo, <em><a href="http://users.dsic.upv.es/~flip/papers/Bhatnagar18_SurveyAtlas.pdf"> "A First Survey on an Atlas of Intelligence"</a></em>, Technical Report, 2018.
+Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, **Fernando Mart&iacute;nez-Plumed**, Huw Price, Henry Shevlin, Adrian Weller, Alan Wineld, and Jos&eacute; Hern&aacute;ndez-Orallo, [*"A First Survey on an Atlas of Intelligence"*](http://users.dsic.upv.es/~flip/papers/Bhatnagar18_SurveyAtlas.pdf), Technical Report, 2018.
 
 
-* Lidia Contreras-Ochando, Cristina I. Font-Juli&aacute;n, David Nieves, <b>Fernando Mart&iacute;nez-Plumed</b> <em><a href=""> "How Data Science helps build Smart Cities. Valencia as a use case"</a></em>, Proceedings of the <a href="http://www.smartcitiesalcoy.es"> Conference on Small and Medium Smart Cities</a>, Alcoy, Spain, February 14-15, 2018.
+* Lidia Contreras-Ochando, Cristina I. Font-Juli&aacute;n, David Nieves, **Fernando Mart&iacute;nez-Plumed**, [*"How Data Science helps build Smart Cities. Valencia as a use case"*](), Proceedings of the [Conference on Small and Medium Smart Cities](http://www.smartcitiesalcoy.es), Alcoy, Spain, February 14-15, 2018.
 
 2017
 ----
