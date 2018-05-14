@@ -8,7 +8,7 @@ author_profile: true
 2018
 ----
 <ul>
-<li> <b>Fernando Mart&iacute;nez-Plumed</b> , Bao Sheng Loe, Peter Flach, Se&aacute;n &Oacute; h&Eacute;igeartaigh, Karina Vold, Jos&eacute; Hern&aacute;ndez-Orallo, <em><a href=""> "The Facets of Artificial Intelligence: A Framework to Track the Evolution of AI"</a></em>, Proceedings of the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence <a href="https://www.ijcai-18.org/">(IJCAI-ECAI 2018) </a>, Stockholm, Sweden, July 13-19, 2018.</li>
+<li> <b>Fernando Mart&iacute;nez-Plumed</b> , Bao Sheng Loe, Peter Flach, Se&aacute;n &Oacute; h&Eacute;igeartaigh, Karina Vold, Jos&eacute; Hern&aacute;ndez-Orallo, <em><a href=""> "The Facets of Artificial Intelligence: A Framework to Track the Evolution of AI"</a></em>, Proceedings of the <a href="https://www.ijcai-18.org/"> 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI 2018) </a>, Stockholm, Sweden, July 13-19, 2018.</li>
 </ul>					
 
 
@@ -22,7 +22,7 @@ author_profile: true
 					
 <li><b>Fernando Mart&iacute;nez-Plumed</b>, <em><a href="http://dx.doi.org/10.4114/intartif.vol20iss60pp24-27">"Incremental and developmental perspectives for general-purpose learning systems"</a></em>, <a href="http://journal.iberamia.org">Inteligencia Artificial</a>, Iberamia, 20(60), 24-27, 2017.</li>
 					
-<li>Jos&eacute; Hern&aacute;ndez-Orallo, <b>Fernando Mart&iacute;nez-Plumed</b>, Ute Schmid, Michael Siebers, David L. Dowe <em><a href="https://doi.org/10.24963/ijcai.2017/711 ">"Computer models solving intelligence test problems: progress and implications (Extended Abstract)"</a></em>, <a href="https://ijcai-17.org/"> Proceedings of the 26th International Joint Conference on Artificial Intelligence (Journal track)</a>, pp 5005-5009, Melbourne, Australia, 2017.</li>
+<li>Jos&eacute; Hern&aacute;ndez-Orallo, <b>Fernando Mart&iacute;nez-Plumed</b>, Ute Schmid, Michael Siebers, David L. Dowe <em><a href="https://doi.org/10.24963/ijcai.2017/711 ">"Computer models solving intelligence test problems: progress and implications (Extended Abstract)"</a></em>, Proceedings of the  <a href="https://ijcai-17.org/"> 26th International Joint Conference on Artificial Intelligence</a>, pp 5005-5009, Melbourne, Australia, 2017.</li>
 
 <li>Jos&eacute; Hern&aacute;ndez-Orallo, Raul Fabra-Boluda, C&egrave;sar Ferri, <b>Fernando Mart&iacute;nez-Plumed</b>, M. Jos&eacute; Ram&iacute;rez-Quintana, <em><a href=""> "Modelling machine learning models" </a></em>, <a href="https://www.pt-ai.org/2017"> 3rd Conference on Philosophy & Theory of Artificial Intelligence</a> (PT-AI 2017), Leeds, UK, November, 2017.</li>
 					
