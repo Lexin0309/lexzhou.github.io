@@ -17,7 +17,7 @@ Recent Highlights
 			
 * Co-organised  the 2nd Workshop **[Evaluating General-Purpose AI (EGPAI 2017)](http://users.dsic.upv.es/~flip/EGPAI2017/)** @ [IJCAI 2017] (http://ijcai-17.org/) at Melbourne (Australia) in August 20, 2017.
 					
-* Co-organised  the 1st Workshop <a href="http://users.dsic.upv.es/~flip/DWA2016/"><b>Data Wrangling Automation</b> (DWA 2016)</b></a> @ <a href="http://icdm2016.eurecat.org/"> ICDM 2016</a> at Barcelona (Spain) in December 12, 2016.
+* Co-organised  the 1st Workshop <a href="http://users.dsic.upv.es/~flip/DWA2016/"><b>Data Wrangling Automatio (DWA 2016)</b></a> @ <a href="http://icdm2016.eurecat.org/"> ICDM 2016</a> at Barcelona (Spain) in December 12, 2016.
 					
 * <a href="http://www.aaai.org/Magazine/magazine.php"><em>AI Magazine</em></a> paper: Jos&eacute; Hern&aacute;ndez-Orallo, Marco Baroni, Jordi Bieger, Nader Chmait, David L. Dowe, Katja Hofmann, Fernando Mart&iacute;nez-Plumed, Claes Strannegård, Kristinn R. Thórisson, <em><a href="https://doi.org/10.1609/aimag.v38i3.2748"> "A New AI Evaluation Cosmos: Ready to Play the Game?"</a></em>, Fall 2017.
 
