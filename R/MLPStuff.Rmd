@@ -1,0 +1,227 @@
+---
+title: "Why in the hell do MLPs not work?!"
+author: "Nando"
+date: "4 July 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r, warning= FALSE,  cache=FALSE, message=FALSE}
+options( java.parameters = "-Xmx8g" )
+
+.lib<- c("caret", "RSNNS", "farff")
+.inst <- .lib %in% installed.packages()
+if (length(.lib[!.inst])>0) install.packages(.lib[!.inst], repos=c("http://rstudio.org/_packages", "http://cran.rstudio.com")) 
+lapply(.lib, require, character.only=TRUE)
+```
+
+```{r}
+set.seed(288)
+args <- commandArgs(trailingOnly = TRUE)
+datasets <- list.files(".", pattern = "*arff$")
+print(datasets)
+```
+
+```{r, warning= FALSE,  cache=FALSE, message=FALSE}
+
+for (id in 1:length(datasets))
+  {
+    set.seed(288)
+    selected <- id
+    datos <- readARFF(paste(datasets[selected],sep=""))
+    colnames(datos)[ncol(datos)]<-"Class"  
+    datos$Class <- as.factor(datos$Class)
+    
+    
+    ### MLP 3 hidden layers
+    
+    
+    ERROR <-  tryCatch(
+      model <- caret::train(Class ~ ., data = datos, method = "mlp", preProc =  c("center","scale"), 
+                     tuneGrid=data.frame(size=3), 
+                     trControl = trainControl(method="none")), 
+      error = function(e){return(TRUE)})
+    
+    
+     if (is.logical(ERROR)){
+            print(paste("Technique: ", "mlp_3", " - Dataset: ", datasets[selected], "-> ERROR"))
+      }else{
+            preds<- tryCatch(predict(model, newdata = datos[-ncol(datos)]), error = function(e) {return(rep(FALSE, nrow(datos)))})
+            table(preds)
+            table(datos$Class)
+            cm <-caret::confusionMatrix(preds, datos$Class)
+            overall.accuracy <- cm$overall["Accuracy"]
+            print(paste(" Technique: ", "mlp_3", " - Dataset: ", datasets[selected], "-> Train ACC: ", overall.accuracy))
+            
+      }
+    
+    ### MLP 5 hidden layers
+    
+    ERROR <-  tryCatch(
+      model <- caret::train(Class ~ ., data = datos, method = "mlp", preProc =  c("center","scale"), 
+                     tuneGrid=data.frame(size=5), 
+                     trControl = trainControl(method="none")), 
+      error = function(e){return(TRUE)})
+    
+    
+     if (is.logical(ERROR)){
+            print(paste("Technique: ", "mlp_5", " - Dataset: ", datasets[selected], "-> ERROR"))
+      }else{
+            preds<- tryCatch(predict(model, newdata = datos[-ncol(datos)]), error = function(e) {return(rep(FALSE, nrow(datos)))})
+            table(preds)
+            table(datos$Class)
+            cm <-caret::confusionMatrix(preds, datos$Class)
+            overall.accuracy <- cm$overall["Accuracy"]
+            print(paste(" Technique: ", "mlp_5", " - Dataset: ", datasets[selected], "-> Train ACC: ", overall.accuracy))
+            
+      }
+}    
+
+```
+
+```{r, warning= FALSE,  cache=FALSE, message=FALSE}
+PainInTheAss_DS <- c("credit-a.arff", "hepatitis.arff","ozone.arff")
+
+for (id in 1:length(PainInTheAss_DS))
+  {
+    set.seed(288)
+    
+    selected <- id
+    datos <- readARFF(paste(PainInTheAss_DS[selected],sep=""))
+    colnames(datos)[ncol(datos)]<-"Class"  
+    datos$Class <- as.factor(datos$Class)
+    datos$Class
+    
+    ### 1st attempt: CLEAN NAs
+    datos <- datos[complete.cases(datos), ]
+    
+    
+    
+    
+    ### MLP 3 hidden layers
+    ERROR <-  tryCatch(
+      model <- caret::train(Class ~ ., data = datos, method = "mlp", preProc =  c("center","scale"), 
+                     tuneGrid=data.frame(size=3), 
+                     trControl = trainControl(method="none")), 
+      error = function(e){return(TRUE)})
+    
+    
+     if (is.logical(ERROR)){
+            print(paste("Technique: ", "mlp_3", " - Dataset: ", PainInTheAss_DS[selected], "-> ERROR"))
+      }else{
+            preds<- tryCatch(predict(model, newdata = datos[-ncol(datos)]), error = function(e) {return(rep(FALSE, nrow(datos)))})
+            table(preds)
+            table(datos$Class)
+            cm <-caret::confusionMatrix(preds, datos$Class)
+            overall.accuracy <- cm$overall["Accuracy"]
+            print(paste(" Technique: ", "mlp_3", " - Dataset: ", PainInTheAss_DS[selected], "-> Train ACC: ", overall.accuracy))
+            
+      }
+    
+    ### MLP 5 hidden layers
+    
+    ERROR <-  tryCatch(
+      model <- caret::train(Class ~ ., data = datos, method = "mlp", preProc =  c("center","scale"), 
+                     tuneGrid=data.frame(size=5), 
+                     trControl = trainControl(method="none")), 
+      error = function(e){return(TRUE)})
+    
+    
+     if (is.logical(ERROR)){
+            print(paste("Technique: ", "mlp_5", " - Dataset: ", PainInTheAss_DS[selected], "-> ERROR"))
+      }else{
+            preds<- tryCatch(predict(model, newdata = datos[-ncol(datos)]), error = function(e) {return(rep(FALSE, nrow(datos)))})
+            table(preds)
+            table(datos$Class)
+            cm <-caret::confusionMatrix(preds, datos$Class)
+            overall.accuracy <- cm$overall["Accuracy"]
+            print(paste(" Technique: ", "mlp_5", " - Dataset: ", PainInTheAss_DS[selected], "-> Train ACC: ", overall.accuracy))
+            
+      }
+}    
+
+
+
+```
+
+
+```{r, warning= FALSE,  cache=FALSE, message=FALSE}
+
+datos <- readARFF("./profb.arff")
+datos <-cbind(datos[,-1], datos[1])
+datos <- datos[,-c(8,9)] #Quitamos "Weekday" y OVERTIME"
+writeARFF(datos, "./profb_CLEAN.arff")
+
+
+MuchMorePainInTheAss_DS <- c("profb_CLEAN.arff", "speeddating.arff")
+
+
+for (id in 1:length(MuchMorePainInTheAss_DS))
+  {
+    set.seed(288)
+    
+    selected <- id
+    datos <- readARFF(paste(MuchMorePainInTheAss_DS[selected],sep=""))
+    
+    
+    colnames(datos)[ncol(datos)] <- "Class"  
+    datos$Class <- factor(datos$Class)
+    
+    
+    ### 1st attempt: CLEAN NAs
+    datos <- datos[complete.cases(datos), ]
+    
+    
+    ### 2nd attempt:   Remove columns with variability = 0
+    datos <- datos[,!apply(datos, 2, var, na.rm=TRUE) %in%c(0)]
+    
+    
+    ### MLP 3 hidden layers
+    ERROR <-  tryCatch(
+      model <- caret::train(Class ~ ., data = datos, method = "mlp", preProc =  c("center","scale"), 
+                     tuneGrid=data.frame(size=3), 
+                     trControl = trainControl(method="none")), 
+      error = function(e){return(TRUE)})
+    
+    
+     if (is.logical(ERROR)){
+            print(paste("Technique: ", "mlp_3", " - Dataset: ", MuchMorePainInTheAss_DS[selected], "-> ERROR"))
+      }else{
+            preds<- tryCatch(predict(model, newdata = datos[-ncol(datos)]), error = function(e) {return(rep(FALSE, nrow(datos)))})
+            table(preds)
+            table(datos$Class)
+            cm <-caret::confusionMatrix(preds, datos$Class)
+            overall.accuracy <- cm$overall["Accuracy"]
+            print(paste(" Technique: ", "mlp_3", " - Dataset: ", MuchMorePainInTheAss_DS[selected], "-> Train ACC: ", overall.accuracy))
+            
+      }
+    
+    ### MLP 5 hidden layers
+    
+    ERROR <-  tryCatch(
+      model <- caret::train(Class ~ ., data = datos, method = "mlp", preProc =  c("center","scale"), 
+                     tuneGrid=data.frame(size=5), 
+                     trControl = trainControl(method="none")), 
+      error = function(e){return(TRUE)})
+    
+    
+     if (is.logical(ERROR)){
+            print(paste("Technique: ", "mlp_5", " - Dataset: ", MuchMorePainInTheAss_DS[selected], "-> ERROR"))
+      }else{
+            preds<- tryCatch(predict(model, newdata = datos[-ncol(datos)]), error = function(e) {return(rep(FALSE, nrow(datos)))})
+            table(preds)
+            table(datos$Class)
+            cm <-caret::confusionMatrix(preds, datos$Class)
+            overall.accuracy <- cm$overall["Accuracy"]
+            print(paste(" Technique: ", "mlp_5", " - Dataset: ", MuchMorePainInTheAss_DS[selected], "-> Train ACC: ", overall.accuracy))
+            
+      }
+}    
+
+
+```
+
