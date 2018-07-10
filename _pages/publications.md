@@ -12,10 +12,10 @@ author_profile: true
 
 
 * Sankalp Bhatnagar, Anna Alexandrova, Shahar Avin, Stephen Cave, Lucy Cheke, Matthew Crosby, Jan Feyereis, Marta Halina, 
-Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, **Fernando Mart&iacute;nez-Plumed**, Huw Price, Henry Shevlin, Adrian Weller, Alan Wineld, and Jos&eacute; Hern&aacute;ndez-Orallo, [*"Mapping Intelligence: Requirements and Possibilities"*](), Müller, Vincent C. (ed.), [Philosophy and Theory of Artificial Intelligence 2018](), Studies in Applied Philosophy, Epistemology and Rational Ethics (SAPERE), Springer, 2018.
+Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, **Fernando Mart&iacute;nez-Plumed**, Huw Price, Henry Shevlin, Adrian Weller, Alan Wineld, and Jos&eacute; Hern&aacute;ndez-Orallo, [*"Mapping Intelligence: Requirements and Possibilities"*](), Müller, Vincent C. (ed.), [Philosophy and Theory of Artificial Intelligence 2017](https://www.springer.com/gb/book/9783319964478), Studies in Applied Philosophy, Epistemology and Rational Ethics (SAPERE), Vol 44, ISBN 978-3-319-96447-8, Springer, 2018.
 
 
-* Raul Fabra-Boluda, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed** and M. Jos&eacute; Ram&iacute;rez-Quintana, [*"Modelling Machine Learning Models"*](), Müller, Vincent C. (ed.), [Philosophy and Theory of Artificial Intelligence 2018](), Studies in Applied Philosophy, Epistemology and Rational Ethics (SAPERE), Springer, 2018.
+* Raul Fabra-Boluda, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed** and M. Jos&eacute; Ram&iacute;rez-Quintana, [*"Modelling Machine Learning Models"*](), Müller, Vincent C. (ed.), [Philosophy and Theory of Artificial Intelligence 2017](https://www.springer.com/gb/book/9783319964478), Studies in Applied Philosophy, Epistemology and Rational Ethics (SAPERE), Vol 44, ISBN 978-3-319-96447-8, Springer, 2018.
 
 
 * Raul Fabra-Boluda, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed** and M. Jos&eacute; Ram&iacute;rez-Quintana, [*"Identifying the Machine Learning Family from Black-Box  Models"*](), Advances in Artificial Intelligence: Proceedings of the [18th Conference of the Spanish Association for Artificial Intelligence (CAEPIA 2018)](http://sci2s.ugr.es/caepia18/inicio.html), Granada, Spain, October 23--26, 2018, Lecture Notes in Artificial Intelligence (LNAI).</li>
