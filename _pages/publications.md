@@ -17,11 +17,10 @@ Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, **Fernando Mart&iacute;
 * Raul Fabra-Boluda, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed** and M. Jos&eacute; Ram&iacute;rez-Quintana, [*"Modelling Machine Learning Models"*](), Müller, Vincent C. (ed.), [Philosophy and Theory of Artificial Intelligence 2017](https://www.springer.com/gb/book/9783319964478), Studies in Applied Philosophy, Epistemology and Rational Ethics (SAPERE), Vol 44, ISBN 978-3-319-96447-8, Springer, 2018.
 
 
-* Raul Fabra-Boluda, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed** and M. Jos&eacute; Ram&iacute;rez-Quintana, [*"Identifying the Machine Learning Family from Black-Box  Models"*](), Advances in Artificial Intelligence: Proceedings of the [18th Conference of the Spanish Association for Artificial Intelligence (CAEPIA 2018)](http://sci2s.ugr.es/caepia18/inicio.html), Granada, Spain, October 23--26, 2018, Lecture Notes in Artificial Intelligence (LNAI).</li>
+* Raul Fabra-Boluda, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed** and M. Jos&eacute; Ram&iacute;rez-Quintana, [*"Identifying the Machine Learning Family from Black-Box  Models"*](), Advances in Artificial Intelligence: Proceedings of the [18th Conference of the Spanish Association for Artificial Intelligence (CAEPIA 2018)](http://sci2s.ugr.es/caepia18/inicio.html), Granada, Spain, October 23--26, 2018, Lecture Notes in Artificial Intelligence (LNAI).
 
 
-* Enrique Fern&aacute;ndez-Mac&iacute;as , Emilia Gomez, Jos&eacute; Hern&aacute;ndez-Orallo, Bao Sheng Loe, Bertin Martens, **Fernando Mart&iacute;nez-Plumed**, Song&uuml;l Tolan, [*"A multidisciplinary task-based perspective for evaluating the impact of AI autonomy and generality on the future of work"*](http://cadia.ru.is/workshops/aegap2018/papers/AEGAP_2018_Fernandez-Macias_et_al.pdf), 1st International Workshop on Architectures and Evaluation for Generality, Autonomy & Progress in AI (<a href="http://cadia.ru.is/workshops/aegap2018/">AEGAP 2018</a> @ <a href="https://ijcai-17.org/">IJCAI 2018</a>), Stockholm, Sweden, July 15, 2018. </li>
-
+* Enrique Fern&aacute;ndez-Mac&iacute;as , Emilia Gomez, Jos&eacute; Hern&aacute;ndez-Orallo, Bao Sheng Loe, Bertin Martens, **Fernando Mart&iacute;nez-Plumed**, Song&uuml;l Tolan, [*"A multidisciplinary task-based perspective for evaluating the impact of AI autonomy and generality on the future of work"*](http://cadia.ru.is/workshops/aegap2018/papers/AEGAP_2018_Fernandez-Macias_et_al.pdf), 1st International Workshop on Architectures and Evaluation for Generality, Autonomy & Progress in AI (<a href="http://cadia.ru.is/workshops/aegap2018/">AEGAP 2018</a> @ <a href="https://ijcai-17.org/">IJCAI 2018</a>), Stockholm, Sweden, July 15, 2018. 
 
 * Lidia Contreras-Ochando, Cristina I. Font-Juli&aacute;n, David Nieves, **Fernando Mart&iacute;nez-Plumed**, [*"How Data Science helps build Smart Cities. Valencia as a use case"*](http://hdl.handle.net/10251/104672), Cantó Colomina, B. (ed.), Proceedings of the [Congress on Small and Medium Smart Cities](http://www.smartcitiesalcoy.es), ISBN 978-84-09-02970-9, pp 3-11, Alcoy, Spain, February 14-15, 2018.
 
@@ -90,15 +89,15 @@ Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, **Fernando Mart&iacute;
 2015
 ----
 
-<ul>
-<li><b>Fernando Mart&iacute;nez-Plumed</b>, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, M. Jos&eacute; Ram&iacute;rez-Quintana, <em><a href="http://dx.doi.org/10.1177/1059712315608675">"Knowledge acquisition with forgetting: an incremental and developmental setting"</a></em>, Adaptive Behavior, SAGE Publications, vol. 23 no. 5, pp 283-299, 2015. [<a href="./papers/Adaptive15.bib">BibTex</a>]</li>
-					
-<li><b>Fernando Mart&iacute;nez-Plumed</b>, <em><a href="http://dx.doi.org/10.4230/DagRep.5.10.89">"Knowledge Acquisition & Forgetting in Rule-based systems"</a></em>, Approaches and Applications of Inductive Programming (AAIP'15), Dagstuhl Seminar 15442, Germany, 2015. [<a href="./papers/dagstuhl15.bib">BibTex</a> | <a href="https://prezi.com/xpq5cmmw3m83/knowledge-acquisition-forgetting/">Slides</a>]</li>
-					
-<li>Adolfo Mart&iacute;nez-Us&oacute, Jos&eacute; Hern&aacute;ndez-Orallo, M.Jos&eacute; Ram&iacute;rez-Quintana, and  <b>Fernando Mart&iacute;nez-Plumed</b>, <em><a href="http://dx.doi.org/10.1007/978-3-319-24598-0_21">"Pentaho + R: An integral view for multidimensional prediction models"</a></em>, Advances in Artificial Intelligence: Proceedings of the [16th Conference of the Spanish Association for Artificial Intelligence (CAEPIA 2015)](http://simd.albacete.org/caepia15/), Albacete, Spain, November 9--12, 2015, Lecture Notes in Artificial Intelligence (LNAI), Volume 9422, pp 234-244. [<a href="./papers/CAEPIA15.bib">BibTex</a>]</li>
 
-<li><b>Fernando Mart&iacute;nez-Plumed</b>, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, M. Jos&eacute; Ram&iacute;rez-Quintana, <em><a href="http://arxiv.org/abs/1502.05615">"Forgetting and consolidation for incremental and cumulative knowledge acquisition systems"</a></em>, CoRR, abs/1502.05615, 2015. [<a href="./papers/CorrForgetting.bib">BibTex</a>]</li>
-</ul>
+* <b>Fernando Mart&iacute;nez-Plumed</b>, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, M. Jos&eacute; Ram&iacute;rez-Quintana, <em><a href="http://dx.doi.org/10.1177/1059712315608675">"Knowledge acquisition with forgetting: an incremental and developmental setting"</a></em>, Adaptive Behavior, SAGE Publications, vol. 23 no. 5, pp 283-299, 2015. [<a href="./papers/Adaptive15.bib">BibTex</a>]
+					
+* <b>Fernando Mart&iacute;nez-Plumed</b>, <em><a href="http://dx.doi.org/10.4230/DagRep.5.10.89">"Knowledge Acquisition & Forgetting in Rule-based systems"</a></em>, Approaches and Applications of Inductive Programming (AAIP'15), Dagstuhl Seminar 15442, Germany, 2015. [<a href="./papers/dagstuhl15.bib">BibTex</a> | <a href="https://prezi.com/xpq5cmmw3m83/knowledge-acquisition-forgetting/">Slides</a>]
+					
+* Adolfo Mart&iacute;nez-Us&oacute, Jos&eacute; Hern&aacute;ndez-Orallo, M.Jos&eacute; Ram&iacute;rez-Quintana, and  <b>Fernando Mart&iacute;nez-Plumed</b>, <em><a href="http://dx.doi.org/10.1007/978-3-319-24598-0_21">"Pentaho + R: An integral view for multidimensional prediction models"</a></em>, Advances in Artificial Intelligence: Proceedings of the [16th Conference of the Spanish Association for Artificial Intelligence (CAEPIA 2015)](http://simd.albacete.org/caepia15/), Albacete, Spain, November 9--12, 2015, Lecture Notes in Artificial Intelligence (LNAI), Volume 9422, pp 234-244. [<a href="./papers/CAEPIA15.bib">BibTex</a>]
+
+* <b>Fernando Mart&iacute;nez-Plumed</b>, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, M. Jos&eacute; Ram&iacute;rez-Quintana, <em><a href="http://arxiv.org/abs/1502.05615">"Forgetting and consolidation for incremental and cumulative knowledge acquisition systems"</a></em>, CoRR, abs/1502.05615, 2015. [<a href="./papers/CorrForgetting.bib">BibTex</a>]
+
 			
 
 2014
