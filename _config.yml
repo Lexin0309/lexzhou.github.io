@@ -10,6 +10,7 @@ locale                   : "en-EN"
 title                    : "Fernando Martínez-Plumed // Homepage"
 title_separator          : "-"
 name                     : &name "Fernando Martínez-Plumed"
+theme                    : jekyll-theme-hacker
 description              : &description "Homepage"
 url                      : https://nandomp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -67,7 +68,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-theme: jekyll-theme-hacker
 
 
 # Analytics
