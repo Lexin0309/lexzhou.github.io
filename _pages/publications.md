@@ -31,7 +31,7 @@ Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, **Fernando Mart&iacute;
 Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, **Fernando Mart&iacute;nez-Plumed**, Huw Price, Henry Shevlin, Adrian Weller, Alan Wineld, and Jos&eacute; Hern&aacute;ndez-Orallo, [*"A First Survey on an Atlas of Intelligence"*](http://users.dsic.upv.es/~flip/papers/Bhatnagar18_SurveyAtlas.pdf), Technical Report, 2018.
 
 
- **Fernando Mart&iacute;nez-Plumed**, Shahar Avin, Miles Brundage, Allan Dafoe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, JJos&eacute; Hern&aacute;ndez-Orallo: [*"Accounting for the Neglected Dimensions of AI Progress"*], CoRR abs/1806.00610, 2018.
+*  **Fernando Mart&iacute;nez-Plumed**, Shahar Avin, Miles Brundage, Allan Dafoe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, JJos&eacute; Hern&aacute;ndez-Orallo: [*"Accounting for the Neglected Dimensions of AI Progress"*](https://arxiv.org/abs/1709.09003), CoRR abs/1806.00610, 2018.
 
 2017
 ----
