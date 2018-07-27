@@ -22,6 +22,8 @@ Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, **Fernando Mart&iacute;
 
 * Enrique Fern&aacute;ndez-Mac&iacute;as , Emilia Gomez, Jos&eacute; Hern&aacute;ndez-Orallo, Bao Sheng Loe, Bertin Martens, **Fernando Mart&iacute;nez-Plumed**, Song&uuml;l Tolan, [*"A multidisciplinary task-based perspective for evaluating the impact of AI autonomy and generality on the future of work"*](http://cadia.ru.is/workshops/aegap2018/papers/AEGAP_2018_Fernandez-Macias_et_al.pdf), 1st International Workshop on Architectures and Evaluation for Generality, Autonomy & Progress in AI (<a href="http://cadia.ru.is/workshops/aegap2018/">AEGAP 2018</a> @ <a href="https://ijcai-17.org/">IJCAI 2018</a>), Stockholm, Sweden, July 15, 2018. 
 
+* **Fernando Mart&iacute;nez-Plumed**, Juan Carlos Casamayor, C&egrave;sar Ferri, Jon Ander G&oacute;mez, Eduardo Vendrell, [*"SALER: a Data Science solution to detect and prevent corruption in public administration"*](), 3rd International Workshop on Data Science for Social Good (SoGood 2018 (<a href="https://sites.google.com/site/ecmlpkddsogood2018/">SoGood 2018</a> @ <a href="http://www.ecmlpkdd2018.org/">ECML 2018</a>), Dublin, Ireland, September 10--14, 2018. 
+
 * Lidia Contreras-Ochando, Cristina I. Font-Juli&aacute;n, David Nieves, **Fernando Mart&iacute;nez-Plumed**, [*"How Data Science helps build Smart Cities. Valencia as a use case"*](http://hdl.handle.net/10251/104672), Cantó Colomina, B. (ed.), Proceedings of the [Congress on Small and Medium Smart Cities](http://www.smartcitiesalcoy.es), ISBN 978-84-09-02970-9, pp 3-11, Alcoy, Spain, February 14-15, 2018.
 
 
