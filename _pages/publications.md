@@ -36,6 +36,8 @@ Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, **Fernando Mart&iacute;
 
 *  **Fernando Mart&iacute;nez-Plumed**, Jon Ander G&oacute;mez, C&egrave;sar Ferri, [*"El uso de las herramientas big data en la lucha contra la corrupci&oacute;n - Sistema de Alertas Tempranas de la Generalitat Valenciana: La estructura informática del sistema de alertas tempranas"*](https://pti.clad.org/web/congreso.php/paneles-aprobados-detalle/2887),[ XXIII Congreso Internacional del CLAD](https://www.clad.org/congresos/xxiii-congreso) sobre la Reforma del Estado y de la Administraci&oacute;n P&uacute;blica, Guadalajara, M&eacute;xico, 6-9 November, 2018.
 
+ **Fernando Mart&iacute;nez-Plumed**: [*"Applying Data Science to Fraud Prevention and Detection: SALER Analytics"*](https://pti.clad.org/web/congreso.php/paneles-aprobados-detalle/2887),[X Jornadas de usuarios R (XJUR)](http://r-es.org/XjuR/), Murcia, Spain, 22-23 November, 2018.
+
 *  **Fernando Mart&iacute;nez-Plumed**, Shahar Avin, Miles Brundage, Allan Dafoe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Accounting for the Neglected Dimensions of AI Progress"*](https://arxiv.org/abs/1806.00610),  CoRR abs/1806.00610, 2018.
 
 *  **Fernando Mart&iacute;nez-Plumed**, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Analysing Results from AI Benchmarks: Key Indicators and How to Obtain Them"*](https://arxiv.org/abs/1811.08186),  CoRR abs/1811.08186, 2018.
