@@ -4,20 +4,28 @@ permalink: /publications/
 author_profile: true
 ---
 
+2019
+----
+* **Fernando Mart&iacute;nez-Plumed**, Ricardo B. C. Prud&ecirc;ncio, Adolfo Mart&iacute;nez-Uso, Jos&eacute; Hern&aacute;ndez-Orallo:  [*"Item Response Theory in AI: Analysing Machine Learning Classifiers at the Instance Level"*](), [Artificial Intelligence Journal](https://www.journals.elsevier.com/artificial-intelligence), Elsevier Publications, to appear, 2019.
+
+*  Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed**, Shahar Avin and Se&aacute;n &Oacute; H&Eacute;igeartaigh: [*"Surveying Safety-relevant AI Characteristics"*](), [The AAAI's Workshop on Artificial Intelligence Safety (SafeAI)](https://safeai.webs.upv.es/), Honolulu, Hawaii, USA, January 27, 2019.
+
+
 2018
 ----
+* **Fernando Mart&iacute;nez-Plumed**, Jos&eacute; Hern&aacute;ndez-Orallo, [*"Dual Indicators to Analyse AI Benchmarks: Difficulty, Discrimination, Ability and Generality"*](https://doi.org/10.1109/TG.2018.2883773), [IEEE Transactions on Games](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673) (Early Access), November, 2018.
 
 * **Fernando Mart&iacute;nez-Plumed** , Bao Sheng Loe, Peter Flach, Se&aacute;n &Oacute; h&Eacute;igeartaigh, Karina Vold, Jos&eacute; Hern&aacute;ndez-Orallo, [*"The Facets of Artificial Intelligence: A Framework to Track the Evolution of AI"*](https://www.ijcai.org/proceedings/2018/718), Proceedings of the [27th International Joint Conference on Artificial Intelligence (IJCAI 2018)](https://www.ijcai-18.org/), pp 5180-5187, Stockholm, Sweden, July 13-19, 2018.
 
 
 * Sankalp Bhatnagar, Anna Alexandrova, Shahar Avin, Stephen Cave, Lucy Cheke, Matthew Crosby, Jan Feyereis, Marta Halina, 
-Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, **Fernando Mart&iacute;nez-Plumed**, Huw Price, Henry Shevlin, Adrian Weller, Alan Wineld, and Jos&eacute; Hern&aacute;ndez-Orallo, [*"Mapping Intelligence: Requirements and Possibilities"*](), Müller, Vincent C. (ed.), [Philosophy and Theory of Artificial Intelligence 2017](https://www.springer.com/gb/book/9783319964478), Studies in Applied Philosophy, Epistemology and Rational Ethics (SAPERE), Vol 44, ISBN 978-3-319-96447-8, Springer, 2018.
+Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, **Fernando Mart&iacute;nez-Plumed**, Huw Price, Henry Shevlin, Adrian Weller, Alan Wineld, and Jos&eacute; Hern&aacute;ndez-Orallo, [*"Mapping Intelligence: Requirements and Possibilities"*](https://doi.org/10.1007/978-3-319-96448-5_13), Müller, Vincent C. (ed.), [Philosophy and Theory of Artificial Intelligence 2017](https://www.springer.com/gb/book/9783319964478), Studies in Applied Philosophy, Epistemology and Rational Ethics (SAPERE), Vol 44, ISBN 978-3-319-96447-8, Springer, 2018.
 
 
-* Raul Fabra-Boluda, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed** and M. Jos&eacute; Ram&iacute;rez-Quintana, [*"Modelling Machine Learning Models"*](), Müller, Vincent C. (ed.), [Philosophy and Theory of Artificial Intelligence 2017](https://www.springer.com/gb/book/9783319964478), Studies in Applied Philosophy, Epistemology and Rational Ethics (SAPERE), Vol 44, ISBN 978-3-319-96447-8, Springer, 2018.
+* Raul Fabra-Boluda, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed** and M. Jos&eacute; Ram&iacute;rez-Quintana, [*"Modelling Machine Learning Models"*](https://doi.org/10.1007/978-3-319-96448-5_16), In: Müller, Vincent C. (ed.), [Philosophy and Theory of Artificial Intelligence 2017](https://www.springer.com/gb/book/9783319964478), Studies in Applied Philosophy, Epistemology and Rational Ethics (SAPERE), Vol 44, ISBN 978-3-319-96447-8, Springer, 2018.
 
 
-* Raul Fabra-Boluda, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed** and M. Jos&eacute; Ram&iacute;rez-Quintana, [*"Identifying the Machine Learning Family from Black-Box  Models"*](), Advances in Artificial Intelligence: Proceedings of the [18th Conference of the Spanish Association for Artificial Intelligence (CAEPIA 2018)](http://sci2s.ugr.es/caepia18/inicio.html), Granada, Spain, October 23--26, 2018, Lecture Notes in Artificial Intelligence (LNAI).
+* Raul Fabra-Boluda, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed** and M. Jos&eacute; Ram&iacute;rez-Quintana, [*"Identifying the Machine Learning Family from Black-Box  Models"*](), Advances in Artificial Intelligence: Proceedings of the [18th Conference of the Spanish Association for Artificial Intelligence (CAEPIA 2018)](http://sci2s.ugr.es/caepia18/inicio.html), Lecture Notes in Artificial Intelligence (LNAI), volumen 11160, 55--65, Granada, Spain, October 23–26, 2018. 
 
 
 * Enrique Fern&aacute;ndez-Mac&iacute;as , Emilia Gomez, Jos&eacute; Hern&aacute;ndez-Orallo, Bao Sheng Loe, Bertin Martens, **Fernando Mart&iacute;nez-Plumed**, Song&uuml;l Tolan, [*"A multidisciplinary task-based perspective for evaluating the impact of AI autonomy and generality on the future of work"*](http://cadia.ru.is/workshops/aegap2018/papers/AEGAP_2018_Fernandez-Macias_et_al.pdf), 1st International Workshop on Architectures and Evaluation for Generality, Autonomy & Progress in AI (<a href="http://cadia.ru.is/workshops/aegap2018/">AEGAP 2018</a> @ <a href="https://ijcai-17.org/">IJCAI 2018</a>), Stockholm, Sweden, July 15, 2018. (Also in [arXiv](https://arxiv.org/abs/1807.02416))
@@ -29,6 +37,12 @@ Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, **Fernando Mart&iacute;
 *  **Fernando Mart&iacute;nez-Plumed**, Jon Ander G&oacute;mez, C&egrave;sar Ferri, [*"El uso de las herramientas big data en la lucha contra la corrupci&oacute;n - Sistema de Alertas Tempranas de la Generalitat Valenciana: La estructura informática del sistema de alertas tempranas"*](https://pti.clad.org/web/congreso.php/paneles-aprobados-detalle/2887),[ XXIII Congreso Internacional del CLAD](https://www.clad.org/congresos/xxiii-congreso) sobre la Reforma del Estado y de la Administraci&oacute;n P&uacute;blica, Guadalajara, M&eacute;xico, 6-9 November, 2018.
 
 *  **Fernando Mart&iacute;nez-Plumed**, Shahar Avin, Miles Brundage, Allan Dafoe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Accounting for the Neglected Dimensions of AI Progress"*](https://arxiv.org/abs/1806.00610),  CoRR abs/1806.00610, 2018.
+
+*  **Fernando Mart&iacute;nez-Plumed**, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Analysing Results from AI Benchmarks: Key Indicators and How to Obtain Them"*](https://arxiv.org/abs/1811.08186),  CoRR abs/1811.08186, 2018.
+
+*  Enrique Fern&aacute;ndez-Mac&iacute;as, Emilia G&oacute;mez, Jos&eacute; Hern&aacute;ndez-Orallo, Bao Sheng Loe, Bertin Martens, **Fernando Mart&iacute;nez-Plumed**, Song&uuml;l Tolan: [*"A multidisciplinary task-based perspective for evaluating the impact of AI autonomy and generality on the future of work"*](https://arxiv.org/abs/1807.02416),  CoRR abs/1807.02416, 2018.
+
+*  Lidia Contreras-Ochando, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed** and M. Jos&eacute; Ram&iacute;rez-Quintana: [*"General-purpose Declarative Inductive Programming with Domain-Specific Background Knowledge for Data Wrangling Automation"*](https://arxiv.org/abs/1809.10054),  CoRR abs/1809.10054, 2018.
 
 * Sankalp Bhatnagar, Anna Alexandrova, Shahar Avin, Stephen Cave, Lucy Cheke, Matthew Crosby, Jan Feyereis, Marta Halina, 
 Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, **Fernando Mart&iacute;nez-Plumed**, Huw Price, Henry Shevlin, Adrian Weller, Alan Wineld, and Jos&eacute; Hern&aacute;ndez-Orallo, [*"A First Survey on an Atlas of Intelligence"*](http://users.dsic.upv.es/~flip/papers/Bhatnagar18_SurveyAtlas.pdf), Technical Report, 2018.
