@@ -1,0 +1,579 @@
+---
+title: "Missing Fairness"
+description: | 
+  Analysis of fairness metrics with missing data (work in progress)
+date : January 7, 2019
+author:
+  - name: "David Nieves-Cordones"
+    url: https://github.com/DNC87
+    affiliation: Technical University of valencia
+    affiliation_url:: daniecor@dsic.upv.es
+  - name: "Fernando Martinez-Plumed"
+    url: https://nandomp.github.io/
+    affiliation: Technical University of valencia
+    affiliation_url:: fmartinez@dsic.upv.es
+citation_url: https://nandomp.github.io/R/missingFairness.html
+slug: nieves2019missingfairness
+output: 
+  radix::radix_article: 
+    toc: true
+    toc_depth: 3
+---
+
+```{r include=FALSE}
+
+.lib<- c("DescTools","digest", "VIM","mice","missForest", "data.table", "DT", "dplyr")
+.inst <- .lib %in% installed.packages()
+if (length(.lib[!.inst])>0) install.packages(.lib[!.inst], repos=c("http://rstudio.org/_packages", "http://cran.rstudio.com")) 
+lapply(.lib, require, character.only=TRUE)
+
+options("scipen"=1000000)
+options( java.parameters = "-Xmx8g")
+
+fm <- fread("results/output_results_seed_1+RW+AD.csv", stringsAsFactors = T)
+# sapply(fm, class)
+# datatable(fm)
+fm.pre <- filter(fm, phase == "preprocessing", metric2 == "value")
+fm.in <-  filter(fm, phase == "inprocessing", metric2 == "value")
+# unique(fm.pre$metric)
+# unique(fm.in$metric)
+
+# Percentage of missing data per attribute
+pMiss <- function(x){sum(is.na(x))/length(x)*100}
+
+# Percentage of  data == "" per attribute
+pVal <- function(x,VAL){sum(x=="")/length(x)*100}
+
+# Plit missing Values
+plotMissing <- function(data, title){
+  title <- paste("Proportion of missingness", title)
+  plot <- aggr(data, col=c('azure3','aquamarine'),
+               numbers=TRUE, sortVars=TRUE,
+               labels=names(data), cex.axis=.7,
+               gap=3, ylab=c(title,"Pattern"))
+  return(plot)
+}
+```
+
+# Datasets
+
+## Adult Census Income
+
+**Description**: 
+
+Prediction task is to determine whether a person makes over 50K a year. Extraction was done by Barry Becker from the 1994 Census database. A set of reasonably clean records was extracted using the following conditions: ((AAGE>16) && (AGI>100) && (AFNLWGT>1)&& (HRSWK>0))
+
+**Cite**: 
+
+Ron Kohavi, "Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid", Proceedings of the Second International Conference on Knowledge Discovery and Data Mining, 1996
+
+**Fariness Analysis**:
+
+For protected attribute sex, Male is privileged, and Female is unprivileged. For protected attribute race, White is privileged, and Non-white is unprivileged. Favorable label is High income (> 50K) and unfavorable label is Low income (<= 50K).
+
+**Missing Values**:
+
+```{r echo = FALSE, warning = FALSE, layout="l-body-outset"}
+data <- readRDS("OK_datasets/Adult/Adult_orig.rds")
+plotMissing(data, "Adult")
+
+```
+
+
+## Titanic
+
+**Description**:
+
+The kaggle Titanic dataset, describing the survival status of individual passengers on the Titanic. The titanic data does not contain information from the crew, but it does contain actual ages of half of the passengers. The principal source for data about Titanic passengers is the Encyclopedia Titanica. The datasets used here were begun by a variety of researchers. One of the original sources is Eaton & Haas (1994) Titanic: Triumph and Tragedy, Patrick Stephens Ltd, which includes a passenger list created by many researchers and edited by Michael A. Findlay. For more information about how this dataset was constructed: http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic3info.txt
+
+**Cite**:
+
+http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic.html
+
+**Fariness Analysis**:
+
+For protected attribute **sex**, Female is privileged, and Male is unprivileged. For protected attribute **pclass** (proxy for socio-economic class), 1st class is privileged, and 2n and 3rd class are unprivileged. Favorable label is survived (survived = TRUE) and unfavorable label is die (Survived = FALSE).
+
+**Missing Values**:
+
+```{r echo = FALSE, warning = FALSE, layout="l-body-outset"}
+data <- readRDS("OK_datasets/Titanic/TitanicKaggle.rds")
+plotMissing(data, "Titanic")
+
+```
+
+## Irish
+
+**Description**:
+
+Data on educational transitions for a sample of 500 Irish schoolchildren aged 11 in 1967. The data were collected by Greaney and Kelleghan (1984), and reanalyzed by Raftery and Hout (1985, 1993).
+
+**Cite**:
+
+http://lib.stat.cmu.edu/datasets/irish.ed 
+
+**Fariness Analysis**:
+
+For protected attribute **sex**, Male is privileged, and Female is unprivileged (Irish_1 version). For protected attribute **sex**, Female is privileged, and Male is unprivileged (Irish_2 version). In both versions, favorable label is Leaving Certificate taken (1) and unfavorable label is Leaving Certificate not taken (2).
+
+**Missing Values**:
+
+```{r echo = FALSE, warning = FALSE, layout="l-body-outset"}
+data <- readRDS("OK_datasets/Irish/irish.rds")
+plotMissing(data, "Irish")
+
+```
+
+
+# Imputation Methods
+
+* **Remove Columns** (Col): Remove columns containing missing values.
+
+* **Minimum** (Min): Replace missing value with minimum observed values (library **Hmisc**).
+
+* **Mean or Mode** (Mean/Mode): Replace missing value with mean (if numeric) or mode (if categorical) of values  observed (library **Hmisc**).
+
+* **Random** (Random): Draw random values for imputation, with the random values not forced to be the same if there are multiple NAs (library **Hmisc**).
+
+* **Sample** (Sample): Random sample from observed values. (library **MICE**)
+
+* **Predictive Mean Matching** (PPM): Imputation of y by predictive mean matching, based on van Buuren (2012, p. 73). For each observation in a variable with missing value, it finds an observation (from available values)  with the closest predictive mean to that variable. The observed value from this "match" is then used as imputed value. (library **MICE**)
+
+* **Classification and regression trees** (CART): Imputation of y by classification and regression trees. The procedure is as follows: (1) Fit a classification or regression tree by recursive partitioning; (2) For each ymis, find the terminal node they end up according to the fitted tree; (3) Make a random draw among the member in the node, and take the observed value from that draw as the imputation. (library **MICE**)
+
+* **Random Forest** (RF): Imputation of missing values particularly in the case of mixed-type data. It uses a random forest trained on the observed values of a data matrix to predict the missing values. It can be used to impute continuous and/or categorical data including complex interactions and non-linear relations. (library **missForest**).
+
+* **Best** (Best): Best combination of imputation methods depending on the variables: *PMM* for numeric variables; *logistic Regression* for binary Variables (with 2 levels); *bayesian polytomous regression* for factor Variables (>= 2 levels); and *proportional odds model* for ordered variables (>= 2 levels). (library **MICE**).
+
+
+# Phases
+
+Fairness pipeline followed (from [AIF360](https://github.com/IBM/AIF360)). An example instantiation of this generic pipeline consists of loading data into a  dataset object, transforming it into a fairer dataset using a fair pre-processing algorithm, learning a  classifier from this transformed dataset, and obtaining predictions from this classifier. Metrics can be calculated on the original, transformed, and predicted datasets as well as between the transformed and predicted datasets. Many other instantiations are also possible.
+
+
+```{r layout="l-body-outset", fig.cap="Figure from https://github.com/IBM/AIF360", out.extra="class=external"}
+knitr::include_graphics("AIF360Phases.png")
+```
+
+## Preprocessing: Dataset Fairness Metrics
+
+**Metrics**:
+
+* **Mean Difference** (MD): Computed as the difference of the rate of favorable outcomes received by the unprivileged group to the privileged group. The ideal value of this metric is 0.0.
+
+* **Statistical Parity Difference** (SPD): This is the difference in the probability of favorable outcomes between the unprivileged and privileged groups. This can be computed both from the **input dataset** as well as from the dataset output from a classifier (predicted dataset). A value of 0 implies both groups have equal benefit, a value less than 0 implies higher benefit for the privileged group, and a value greater than 0 implies higher benefit for the unprivileged group.
+
+* **Disparate Impact** (DI): This is the ratio in the probability of favorable outcomes between the unprivileged and privileged groups. This can be computed both from the **input dataset** as well as from the dataset output from a classifier (predicted dataset). A value of 1 implies both groups have equal benefit, a value less than 1 implies higher benefit for the privileged group, and a value greater than 1 implies higher benefit for the unprivileged group.
+
+### Datasets withouth fair pre-processing
+
+**Results**:
+
+```{r echo = FALSE, layout="l-page"}
+fm.pre <- filter(fm, phase == "preprocessing", technique == "none", metric %in% c("MD", "SPD", "DI"), metric2 == "value")
+fm.pre <- select(fm.pre, dataset, attProtected, technique, metric, imputation, value)
+tmp <- filter(fm.pre, imputation == "Cols")
+tmp2 <- merge(fm.pre, tmp, by.x = c("dataset", "attProtected", "technique", "metric"), by.y = c("dataset", "attProtected", "technique", "metric"), all.x = T)
+
+fm.pre <- select(tmp2, dataset, attProtected, technique, metric, imputation.x, value.x)
+#fm.pre$Ref_Cols <- tmp2$value.y
+fm.pre$diff_w_Cols <- tmp2$value.x - tmp2$value.y
+
+colnames(fm.pre) <- c("dataset", "attProtected",  "preProcess", "metric", "imputation", "value", "diff_w_Cols")
+
+dt <- datatable(fm.pre, extensions = c('Buttons', 'ColReorder'), filter = 'top', selection = 'single', 
+                    options = list(lengthMenu = list(c(10, 30, 100, -1), c('10', '30', '100', 'All')),
+                                   pageLength = 10,
+                                   dom = 'rtipl',
+                                   buttons = c('copy', 'csv', 'excel', 'pdf', 'print'),
+                                   colReorder = TRUE,
+                                   columnDefs = list(list(
+                                     targets = c(1:ncol(fm.pre)),
+                                     render = JS(
+                                       "function(data, type, row, meta) {",
+                                       "return type === 'display' && data.length > 20 ?",
+                                       "'<span title=\"' + data + '\">' + data.substr(0, 20) + '...</span>' : data;",
+                                       "}")
+                                   ))
+                    )) %>% formatStyle(
+                        'metric',
+                        target = 'row',
+                        lineHeight='70%',
+                        backgroundColor = styleEqual(c("MD","SPD","DI"), c(rgb(238/255,255/255,255/255),rgb(187/255,187/255,221/255),rgb(221/255,215/255,218/255)))
+                      ) 
+dt %>% formatStyle(names(fm.pre)[length(names(fm.pre))],
+                        background = styleColorBar(range(fm.pre$diff_w_Cols), 'aquamarine'),
+                        backgroundSize = '98% 88%',
+                        backgroundRepeat = 'no-repeat',
+                        backgroundPosition = 'center') 
+
+```
+
+**Analysis**:
+
+We consider the imputed dataset "Cols" (where we remove columns containing missing values) as the gold standar to which we compare the results obtained in the other imputed datasets.
+
+* Imputation methods do NOT affect preprocessing fairness metrics as they only take into acount protected and outcome attributes (withouth missing values). 
+
+
+### Datasets with fair pre-processing
+
+**Technique** :
+
+* **Reweighting** (RW):  Reweighing (Kamiran & Calders, 2012) generates weights for the training examples in each (group, label) combination differently to ensure fairness before classification. 
+
+**Results**:
+
+```{r echo = FALSE, layout="l-page"}
+fm.pre <- filter(fm, phase == "preprocessing", technique != "none", metric %in% c("MD", "SPD", "DI"), metric2 == "value")
+fm.pre <- select(fm.pre, dataset, attProtected, technique, metric, imputation, value)
+tmp <- filter(fm.pre, imputation == "Cols")
+tmp2 <- merge(fm.pre, tmp, by.x = c("dataset", "attProtected", "technique", "metric"), by.y = c("dataset", "attProtected", "technique", "metric"), all.x = T)
+
+fm.pre <- select(tmp2, dataset, attProtected, technique, metric, imputation.x, value.x)
+#fm.pre$Ref_Cols <- tmp2$value.y
+fm.pre$diff_w_Cols <- tmp2$value.x - tmp2$value.y
+
+colnames(fm.pre) <- c("dataset", "attProtected",  "preProcess", "metric", "imputation", "value", "diff_w_Cols")
+
+
+dt <- datatable(fm.pre, extensions = c('Buttons', 'ColReorder'), filter = 'top', selection = 'single', 
+                    options = list(lengthMenu = list(c(10, 30, 100, -1), c('10', '30', '100', 'All')),
+                                   pageLength = 10,
+                                   dom = 'rtipl',
+                                   buttons = c('copy', 'csv', 'excel', 'pdf', 'print'),
+                                   colReorder = TRUE,
+                                   columnDefs = list(list(
+                                     targets = c(1:ncol(fm.pre)),
+                                     render = JS(
+                                       "function(data, type, row, meta) {",
+                                       "return type === 'display' && data.length > 20 ?",
+                                       "'<span title=\"' + data + '\">' + data.substr(0, 20) + '...</span>' : data;",
+                                       "}")
+                                   ))
+                    )) %>% formatStyle(
+                        'metric',
+                        target = 'row',
+                        lineHeight='70%',
+                        backgroundColor = styleEqual(c("MD","SPD","DI"), c(rgb(238/255,255/255,255/255),rgb(187/255,187/255,221/255),rgb(221/255,215/255,218/255)))
+                      ) 
+dt %>% formatStyle(names(fm.pre)[length(names(fm.pre))],
+                        background = styleColorBar(range(fm.pre$diff_w_Cols), 'aquamarine'),
+                        backgroundSize = '98% 88%',
+                        backgroundRepeat = 'no-repeat',
+                        backgroundPosition = 'center') 
+
+```
+
+
+
+**Analysis**:
+
+We consider the imputed dataset "Cols" (where we remove columns containing missing values) as the gold standar to which we compare the results obtained in the other imputed datasets.
+
+* RW is applied after imputing missing values (cannot be done before), so the previous analysis applies to this case.
+
+## Inprocessing: (Fairness-aware) Model Metrics
+
+* **Statistical Parity Difference** (SPD): This is the difference in the probability of favorable outcomes between the unprivileged and privileged groups. This can be computed both from the input dataset as well as from the **dataset output from a classifier (predicted dataset)**. A value of 0 implies both groups have equal benefit, a value less than 0 implies higher benefit for the privileged group, and a value greater than 0 implies higher benefit for the unprivileged group.
+
+* **Disparate Impact** (DI): This is the ratio in the probability of favorable outcomes between the unprivileged and privileged groups. This can be computed both from the input dataset as well as from the **dataset output from a classifier (predicted dataset)**. A value of 1 implies both groups have equal benefit, a value less than 1 implies higher benefit for the privileged group, and a value greater than 1 implies higher benefit for the unprivileged group.
+
+* **Average odds difference** (OddsDif): This is the average of difference in false positive rates and true positive rates between unprivileged and privileged groups. This is a method in the ClassificationMetric class and hence needs to be computed using the input and output datasets to a classifier. A value of 0 implies both groups have equal benefit, a value less than 0 implies higher benefit for the privileged group and a value greater than 0 implies higher benefit for the unprivileged group.
+
+* **Equal opportunity difference** (EOD): This is the difference in true positive rates between unprivileged and privileged groups. This is a method in the ClassificationMetric class and hence needs to be computed using the input and output datasets to a classifier. A value of 0 implies both groups have equal benefit, a value less than 0 implies higher benefit for the privileged group and a value greater than 0 implies higher benefit for the unprivileged group.
+
+* **Theil Index** (TI): The Theil index TT is the same as redundancy in information theory which is the maximum possible entropy of the data minus the observed entropy. It is a special case of the generalized entropy index. It can be viewed as a measure of redundancy, lack of diversity, isolation, segregation, inequality, non-randomness, and compressibility. The numerical result is in terms of negative entropy so that a higher number indicates more order that is further away from the "ideal" of maximum disorder. Formulating the index to represent negative entropy instead of entropy allows it to be a measure of inequality rather than equality.
+
+
+### Classifiers without bias mitigation (no preprocessing)
+
+**Techniques**:
+
+* **Dummy Classifier**: From *sklearn*, *DummyClassifier* is a classifier that makes predictions using simple rules. This classifier is useful as a simple baseline to compare with other (real) classifiers.
+  * **uniform** (DC_uniform): generates predictions uniformly at random.
+  * **stratified** (DC_stratified): generates predictions by respecting the training set's class distribution. 
+
+* **Logistic Regression** (LR): From *sklearn*, Logistic Regression (aka logit, MaxEnt) classifier. Default parameters.
+
+* **Neural Network** (AD-disabled (NN-biased)): From *TensorFlow*.
+
+* **Random Forest** (RF): From *sklearn*, a random forest classifier.
+
+
+**Results**:
+
+```{r echo = FALSE, layout="l-screen"}
+fm.in <-  filter(fm, phase == "inprocessing", technique %in% c("LR", "RF", "AD-disabled (NN-biased)", "DC_stratified", "DC_uniform"), 
+                 technique2 == "none",
+                 metric2 == "value")
+fm.in <- select(fm.in, dataset, attProtected, metric, technique, technique2, imputation, partition, value)
+
+
+tm <- filter(fm.in, imputation == "Cols")
+tm2 <- merge(fm.in, tm, by.x = c("dataset", "attProtected", "metric", "technique", "technique2", "partition"), by.y = c("dataset", "attProtected", "metric", "technique", "technique2", "partition"), all.x = T)
+fm.in <- select(tm2, dataset, attProtected, metric, technique, technique2, partition, imputation.x, value.x)
+fm.in$diff_w_Cols <- tm2$value.x - tm2$value.y
+
+colnames(fm.in) <- c("dataset", "attProtected",  "metric", "MLtech", "preProcess", "partition", "imputation", "value", "diff_w_Cols")
+
+
+dt <- datatable(fm.in, extensions = c('Buttons', 'ColReorder'), filter = 'top', selection = 'single', 
+                    options = list(lengthMenu = list(c(10, 30, 100, -1), c('10', '30', '100', 'All')),
+                                   pageLength = 10,
+                                   dom = 'rtipl',
+                                   buttons = c('copy', 'csv', 'excel', 'pdf', 'print'),
+                                   colReorder = TRUE,
+                                   scrollY = TRUE,
+                                   columnDefs = list(list(
+                                     targets = c(1:ncol(fm.in)),
+                                     render = JS(
+                                       "function(data, type, row, meta) {",
+                                       "return type === 'display' && data.length > 20 ?",
+                                       "'<span title=\"' + data + '\">' + data.substr(0, 20) + '...</span>' : data;",
+                                       "}")
+                                   ))
+                    )) %>% formatStyle(
+                        'metric',
+                        target = 'row',
+                        lineHeight='70%',
+                        backgroundColor = styleEqual(c("OddsDiff","EOD","TI","SPD"), c(rgb(238/255,255/255,255/255),rgb(221/255,215/255,218/255),rgb(255/255,204/255,228/255),rgb(187/255,187/255,221/255)))
+                      ) 
+dt %>% formatStyle(names(fm.in)[length(names(fm.in))],
+                        background = styleColorBar(range(fm.in$diff_w_Cols), 'aquamarine'),
+                        backgroundSize = '98% 88%',
+                        backgroundRepeat = 'no-repeat',
+                        backgroundPosition = 'center') 
+
+```
+
+**Analysis**:
+
+We consider the imputed dataset "Cols" (where we remove columns containing missing values) as the gold standard to which we compare the results obtained in the other imputed datasets.
+
+* Adult: 
+  * RF: For both "race" and "sex", EOD (0.00X), OddsDiff (0.00X), SPD (0.00X), TI (0.00X)
+  * LR: For both "race" and "sex", EOD (0.0X), OddsDiff (0.0X), SPD (0.0X), TI (0.00X)
+  * NN: For both "race" and "sex", EOD (0.0X), OddsDiff (0.00X), SPD (0.00X), TI (0.00X)
+  * DC_uniform: For both "race" and "sex", no changes in any metric.
+  * DC_stratified: For both "race" and "sex", no changes in any metric.
+* Titanic: 
+  * RF: For both "pclass" and "sex", EOD (0.X), OddsDiff (0.X), SPD (0.X), TI (0.0X)
+  * LR: For "pclass", EOD (0.X), OddsDiff (0.X), SPD (0.X), TI (0.0X). For "sex", EOD (0.X), OddsDiff (0.0X), SPD (0.0X), TI (0.0X). 
+  * NN: For both "pclass" and "sex", EOD (0.X), OddsDiff (0.X), SPD (0.X), TI (0.0X)
+  * DC_uniform: For both "pclass" and "sex", without variation in any metric.
+  * DC_stratified: For both "pclass" and "sex", without variation in any metric.
+* Irish_1: 
+  * RF: For "sex", EOD (without variation), OddsDiff (0.0X), SPD (0.0X), TI (0.00X)
+  * LR: For "sex", EOD (0.00X, constant), OddsDiff (0.X, constant), SPD (0.X, constant), TI (0.0X, constant)
+  * NN: For "sex", EOD (0.0X), OddsDiff (0.0X), SPD (0.0X), TI (0.0X)
+  * DC_uniform: For "sex", no changes in any metric.
+  * DC_stratified: For "sex", no changes in any metric.
+* Irish_2: 
+  * RF: For "sex", EOD (without variation), OddsDiff (0.0X), SPD (0.0X), TI (0.00X)
+  * LR: For "sex", EOD (0.00X, constant), OddsDiff (0.X, constant), SPD (0.X, constant), TI (0.0X, constant)
+  * NN: For "sex", EOD (0.X), OddsDiff (0.X), SPD (0.0X), TI (0.X)
+  * DC_uniform: For "sex", no changes in any metric.
+  * DC_stratified: For "sex", no changes in any metric.
+  
+Results grouped and summarised (mean difference of all imputation methods wrt the gold standard for each technique, metric and attribute protected):
+
+```{r echo = FALSE, layout="l-page"}
+
+fm.in.Analysis <- filter(fm.in, imputation != "Cols")
+fm.in.Analysis <- fm.in.Analysis %>% group_by(dataset, attProtected, metric, MLtech, preProcess, partition) %>% summarise(mean_diff_w_Cols = mean(diff_w_Cols))
+
+
+dt <- datatable(fm.in.Analysis, extensions = c('Buttons', 'ColReorder'), filter = 'top', selection = 'single', 
+                    options = list(lengthMenu = list(c(10, 30, 100, -1), c('10', '30', '100', 'All')),
+                                   pageLength = 10,
+                                   dom = 'rtipl',
+                                   buttons = c('copy', 'csv', 'excel', 'pdf', 'print'),
+                                   colReorder = TRUE
+                    )) %>% formatStyle(
+                        'metric',
+                        target = 'row',
+                        lineHeight='70%',
+                        backgroundColor = styleEqual(c("OddsDiff","EOD","TI","SPD"), c(rgb(238/255,255/255,255/255),rgb(221/255,215/255,218/255),rgb(255/255,204/255,228/255),rgb(187/255,187/255,221/255)))
+                      ) 
+dt %>% formatStyle(names(fm.in.Analysis)[length(names(fm.in.Analysis))],
+                        background = styleColorBar(range(fm.in.Analysis$mean_diff_w_Cols), 'aquamarine'),
+                        backgroundSize = '98% 88%',
+                        backgroundRepeat = 'no-repeat',
+                        backgroundPosition = 'center') 
+
+```
+
+### Classifiers without bias mitigation (with preprocessing)
+
+**Results**:
+
+
+```{r echo = FALSE, layout="l-screen"}
+fm.in <-  filter(fm, phase == "inprocessing", technique %in% c("LR", "RF", "AD-disabled (NN-biased)", "DC_stratified", "DC_uniform"), 
+                 technique2 != "none",
+                 metric2 == "value")
+# fm.pre <- select(fm.pre, -phase, -metric2,-technique, -partition)
+fm.in <- select(fm.in, dataset, attProtected, metric, technique, technique2, imputation, partition, value)
+
+
+tm <- filter(fm.in, imputation == "Cols")
+tm2 <- merge(fm.in, tm, by.x = c("dataset", "attProtected", "metric", "technique", "technique2", "partition"), by.y = c("dataset", "attProtected", "metric", "technique", "technique2", "partition"), all.x = T)
+fm.in <- select(tm2, dataset, attProtected, metric, technique, technique2, partition, imputation.x, value.x)
+#fm.in$Ref_Cols <- tm2$value.y
+fm.in$diff_w_Cols <- tm2$value.x - tm2$value.y
+
+colnames(fm.in) <- c("dataset", "attProtected",  "metric", "MLtech", "preProcess", "partition", "imputation", "value", "diff_w_Cols")
+
+
+dt <- datatable(fm.in, extensions = c('Buttons', 'ColReorder'), filter = 'top', selection = 'single', 
+                    options = list(lengthMenu = list(c(10, 30, 100, -1), c('10', '30', '100', 'All')),
+                                   pageLength = 10,
+                                   dom = 'rtipl',
+                                   buttons = c('copy', 'csv', 'excel', 'pdf', 'print'),
+                                   colReorder = TRUE,
+                                   scrollY = TRUE,
+                                   columnDefs = list(list(
+                                     targets = c(1:ncol(fm.in)),
+                                     render = JS(
+                                       "function(data, type, row, meta) {",
+                                       "return type === 'display' && data.length > 20 ?",
+                                       "'<span title=\"' + data + '\">' + data.substr(0, 20) + '...</span>' : data;",
+                                       "}")
+                                   ))
+                    )) %>% formatStyle(
+                        'metric',
+                        target = 'row',
+                        lineHeight='70%',
+                        backgroundColor = styleEqual(c("OddsDiff","EOD","TI","SPD"), c(rgb(238/255,255/255,255/255),rgb(221/255,215/255,218/255),rgb(255/255,204/255,228/255),rgb(187/255,187/255,221/255)))
+                      ) 
+dt %>% formatStyle(names(fm.in)[length(names(fm.in))],
+                        background = styleColorBar(range(fm.in$diff_w_Cols), 'aquamarine'),
+                        backgroundSize = '98% 88%',
+                        backgroundRepeat = 'no-repeat',
+                        backgroundPosition = 'center') 
+
+```
+
+**Analysis**:
+
+We consider the imputed dataset "Cols" (where we remove columns containing missing values) as the gold standard to which we compare the results obtained in the other imputed datasets.
+
+Results grouped and summarised (mean difference of all imputation methods wrt the gold standard for each technique, metric and attribute protected):
+
+
+```{r echo = FALSE, layout="l-page"}
+
+fm.in.Analysis <- filter(fm.in, imputation != "Cols")
+fm.in.Analysis <- fm.in.Analysis %>% group_by(dataset, attProtected, metric, MLtech, preProcess, partition) %>% summarise(mean_diff_w_Cols = mean(diff_w_Cols))
+
+
+dt <- datatable(fm.in.Analysis, extensions = c('Buttons', 'ColReorder'), filter = 'top', selection = 'single', 
+                    options = list(lengthMenu = list(c(10, 30, 100, -1), c('10', '30', '100', 'All')),
+                                   pageLength = 10,
+                                   dom = 'rtipl',
+                                   buttons = c('copy', 'csv', 'excel', 'pdf', 'print'),
+                                   colReorder = TRUE
+                    )) %>% formatStyle(
+                        'metric',
+                        target = 'row',
+                        lineHeight='70%',
+                        backgroundColor = styleEqual(c("OddsDiff","EOD","TI","SPD"), c(rgb(238/255,255/255,255/255),rgb(221/255,215/255,218/255),rgb(255/255,204/255,228/255),rgb(187/255,187/255,221/255)))
+                      ) 
+dt %>% formatStyle(names(fm.in.Analysis)[length(names(fm.in.Analysis))],
+                        background = styleColorBar(range(fm.in.Analysis$mean_diff_w_Cols), 'aquamarine'),
+                        backgroundSize = '98% 88%',
+                        backgroundRepeat = 'no-repeat',
+                        backgroundPosition = 'center') 
+
+```
+
+
+
+### Classifiers with bias mitigation (no preprocessing)
+
+**Results** 
+
+```{r echo = FALSE, layout="l-screen"}
+fm.in <-  filter(fm, phase == "inprocessing", technique %in% c("AD-enabled (NN-unbiased)"), 
+                 technique2 == "none",
+                 metric2 == "value")
+# fm.pre <- select(fm.pre, -phase, -metric2,-technique, -partition)
+fm.in <- select(fm.in, dataset, attProtected, metric, technique, technique2, imputation, partition, value)
+
+
+tm <- filter(fm.in, imputation == "Cols")
+tm2 <- merge(fm.in, tm, by.x = c("dataset", "attProtected", "metric", "technique", "technique2", "partition"), by.y = c("dataset", "attProtected", "metric", "technique", "technique2", "partition"), all.x = T)
+fm.in <- select(tm2, dataset, attProtected, metric, technique, technique2, partition, imputation.x, value.x)
+#fm.in$Ref_Cols <- tm2$value.y
+fm.in$diff_w_Cols <- tm2$value.x - tm2$value.y
+
+colnames(fm.in) <- c("dataset", "attProtected",  "metric", "MLtech", "preProcess", "partition", "imputation", "value", "diff_w_Cols")
+
+dt <- datatable(fm.in, extensions = c('Buttons', 'ColReorder'), filter = 'top', selection = 'single', 
+                    options = list(lengthMenu = list(c(10, 30, 100, -1), c('10', '30', '100', 'All')),
+                                   pageLength = 10,
+                                   dom = 'rtipl',
+                                   buttons = c('copy', 'csv', 'excel', 'pdf', 'print'),
+                                   colReorder = TRUE,
+                                   scrollY = TRUE,
+                                   columnDefs = list(list(
+                                     targets = c(1:ncol(fm.in)),
+                                     render = JS(
+                                       "function(data, type, row, meta) {",
+                                       "return type === 'display' && data.length > 20 ?",
+                                       "'<span title=\"' + data + '\">' + data.substr(0, 20) + '...</span>' : data;",
+                                       "}")
+                                   ))
+                    )) %>% formatStyle(
+                        'metric',
+                        target = 'row',
+                        lineHeight='70%',
+                        backgroundColor = styleEqual(c("OddsDiff","EOD","TI","SPD"), c(rgb(238/255,255/255,255/255),rgb(221/255,215/255,218/255),rgb(255/255,204/255,228/255),rgb(187/255,187/255,221/255)))
+                      ) 
+dt %>% formatStyle(names(fm.in)[length(names(fm.in))],
+                        background = styleColorBar(range(fm.in$diff_w_Cols), 'aquamarine'),
+                        backgroundSize = '98% 88%',
+                        backgroundRepeat = 'no-repeat',
+                        backgroundPosition = 'center') 
+
+```
+
+
+**Analysis**:
+
+We consider the imputed dataset "Cols" (where we remove columns containing missing values) as the gold standard to which we compare the results obtained in the other imputed datasets.
+
+Results grouped and summarised (mean difference of all imputation methods wrt the gold standard for each technique, metric and attribute protected):
+
+```{r echo = FALSE, layout="l-page"}
+
+fm.in.Analysis <- filter(fm.in, imputation != "Cols")
+fm.in.Analysis <- fm.in.Analysis %>% group_by(dataset, attProtected, metric, MLtech, preProcess, partition) %>% summarise(mean_diff_w_Cols = mean(diff_w_Cols))
+
+
+dt <- datatable(fm.in.Analysis, extensions = c('Buttons', 'ColReorder'), filter = 'top', selection = 'single', 
+                    options = list(lengthMenu = list(c(10, 30, 100, -1), c('10', '30', '100', 'All')),
+                                   pageLength = 10,
+                                   dom = 'rtipl',
+                                   buttons = c('copy', 'csv', 'excel', 'pdf', 'print'),
+                                   colReorder = TRUE
+                    )) %>% formatStyle(
+                        'metric',
+                        target = 'row',
+                        lineHeight='70%',
+                        backgroundColor = styleEqual(c("OddsDiff","EOD","TI","SPD"), c(rgb(238/255,255/255,255/255),rgb(221/255,215/255,218/255),rgb(255/255,204/255,228/255),rgb(187/255,187/255,221/255)))
+                      ) 
+dt %>% formatStyle(names(fm.in.Analysis)[length(names(fm.in.Analysis))],
+                        background = styleColorBar(range(fm.in.Analysis$mean_diff_w_Cols), 'aquamarine'),
+                        backgroundSize = '98% 88%',
+                        backgroundRepeat = 'no-repeat',
+                        backgroundPosition = 'center') 
+
+```
+
+
+
+
+## Postprocessing
+
