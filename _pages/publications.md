@@ -8,7 +8,7 @@ author_profile: true
 ----
 * **Fernando Mart&iacute;nez-Plumed**, Ricardo B. C. Prud&ecirc;ncio, Adolfo Mart&iacute;nez-Uso, Jos&eacute; Hern&aacute;ndez-Orallo:  [*"Item Response Theory in AI: Analysing Machine Learning Classifiers at the Instance Level"*](), [Artificial Intelligence Journal](https://www.journals.elsevier.com/artificial-intelligence), Elsevier Publications, to appear, 2019.
 
-*  Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed**, Shahar Avin and Se&aacute;n &Oacute; H&Eacute;igeartaigh: [*"Surveying Safety-relevant AI Characteristics"*](), [The AAAI's Workshop on Artificial Intelligence Safety (SafeAI)](https://safeai.webs.upv.es/), Honolulu, Hawaii, USA, January 27, 2019.
+*  Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed**, Shahar Avin and Se&aacute;n &Oacute; H&Eacute;igeartaigh: [*"Surveying Safety-relevant AI Characteristics"*](http://ceur-ws.org/Vol-2301/paper_22.pdf), [The AAAI's Workshop on Artificial Intelligence Safety (SafeAI)](https://safeai.webs.upv.es/), Honolulu, Hawaii, USA, January 27, 2019.
 
 
 2018
@@ -19,18 +19,17 @@ author_profile: true
 
 
 * Sankalp Bhatnagar, Anna Alexandrova, Shahar Avin, Stephen Cave, Lucy Cheke, Matthew Crosby, Jan Feyereis, Marta Halina, 
-Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, **Fernando Mart&iacute;nez-Plumed**, Huw Price, Henry Shevlin, Adrian Weller, Alan Wineld, and Jos&eacute; Hern&aacute;ndez-Orallo, [*"Mapping Intelligence: Requirements and Possibilities"*](https://doi.org/10.1007/978-3-319-96448-5_13), Müller, Vincent C. (ed.), [Philosophy and Theory of Artificial Intelligence 2017](https://www.springer.com/gb/book/9783319964478), Studies in Applied Philosophy, Epistemology and Rational Ethics (SAPERE), Vol 44, ISBN 978-3-319-96447-8, Springer, 2018.
+Bao Sheng Loe, Se&aacute;n &Oacute; h&Eacute;igeartaigh, **Fernando Mart&iacute;nez-Plumed**, Huw Price, Henry Shevlin, Adrian Weller, Alan Wineld, and Jos&eacute; Hern&aacute;ndez-Orallo, [*"Mapping Intelligence: Requirements and Possibilities"*](https://doi.org/10.1007/978-3-319-96448-5_13), In: Müller, Vincent C. (ed.), [Philosophy and Theory of Artificial Intelligence 2017](https://www.springer.com/gb/book/9783319964478), Studies in Applied Philosophy, Epistemology and Rational Ethics (SAPERE), Vol 44, ISBN 978-3-319-96447-8, Springer, 2018.
 
 
 * Raul Fabra-Boluda, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed** and M. Jos&eacute; Ram&iacute;rez-Quintana, [*"Modelling Machine Learning Models"*](https://doi.org/10.1007/978-3-319-96448-5_16), In: Müller, Vincent C. (ed.), [Philosophy and Theory of Artificial Intelligence 2017](https://www.springer.com/gb/book/9783319964478), Studies in Applied Philosophy, Epistemology and Rational Ethics (SAPERE), Vol 44, ISBN 978-3-319-96447-8, Springer, 2018.
 
 
-* Raul Fabra-Boluda, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed** and M. Jos&eacute; Ram&iacute;rez-Quintana, [*"Identifying the Machine Learning Family from Black-Box  Models"*](), Advances in Artificial Intelligence: Proceedings of the [18th Conference of the Spanish Association for Artificial Intelligence (CAEPIA 2018)](http://sci2s.ugr.es/caepia18/inicio.html), Lecture Notes in Artificial Intelligence (LNAI), volumen 11160, 55--65, Granada, Spain, October 23–26, 2018. 
+* Raul Fabra-Boluda, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed** and M. Jos&eacute; Ram&iacute;rez-Quintana, [*"Identifying the Machine Learning Family from Black-Box Models"*](https://doi.org/10.1007/978-3-030-00374-6_6), in Herrera F. et al. (eds) Advances in Artificial Intelligence: Proceedings of the [18th Conference of the Spanish Association for Artificial Intelligence (CAEPIA 2018)](http://sci2s.ugr.es/caepia18/inicio.html), Lecture Notes in Artificial Intelligence (LNAI), volumen 11160, 55--65, Granada, Spain, October 23–26, 2018. 
 
+* **Fernando Mart&iacute;nez-Plumed**, Juan Carlos Casamayor, C&egrave;sar Ferri, Jon Ander G&oacute;mez, Eduardo Vendrell, [*"SALER: a Data Science solution to detect and prevent corruption in public administration"*](https://doi.org/10.1007/978-3-030-13453-2_9), in C. Alzate et al. (Eds.): ECML PKDD 2018 Workshops: 3rd International Workshop on Data Science for Social Good (<a href="https://sites.google.com/site/ecmlpkddsogood2018/">SoGood 2018</a> Lecture Notes in Artificial Intelligence (LNAI), 11329, pp. 1–15, Dublin, Ireland, September 10--14, 2018. 
 
 * Enrique Fern&aacute;ndez-Mac&iacute;as , Emilia Gomez, Jos&eacute; Hern&aacute;ndez-Orallo, Bao Sheng Loe, Bertin Martens, **Fernando Mart&iacute;nez-Plumed**, Song&uuml;l Tolan, [*"A multidisciplinary task-based perspective for evaluating the impact of AI autonomy and generality on the future of work"*](http://cadia.ru.is/workshops/aegap2018/papers/AEGAP_2018_Fernandez-Macias_et_al.pdf), 1st International Workshop on Architectures and Evaluation for Generality, Autonomy & Progress in AI (<a href="http://cadia.ru.is/workshops/aegap2018/">AEGAP 2018</a> @ <a href="https://ijcai-17.org/">IJCAI 2018</a>), Stockholm, Sweden, July 15, 2018. (Also in [arXiv](https://arxiv.org/abs/1807.02416))
-
-* **Fernando Mart&iacute;nez-Plumed**, Juan Carlos Casamayor, C&egrave;sar Ferri, Jon Ander G&oacute;mez, Eduardo Vendrell, [*"SALER: a Data Science solution to detect and prevent corruption in public administration"*](), 3rd International Workshop on Data Science for Social Good (<a href="https://sites.google.com/site/ecmlpkddsogood2018/">SoGood 2018</a> @ <a href="http://www.ecmlpkdd2018.org/">ECML 2018</a>), Dublin, Ireland, September 10--14, 2018. 
 
 * Lidia Contreras-Ochando, Cristina I. Font-Juli&aacute;n, David Nieves, **Fernando Mart&iacute;nez-Plumed**, [*"How Data Science helps build Smart Cities. Valencia as a use case"*](http://hdl.handle.net/10251/104672), Cantó Colomina, B. (ed.), Proceedings of the [Congress on Small and Medium Smart Cities](http://www.smartcitiesalcoy.es), ISBN 978-84-09-02970-9, pp 3-11, Alcoy, Spain, February 14-15, 2018.
 
