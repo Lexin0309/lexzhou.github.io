@@ -29,7 +29,7 @@ Recent Highlights
 					
 * Paper accepted for AI magazine: [*A New AI Evaluation Cosmos: Ready to Play the Game*](https://doi.org/10.1609/aimag.v38i3.2748), Fall 2017.
 
-* <a href="http://www.ecai2016.org"><em>ECAI 2016</em></a> <b>Best Paper Award</b>: F. Mart&iacute;nez-Plumed, Ricardo Prud&ecirc;ncio, Adolfo Mart&iacute;nez-Uso, Jose Hern&aacute;ndez-Orallo, <a href="http://ebooks.iospress.com/volumearticle/44867"><em>"Making sense of item response theory in machine learning"</em></a>, The Hague (Holland), 2016.
+* <a href="http://www.ecai2016.org">ECAI 2016</a> <b>Best Paper Award</b>: F. Mart&iacute;nez-Plumed, Ricardo Prud&ecirc;ncio, Adolfo Mart&iacute;nez-Uso, Jose Hern&aacute;ndez-Orallo, <a href="http://ebooks.iospress.com/volumearticle/44867"><em>"Making sense of item response theory in machine learning"</em></a>, The Hague (Holland), 2016.
 
 * <a href="http://www.journals.elsevier.com/artificial-intelligence/">Artificial Intelligence Journal</a> paper: J. Hern&aacute;ndez-Orallo, F. Mart&iacute;nez-Plumed, U. Schmid, M. Siebers, D L Dowe <em><a href="http://www.sciencedirect.com/science/article/pii/S0004370215001538">"Computer models solving intelligence test problems: progress and implications"</a></em>, 2016.
 
