@@ -17,7 +17,9 @@ Recent Highlights
 
 * Paper accepted for the Artificial Intelligence Journal: [*Item Response Theory in AI: Analysing Machine Learning Classifiers at the Instance Level*](https://doi.org/10.1016/j.artint.2018.09.004), 2019.
 
-* Paper accepted for IJCAI 2018: [*The Facets of Artificial Intelligence*](https://www.ijcai.org/proceedings/2018/718). 
+* Paper accepted for the  IEEE Transactions on Games Journal: [*Dual Indicators to Analyse AI Benchmarks: Difficulty, Discrimination, Ability and Generality*](https://doi.org/10.1109/TG.2018.2883773), 2018.
+
+* Paper accepted for [IJCAI 2018](https://www.ijcai-18.org/): [*The Facets of Artificial Intelligence*](https://www.ijcai.org/proceedings/2018/718). 
 
 * Researcher a main developer of [**SATAN**](https://safe-tools.dsic.upv.es/shiny/saler/) (with [Generalitat Valenciana](https://safe-tools.dsic.upv.es/shiny/saler/)), a data science project to detect and prevent fraud and corruption in public administration. The project is having  an extraordinary [media coverage](https://www.google.com/search?safe=off&biw=1920&bih=969&tbm=nws&ei=QgFUXP-PBISAur4PrqKCqAU&q=SATAN+sistema+alertas+generalitat+valenciana+&oq=SATAN+sistema+alertas+generalitat+valenciana+&gs_l=psy-ab.3...25935.31932.0.32104.17.17.0.0.0.0.110.1520.13j4.17.0....0...1c.1.64.psy-ab..4.1.96...33i10k1.0.VJ2Jg4ik1bE).  
 
