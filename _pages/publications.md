@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 2019
-----https://www.cser.ac.uk/news/safeai-workshop/
+----
 * **Fernando Mart&iacute;nez-Plumed**, Ricardo B. C. Prud&ecirc;ncio, Adolfo Mart&iacute;nez-Uso, Jos&eacute; Hern&aacute;ndez-Orallo:  [*"Item Response Theory in AI: Analysing Machine Learning Classifiers at the Instance Level"*](
 https://doi.org/10.1016/j.artint.2018.09.004), [Artificial Intelligence Journal](https://www.journals.elsevier.com/artificial-intelligence), Elsevier Publications, Volume 271, pp 18-42, 2019.
 
