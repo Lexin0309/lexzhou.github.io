@@ -5,11 +5,11 @@ author_profile: true
 ---
 
 2019
-----
+----https://www.cser.ac.uk/news/safeai-workshop/
 * **Fernando Mart&iacute;nez-Plumed**, Ricardo B. C. Prud&ecirc;ncio, Adolfo Mart&iacute;nez-Uso, Jos&eacute; Hern&aacute;ndez-Orallo:  [*"Item Response Theory in AI: Analysing Machine Learning Classifiers at the Instance Level"*](
-https://doi.org/10.1016/j.artint.2018.09.004), [Artificial Intelligence Journal](https://www.journals.elsevier.com/artificial-intelligence), Elsevier Publications, in Press, 2019.
+https://doi.org/10.1016/j.artint.2018.09.004), [Artificial Intelligence Journal](https://www.journals.elsevier.com/artificial-intelligence), Elsevier Publications, Volume 271, pp 18-42, 2019.
 
-*  Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed**, Shahar Avin and Se&aacute;n &Oacute; H&Eacute;igeartaigh: [*"Surveying Safety-relevant AI Characteristics"*](http://ceur-ws.org/Vol-2301/paper_22.pdf), [The AAAI's Workshop on Artificial Intelligence Safety (SafeAI)](https://safeai.webs.upv.es/), Honolulu, Hawaii, USA, January 27, 2019.
+*  Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed**, Shahar Avin and Se&aacute;n &Oacute; H&Eacute;igeartaigh: [*"Surveying Safety-relevant AI Characteristics"*](http://ceur-ws.org/Vol-2301/paper_22.pdf), [The AAAI's Workshop on Artificial Intelligence Safety (SafeAI)](https://safeai.webs.upv.es/), Honolulu, Hawaii, USA, January 27, 2019. [**Runner-up Best Paper**](https://www.cser.ac.uk/news/safeai-workshop/)
 
 
 2018
