@@ -15,7 +15,7 @@ Recent Highlights
 
 * European Commission's expert assistant: [HUMAINT](https://ec.europa.eu/jrc/communities/en/community/humaint) project within the [Centre for Advanced Studies (CAS)](), linked to the [Digital Transformation and Artificial Intelligence Project](https://ec.europa.eu/jrc/en/research-topic/digital-economy), Digital Economy Unit, Joint Research Centre, European Commission.
 
-* Paper accepted for the Artificial Intelligence Journal: [*Item Response Theory in AI: Analysing Machine Learning Classifiers at the Instance Level*](https://doi.org/10.1016/j.artint.2018.09.004), 2019.
+* Paper accepted for the Artificial Intelligence Journal: [*Item Response Theory in AI: Analysing Machine Learning Classifiers at the Instance Level*](https://authors.elsevier.com/a/1YWua-c5NdLy), 2019.
 
 * [**Runner-up Best Paper**](https://www.cser.ac.uk/news/safeai-workshop/) @ [AAAI SafeAI 2019](https://safeai.webs.upv.es/): [*Surveying Safety-relevant AI Characteristics*](http://ceur-ws.org/Vol-2301/paper_22.pdf)
 
