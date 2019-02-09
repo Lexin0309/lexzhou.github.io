@@ -17,7 +17,7 @@ Recent Highlights
 
 * Paper accepted for the Artificial Intelligence Journal: [*Item Response Theory in AI: Analysing Machine Learning Classifiers at the Instance Level*](https://authors.elsevier.com/a/1YWua-c5NdLy), 2019.
 
-* [**Runner-up Best Paper**](https://www.cser.ac.uk/news/safeai-workshop/) @ [AAAI SafeAI 2019](https://safeai.webs.upv.es/): [*Surveying Safety-relevant AI Characteristics*](http://ceur-ws.org/Vol-2301/paper_22.pdf)
+* [**Best Paper Award Runner-up**](https://www.cser.ac.uk/news/safeai-workshop/) @ [AAAI SafeAI 2019](https://safeai.webs.upv.es/): [*Surveying Safety-relevant AI Characteristics*](http://ceur-ws.org/Vol-2301/paper_22.pdf)
 
 * Paper accepted for the  IEEE Transactions on Games Journal: [*Dual Indicators to Analyse AI Benchmarks: Difficulty, Discrimination, Ability and Generality*](https://doi.org/10.1109/TG.2018.2883773), 2018.
 
