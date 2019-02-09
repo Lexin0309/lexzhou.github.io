@@ -17,6 +17,8 @@ Recent Highlights
 
 * Paper accepted for the Artificial Intelligence Journal: [*Item Response Theory in AI: Analysing Machine Learning Classifiers at the Instance Level*](https://doi.org/10.1016/j.artint.2018.09.004), 2019.
 
+* [**Runner-up Best Paper**](https://www.cser.ac.uk/news/safeai-workshop/) @ [AAAI SafeAI 2019](https://safeai.webs.upv.es/): [*Surveying Safety-relevant AI Characteristics*](http://ceur-ws.org/Vol-2301/paper_22.pdf)
+
 * Paper accepted for the  IEEE Transactions on Games Journal: [*Dual Indicators to Analyse AI Benchmarks: Difficulty, Discrimination, Ability and Generality*](https://doi.org/10.1109/TG.2018.2883773), 2018.
 
 * Paper accepted for [IJCAI 2018](https://www.ijcai-18.org/): [*The Facets of Artificial Intelligence*](https://www.ijcai.org/proceedings/2018/718). 
@@ -43,7 +45,7 @@ Recent Highlights
 
 * <a href="http://noticias.inf.upv.es/?p=7962"><b>1st prize</b></a> <a href="http://dataupv.webs.upv.es/i-opendatathon-etsinf-upv/">I OpenDatathon ETSINF-UPV 2016</a>: <em>BigML Award for Best predictive project</em> - Project <a href="http://users.dsic.upv.es/~flip/trafico/">TrafficXplorer</a>.
 
-* Member of the <a href="http://reframe-d2k.org/Main_Page">REFRAME</a> Project</a>.
+* Member of the <a href="http://reframe-d2k.org/Main_Page">REFRAME Project</a>.
 
 * Check out our Context-Aware Standard Process for Data Mining: <a href="http://www.casp-dm.org/">CASP-DM</a>.
 
