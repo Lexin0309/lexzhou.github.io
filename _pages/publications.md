@@ -15,6 +15,8 @@ https://doi.org/10.1016/j.artint.2018.09.004), [Artificial Intelligence Journal]
 
 *  Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed**, Shahar Avin and Se&aacute;n &Oacute; H&Eacute;igeartaigh: [*"Surveying Safety-relevant AI Characteristics"*](http://ceur-ws.org/Vol-2301/paper_22.pdf), [The AAAI's Workshop on Artificial Intelligence Safety (SafeAI)](https://safeai.webs.upv.es/), Honolulu, Hawaii, USA, January 27, 2019. [**Best Paper Award Runner-up**](https://www.cser.ac.uk/news/safeai-workshop/)
 
+*  **Fernando Mart&iacute;nez-Plumed**, C&egrave;sar Ferri, David Nieves, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Fairness and Missing Values"*](https://arxiv.org/abs/1905.12728),  CoRR abs/1905.12728, 2019.
+
 
 2018
 ----
