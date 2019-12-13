@@ -19,7 +19,7 @@ https://doi.org/10.1016/j.artint.2018.09.004), [Artificial Intelligence Journal]
 
 *  Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed**, Shahar Avin and Se&aacute;n &Oacute; H&Eacute;igeartaigh: [*"Surveying Safety-relevant AI Characteristics"*](http://ceur-ws.org/Vol-2301/paper_22.pdf), [The AAAI's Workshop on Artificial Intelligence Safety (SafeAI)](https://safeai.webs.upv.es/), Honolulu, Hawaii, USA, January 27, 2019. [**Best Paper Award Runner-up**](https://www.cser.ac.uk/news/safeai-workshop/)
 
-* Song&uuml;l Tolan, Annarosa Pesole, **Fernando Mart&iacute;nez-Plumed**, Enrique Fern&aacute;ndez-Mac&iacute;as, Jos&eacute; Hern&aacute;ndez-Orallo, Emilia Gomez: [*"Artificial Intelligence and Jobs: From Tasks to Cognitive Abilities"*](http://cadia.ru.is/workshops/aegap2018/papers/AEGAP_2018_Fernandez-Macias_et_al.pdf), [RENIR Workshop on the impact of automation and AI in regional economies](https://renir.carloalberto.org/workshop/), Turin, May 27-28, 2019. 
+* Song&uuml;l Tolan, Annarosa Pesole, **Fernando Mart&iacute;nez-Plumed**, Enrique Fern&aacute;ndez-Mac&iacute;as, Jos&eacute; Hern&aacute;ndez-Orallo, Emilia Gomez: [*"Artificial Intelligence and Jobs: From Tasks to Cognitive Abilities"*](https://renir.carloalberto.org/news/3rd-renir-workshop/), [RENIR Workshop on the impact of automation and AI in regional economies](https://renir.carloalberto.org/workshop/), Turin, May 27-28, 2019. 
 
 *  **Fernando Mart&iacute;nez-Plumed**, C&egrave;sar Ferri, David Nieves, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Fairness and Missing Values"*](https://arxiv.org/abs/1905.12728),  CoRR abs/1905.12728, 2019.
 
