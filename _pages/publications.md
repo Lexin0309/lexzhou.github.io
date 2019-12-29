@@ -9,8 +9,6 @@ author_profile: true
 
 * **Fernando Mart&iacute;nez-Plumed**, Lidia Contreras-Ochando, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, Meelis Kull, Nicolas Lachiche and M. Jos&eacute; Ram&iacute;rez-Quintana, Peter Flach: [*"CRISP-DM Twenty Years Later: From Data Mining Processes to Data Science Trajectories"*](https://doi.org/10.1109/TKDE.2019.2962680),  [IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) (Early Access), 2020.
 
-<em><a href="https://arxiv.org/abs/1709.09003">"CASP-DM: Context Aware Standard Process for Data Mining"</a></em>, CoRR, abs/1709.09003, 2017.
-
 
 * **Fernando Mart&iacute;nez-Plumed**,  Song&uuml;l Tolan, Annarosa Pesole, José Hernández-Orallo, Enrique Fernández-Macias, Emilia Gómez: [*"Does AI Qualify for the Job? A Biderectional Model Mapping Labour and AI intensities"*](), Proceedings of the [AAAI/ACM conference on Artificial Intelligence, Ethics and Society (AIES 2020)](https://www.aies-conference.com/2020/), New York, USA, February 7-8, 2020.
 
