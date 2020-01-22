@@ -15,9 +15,11 @@ Recent Highlights
 
 * Co-organising the 1st Workshop on *[Evaluating Progress in AI (EPAI2020)](http://dmip.webs.upv.es/EPAI2020/)*  @ [ECAI 2020](http://ecai2020.eu/) taking place in Santiago (Spain) in June 9, 2020.
 
-* 3 papers accepted for ECAI 2020:  [Tracking AI: The Capability is (Not) Near](),  [AI Paradigms and AI Safety:\\ Mapping Artefacts and Techniques to Safety Issues] and [Family and Prejudice: A Behavioural Taxonomy of Machine Learning Techniques] ().
+* 3 papers accepted for ECAI 2020:  [Tracking AI: The Capability is (Not) Near](),  [AI Paradigms and AI Safety: Mapping Artefacts and Techniques to Safety Issues] and [Family and Prejudice: A Behavioural Taxonomy of Machine Learning Techniques] ().
 
 * Paper accepted for IEEE Transactions on Knowledge and Data Engineering journal: [*CRISP-DM Twenty Years Later: From Data Mining Processes to Data Science Trajectories*](https://doi.org/10.1109/TKDE.2019.2962680), 2020.
+
+* Paper accepted for the [AAAI/ACM Conference on Artificcial Intelligence, Ethics, and Society](https://www.aies-conference.com/2020/): "Does AI Qualify for the Job? A Bidirectional Model Mapping Labour and AI Intensities", 2020.
 
 * European Commission's expert assistant: [HUMAINT](https://ec.europa.eu/jrc/communities/en/community/humaint) project within the [Centre for Advanced Studies (CAS)](), linked to the [Digital Transformation and Artificial Intelligence Project](https://ec.europa.eu/jrc/en/research-topic/digital-economy), Digital Economy Unit, Joint Research Centre, European Commission.
 
