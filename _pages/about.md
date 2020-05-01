@@ -59,3 +59,13 @@ Recent Highlights
 
 * Open Data believer. Part of the <a href="http://dataupv.webs.upv.es/">DataUPV</a> team.
 
+Program Committees and Service
+======
+
+* IJCAI 2019, 2020
+* AAAI 2020
+* NIPS/NeurIPS 2018, 2019, 2020
+* UAI 2019, 2020
+* ICRL 2019, 2020
+* ECAI 2020
+* ECML 2020
