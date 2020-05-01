@@ -9,6 +9,12 @@ author_profile: true
 
 * **Fernando Mart&iacute;nez-Plumed**, Lidia Contreras-Ochando, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, Meelis Kull, Nicolas Lachiche and M. Jos&eacute; Ram&iacute;rez-Quintana, Peter Flach: [*"CRISP-DM Twenty Years Later: From Data Mining Processes to Data Science Trajectories"*](https://doi.org/10.1109/TKDE.2019.2962680),  [IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) (Early Access), 2020.
 
+* **Fernando Martínez-Plumed**, Jose Hernández-Orallo, Emilia Gómez, [*"Tracking AI: The Capability is (Not) Near"*](),  Proceedings of the [24th European Conference on Artificial Intelligence (ECAI 2020)](http://ecai2020.eu/),  Santiago de Compostela, Spain, September 2020.
+
+* Jose Hernández-Orallo, **Fernando Martínez-Plumed**, Shahar Avin, Jess Whittlestone, Seán Ó hÉigeartaigh, [*"AI Paradigms and AI Safety:Mapping Artefacts and Techniques to Safety Issues"*](), Proceedings of the [24th European Conference on Artificial Intelligence (ECAI 2020)](http://ecai2020.eu/),  Santiago de Compostela, Spain, September 2020.
+
+* Raül Fabra-Boluda, Cèsar Ferri, **Fernando Martínez-Plumed**, Jose Hernández-Orallo, Mª José Ramírez-Quintana, [*"Family and Prejudice: A Behavioural Taxonomy ofMachine Learning Techniques"*](), Proceedings of the [24th European Conference on Artificial Intelligence (ECAI 2020)](http://ecai2020.eu/),  Santiago de Compostela, Spain, September 2020.
+
 
 * **Fernando Mart&iacute;nez-Plumed**,  Song&uuml;l Tolan, Annarosa Pesole, José Hernández-Orallo, Enrique Fernández-Macias, Emilia Gómez: [*"Does AI Qualify for the Job? A Biderectional Model Mapping Labour and AI intensities"*](), Proceedings of the [AAAI/ACM conference on Artificial Intelligence, Ethics and Society (AIES 2020)](https://www.aies-conference.com/2020/), New York, USA, February 7-8, 2020.
 
@@ -17,9 +23,9 @@ author_profile: true
 * **Fernando Mart&iacute;nez-Plumed**, Ricardo B. C. Prud&ecirc;ncio, Adolfo Mart&iacute;nez-Uso, Jos&eacute; Hern&aacute;ndez-Orallo:  [*"Item Response Theory in AI: Analysing Machine Learning Classifiers at the Instance Level"*](
 https://doi.org/10.1016/j.artint.2018.09.004), [Artificial Intelligence Journal](https://www.journals.elsevier.com/artificial-intelligence), Elsevier Publications, Volume 271, pp 18-42, 2019.
 
-*  Lidia Contreras-Ochando, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed**, M. Jos&eacute; Ram&iacute;rez-Quintana: [*"Automated Data Transformation with Inductive Programming and Dynamic Background Knowledge"*](https://ecmlpkdd2019.org/downloads/paper/743.pdf), Proceedings of the [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2019)](https://ecmlpkdd2019.org/), Würzburg, Germany, September 16-20, 2019. 
+*  Lidia Contreras-Ochando, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed**, M. Jos&eacute; Ram&iacute;rez-Quintana: [*"Automated Data Transformation with Inductive Programming and Dynamic Background Knowledge"*](https://doi.org/10.1007/978-3-030-46133-1_44), Proceedings of the [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2019)](https://ecmlpkdd2019.org/), Würzburg, Germany, September 16-20, 2019. 
 
-*  Lidia Contreras-Ochando, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed**, M. Jos&eacute; Ram&iacute;rez-Quintana: [*"ABK-ADAPT: Dynamic Background Knowledge for Automating Data Transformation"*](https://ecmlpkdd2019.org/programme/demos/), Proceedings of the [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2019)](https://ecmlpkdd2019.org/), Würzburg, Germany, September 16-20, 2019.
+*  Lidia Contreras-Ochando, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed**, M. Jos&eacute; Ram&iacute;rez-Quintana: [*"ABK-ADAPT: Dynamic Background Knowledge for Automating Data Transformation"*](https://doi.org/10.1007/978-3-030-46133-1_45), Proceedings of the [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2019)](https://ecmlpkdd2019.org/), Würzburg, Germany, September 16-20, 2019.
 
 *  Jos&eacute; Hern&aacute;ndez-Orallo, **Fernando Mart&iacute;nez-Plumed**, Shahar Avin and Se&aacute;n &Oacute; H&Eacute;igeartaigh: [*"Surveying Safety-relevant AI Characteristics"*](http://ceur-ws.org/Vol-2301/paper_22.pdf), [The AAAI's Workshop on Artificial Intelligence Safety (SafeAI)](https://safeai.webs.upv.es/), Honolulu, Hawaii, USA, January 27, 2019. [**Best Paper Award Runner-up**](https://www.cser.ac.uk/news/safeai-workshop/)
 
