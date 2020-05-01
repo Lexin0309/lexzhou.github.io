@@ -59,13 +59,13 @@ Recent Highlights
 
 * Open Data believer. Part of the <a href="http://dataupv.webs.upv.es/">DataUPV</a> team.
 
-Program Committees and Service
+Program Committees
 ======
 
-* IJCAI 2019, 2020
-* AAAI 2020
-* NIPS/NeurIPS 2018, 2019, 2020
-* UAI 2019, 2020
-* ICRL 2019, 2020
-* ECAI 2020
-* ECML 2020
+* IJCAI [2019](https://ijcai19.org/), [2020](https://ijcai20.org/)
+* AAAI [2020](https://aaai.org/Conferences/AAAI-20/)
+* NIPS/NeurIPS [2018](https://nips.cc/Conferences/2018), [2019](https://nips.cc/Conferences/2019), [2020](https://nips.cc/Conferences/2020)
+* UAI [2019](http://auai.org/uai2019/), [2020](http://www.auai.org/uai2020/)
+* ICRL [2019](https://iclr.cc/Conferences/2019), [2020](https://iclr.cc/)
+* ECAI [2020](http://ecai2020.eu/)
+* ECML [2020](https://ecmlpkdd2020.net/)
