@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral researcher at the [Joint Research Centre](https://ec.europa.eu/jrc/en/about/jrc-site/seville), European Commission. Lecturer in the [Master in Big Data Analytics](http://bigdata.inf.upv.es/) and in the [Máster Universitario en Ingeniería Informática](http://muiinf.webs.upv.es/) at the Technical University of Valencia ([UPV](http://www.upv.es/)). Teaching Assistant in the [Máster Universitario en Investigación en Inteligencia Artificial](http://www.uimp.es/postgrado/estudios/fichaestudio.php?plan=P03S&any=2016-17&verasi=N&lan=es) at [UIMP](http://www.uimp.es/). I received a B.Sc. degree in Computer Science (2009), M.Sc. degree in Software Engineering, Formal Methods and Information Systems (2010), a Post-Graduate Diploma in Engineering Business Management (2011) and a Ph.D in Computer Science (2016) from UPV. My main research and academic interest encompasses several areas of Artificial Intelligence, machine learning, IRT, inductive programming, cognitive systems, data science and visualisation. 
+Scientific Project Officer at the [Joint Research Centre](https://ec.europa.eu/jrc/en/about/jrc-site/seville), European Commission. Lecturer in the [Master in Big Data Analytics](http://bigdata.inf.upv.es/) and in the [Máster Universitario en Ingeniería Informática](http://muiinf.webs.upv.es/) at the Technical University of Valencia ([UPV](http://www.upv.es/)). Teaching Assistant in the [Máster Universitario en Investigación en Inteligencia Artificial](http://www.uimp.es/postgrado/estudios/fichaestudio.php?plan=P03S&any=2016-17&verasi=N&lan=es) at [UIMP](http://www.uimp.es/). I received a B.Sc. degree in Computer Science (2009), M.Sc. degree in Software Engineering, Formal Methods and Information Systems (2010), a Post-Graduate Diploma in Engineering Business Management (2011) and a Ph.D in Computer Science (2016) from UPV. My main research and academic interest encompasses several areas of Artificial Intelligence, machine learning, IRT, inductive programming, cognitive systems, data science and visualisation. 
 
 Recent Highlights
 ======
@@ -52,7 +52,7 @@ Program Committees
 Prizes
 ======
 
-* [**Best Paper Award**]() @ [ECAI 2016](http://www.ecai2016.org) [*Making sense of item response theory in machine learning*](http://ebooks.iospress.com/volumearticle/44867)
+* [**Best Paper Award**]() @ [ECAI 2016](http://www.ecai2016.org): [*Making sense of item response theory in machine learning*](http://ebooks.iospress.com/volumearticle/44867)
 
 * [**Best Paper Award Runner-up**](https://www.cser.ac.uk/news/safeai-workshop/) @ [AAAI SafeAI 2019](https://safeai.webs.upv.es/): [*Surveying Safety-relevant AI Characteristics*](http://ceur-ws.org/Vol-2301/paper_22.pdf)
 
