@@ -20,6 +20,11 @@ author_profile: true
 
 * Song&uuml;l Tolan, Annarosa Pesole, **Fernando Mart&iacute;nez-Plumed**, Enrique Fernández-Macias, José Hernández-Orallo, Emilia Gómez: [*"Measuring the occupational impact of AI beyond automation: tasks, cognitive abilities and AI benchmarks"*](), [1st LISER-IAB Conference on Digital Transformations and the Future of Work](https://inomics.com/de/conference/1st-liser-iab-conference-on-digital-transformations-and-the-future-of-work-1397090), Luxembourg, Feb 13-14, 2020.
 
+* Sofia Samoili, Montserrat Lopez Cobo, Emilia Gomez, Giuditta De Prato, **Fernando Martinez-Plumed**, Blagoj Delipetrev: [*“AI WATCH. Defining Artificial Intelligence”*](http://dx.doi.org/10.2760/382730), Publications Office of the European Union, Luxembourg, 2020, ISBN 978-92-76-17045-7 (online), doi:10.2760/382730 (online), JRC118163, 2020.
+
+* **Fernando Martínez Plumed**, Jose Hernández-Orallo, Emilia Gómez, [*"AI Watch: Methodology to Monitor the Evolution of AI Technologies"*](http://dx.doi.org/10.2760/643950), Publications Office of the European Union, Seville, 2020, ISBN 978-92-76-17153-9 (online), doi:10.2760/643950 (online), JRC120090, 2020.
+
+
 2019
 ----
 * **Fernando Mart&iacute;nez-Plumed**, Ricardo B. C. Prud&ecirc;ncio, Adolfo Mart&iacute;nez-Uso, Jos&eacute; Hern&aacute;ndez-Orallo:  [*"Item Response Theory in AI: Analysing Machine Learning Classifiers at the Instance Level"*](
