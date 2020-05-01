@@ -21,9 +21,9 @@ Recent Highlights
 
 * Paper accepted for the [AAAI/ACM Conference on Artificcial Intelligence, Ethics, and Society](https://www.aies-conference.com/2020/): "Does AI Qualify for the Job? A Bidirectional Model Mapping Labour and AI Intensities", 2020.
 
-* European Commission's expert assistant: [HUMAINT](https://ec.europa.eu/jrc/communities/en/community/humaint) project within the [Centre for Advanced Studies (CAS)](), linked to the [Digital Transformation and Artificial Intelligence Project](https://ec.europa.eu/jrc/en/research-topic/digital-economy), Digital Economy Unit, Joint Research Centre, European Commission.
-
 * Paper accepted for the Artificial Intelligence Journal: [*Item Response Theory in AI: Analysing Machine Learning Classifiers at the Instance Level*](https://authors.elsevier.com/a/1YWua-c5NdLy), 2019.
+
+* 2 papers accepted for ECML 2019:  [Automated Data Transformation with Inductive Programming and Dynamic Background Knowledge](https://doi.org/10.1007/978-3-030-46133-1_44) and [ABK-ADAPT: Dynamic Background Knowledge for Automating Data Transformation](https://doi.org/10.1007/978-3-030-46133-1_45).
 
 * [**Best Paper Award Runner-up**](https://www.cser.ac.uk/news/safeai-workshop/) @ [AAAI SafeAI 2019](https://safeai.webs.upv.es/): [*Surveying Safety-relevant AI Characteristics*](http://ceur-ws.org/Vol-2301/paper_22.pdf)
 
@@ -35,15 +35,7 @@ Recent Highlights
 
 * Co-organised  the 1st Workshop on *[Architectures and Evaluation for Generality, Autonomy & Progress in AI (AEGAP2017)](http://cadia.ru.is/workshops/aegap2018/)*  @ [IJCAI-ECAI 2018](https://www.ijcai-18.org/), [AAMAS 2018](http://celweb.vuse.vanderbilt.edu/aamas18/) & [ICML 2018](https://icml.cc/) which took place in in Stockholm in July 2018.
 		
-* Co-organised  the 2nd Workshop *[Evaluating General-Purpose AI (EGPAI 2017)](http://users.dsic.upv.es/~flip/EGPAI2017/)* @ [IJCAI 2017] (http://ijcai-17.org/) at Melbourne (Australia) in August 20, 2017.
-					
-* Co-organised  the 1st Workshop <a href="http://users.dsic.upv.es/~flip/DWA2016/">Data Wrangling Automation (DWA 2016)</a> @ <a href="http://icdm2016.eurecat.org/"> ICDM 2016</a> at Barcelona (Spain) in December 12, 2016.
-					
-* Paper accepted for AI magazine: [*A New AI Evaluation Cosmos: Ready to Play the Game*](https://doi.org/10.1609/aimag.v38i3.2748), Fall 2017.
 
-* <a href="http://www.ecai2016.org">ECAI 2016</a> <b>Best Paper Award</b>: F. Mart&iacute;nez-Plumed, Ricardo Prud&ecirc;ncio, Adolfo Mart&iacute;nez-Uso, Jose Hern&aacute;ndez-Orallo, <a href="http://ebooks.iospress.com/volumearticle/44867"><em>"Making sense of item response theory in machine learning"</em></a>, The Hague (Holland), 2016.
-
-* <a href="http://www.journals.elsevier.com/artificial-intelligence/">Artificial Intelligence Journal</a> paper: J. Hern&aacute;ndez-Orallo, F. Mart&iacute;nez-Plumed, U. Schmid, M. Siebers, D L Dowe <em><a href="http://www.sciencedirect.com/science/article/pii/S0004370215001538">"Computer models solving intelligence test problems: progress and implications"</a></em>, 2016.
 
 
 
