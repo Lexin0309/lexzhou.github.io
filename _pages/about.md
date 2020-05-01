@@ -33,7 +33,7 @@ Recent Highlights
 
 * Researcher and main developer of [**SATAN**](https://safe-tools.dsic.upv.es/shiny/saler/) (with [Generalitat Valenciana](https://safe-tools.dsic.upv.es/shiny/saler/)), a data science project to detect and prevent fraud and corruption in public administration. The project is having  an extraordinary [media coverage](https://www.google.com/search?safe=off&biw=1920&bih=969&tbm=nws&ei=QgFUXP-PBISAur4PrqKCqAU&q=SATAN+sistema+alertas+generalitat+valenciana+&oq=SATAN+sistema+alertas+generalitat+valenciana+&gs_l=psy-ab.3...25935.31932.0.32104.17.17.0.0.0.0.110.1520.13j4.17.0....0...1c.1.64.psy-ab..4.1.96...33i10k1.0.VJ2Jg4ik1bE).  
 
-* Co-organised  the 1st Workshop on *[Architectures and Evaluation for Generality, Autonomy & Progress in AI (AEGAP2017)](http://cadia.ru.is/workshops/aegap2018/)*  @ [IJCAI-ECAI 2018](https://www.ijcai-18.org/), [AAMAS 2018](http://celweb.vuse.vanderbilt.edu/aamas18/) & [ICML 2018](https://icml.cc/) which took place in in Stockholm in July 2018.
+* Co-organised  the 1st Workshop on *[Architectures and Evaluation for Generality, Autonomy & Progress in AI (AEGAP2018)](http://cadia.ru.is/workshops/aegap2018/)*  @ [IJCAI-ECAI 2018](https://www.ijcai-18.org/), [AAMAS 2018](http://celweb.vuse.vanderbilt.edu/aamas18/) & [ICML 2018](https://icml.cc/) which took place in in Stockholm in July 2018.
 		
 
 
