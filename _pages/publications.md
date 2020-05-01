@@ -16,7 +16,7 @@ author_profile: true
 * Raül Fabra-Boluda, Cèsar Ferri, **Fernando Martínez-Plumed**, Jose Hernández-Orallo, Mª José Ramírez-Quintana, [*"Family and Prejudice: A Behavioural Taxonomy ofMachine Learning Techniques"*](), Proceedings of the [24th European Conference on Artificial Intelligence (ECAI 2020)](http://ecai2020.eu/),  Santiago de Compostela, Spain, September 2020.
 
 
-* **Fernando Mart&iacute;nez-Plumed**,  Song&uuml;l Tolan, Annarosa Pesole, José Hernández-Orallo, Enrique Fernández-Macias, Emilia Gómez: [*"Does AI Qualify for the Job? A Biderectional Model Mapping Labour and AI intensities"*](), Proceedings of the [AAAI/ACM conference on Artificial Intelligence, Ethics and Society (AIES 2020)](https://www.aies-conference.com/2020/), New York, USA, February 7-8, 2020.
+* **Fernando Mart&iacute;nez-Plumed**,  Song&uuml;l Tolan, Annarosa Pesole, José Hernández-Orallo, Enrique Fernández-Macias, Emilia Gómez: [*"Does AI Qualify for the Job? A Biderectional Model Mapping Labour and AI intensities"*](https://doi.org/10.1145/3375627.3375831 ), Proceedings of the [AAAI/ACM conference on Artificial Intelligence, Ethics and Society (AIES 2020)](https://www.aies-conference.com/2020/), New York, USA, February 7-8, 2020.
 
 * Song&uuml;l Tolan, Annarosa Pesole, **Fernando Mart&iacute;nez-Plumed**, Enrique Fernández-Macias, José Hernández-Orallo, Emilia Gómez: [*"Measuring the occupational impact of AI beyond automation: tasks, cognitive abilities and AI benchmarks"*](), [1st LISER-IAB Conference on Digital Transformations and the Future of Work](https://inomics.com/de/conference/1st-liser-iab-conference-on-digital-transformations-and-the-future-of-work-1397090), Luxembourg, Feb 13-14, 2020.
 
