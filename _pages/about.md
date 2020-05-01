@@ -52,7 +52,7 @@ Program Committees
 Prizes
 ======
 
-* <a href="http://www.ecai2016.org">ECAI 2016</a> <b>Best Paper Award</b>: F. Mart&iacute;nez-Plumed, Ricardo Prud&ecirc;ncio, Adolfo Mart&iacute;nez-Uso, Jose Hern&aacute;ndez-Orallo, <a href="http://ebooks.iospress.com/volumearticle/44867"><em>"Making sense of item response theory in machine learning"</em></a>, The Hague (Holland), 2016.
+* [**Best Paper Award**]() @ [ECAI 2016](http://www.ecai2016.org) [*Making sense of item response theory in machine learning*](http://ebooks.iospress.com/volumearticle/44867)
 
 * [**Best Paper Award Runner-up**](https://www.cser.ac.uk/news/safeai-workshop/) @ [AAAI SafeAI 2019](https://safeai.webs.upv.es/): [*Surveying Safety-relevant AI Characteristics*](http://ceur-ws.org/Vol-2301/paper_22.pdf)
 
