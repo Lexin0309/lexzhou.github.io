@@ -25,8 +25,6 @@ Recent Highlights
 
 * 2 papers accepted for ECML 2019:  [Automated Data Transformation with Inductive Programming and Dynamic Background Knowledge](https://doi.org/10.1007/978-3-030-46133-1_44) and [ABK-ADAPT: Dynamic Background Knowledge for Automating Data Transformation](https://doi.org/10.1007/978-3-030-46133-1_45).
 
-* [**Best Paper Award Runner-up**](https://www.cser.ac.uk/news/safeai-workshop/) @ [AAAI SafeAI 2019](https://safeai.webs.upv.es/): [*Surveying Safety-relevant AI Characteristics*](http://ceur-ws.org/Vol-2301/paper_22.pdf)
-
 * Paper accepted for the  IEEE Transactions on Games Journal: [*Dual Indicators to Analyse AI Benchmarks: Difficulty, Discrimination, Ability and Generality*](https://doi.org/10.1109/TG.2018.2883773), 2018.
 
 * Paper accepted for [IJCAI 2018](https://www.ijcai-18.org/): [*The Facets of Artificial Intelligence*](https://www.ijcai.org/proceedings/2018/718). 
@@ -51,8 +49,13 @@ Program Committees
 * ECML [2020](https://ecmlpkdd2020.net/)
 
 
-Hackathon Prizes
+Prizes
 ======
+
+* <a href="http://www.ecai2016.org">ECAI 2016</a> <b>Best Paper Award</b>: F. Mart&iacute;nez-Plumed, Ricardo Prud&ecirc;ncio, Adolfo Mart&iacute;nez-Uso, Jose Hern&aacute;ndez-Orallo, <a href="http://ebooks.iospress.com/volumearticle/44867"><em>"Making sense of item response theory in machine learning"</em></a>, The Hague (Holland), 2016.
+
+* [**Best Paper Award Runner-up**](https://www.cser.ac.uk/news/safeai-workshop/) @ [AAAI SafeAI 2019](https://safeai.webs.upv.es/): [*Surveying Safety-relevant AI Characteristics*](http://ceur-ws.org/Vol-2301/paper_22.pdf)
+
 
 * <a href="http://www.upv.es/noticias-upv/noticia-10040-hackforgood-gl-es.html"><b>2nd Prize (Local) & 2nd Prize (National)</b></a> VI Hackathon Telef&oacute;nica <em><a href="http://hackforgood.net/">HackForGood 2018</a></em> - Project <a href="http://users.dsic.upv.es/~flip/particleAI/">ParticleAI</a>.
 
