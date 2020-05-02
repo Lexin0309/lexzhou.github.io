@@ -48,10 +48,10 @@ author_profile: true
 * Business Intelligence: 2019/20
 * Big Data para Negocios: 2019/20
 
-### [edX](https://www.edx.org/es/course/aprendizaje-automatico-y-ciencia-de-datos) (MOOC)
+### [edX](https://www.edx.org/es/course/aprendizaje-automatico-y-ciencia-de-datos)
 
 
-* Aprendizaje automático y ciencia de datos: 2018/19 - 2019/20
+* [MOOC] Aprendizaje automático y ciencia de datos: 2018/19 - 2019/20
   * ~13K already enrolled!
 
 
