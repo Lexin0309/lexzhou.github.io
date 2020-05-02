@@ -37,21 +37,21 @@ author_profile: true
 * Visualización de Información Médica: 2015/16 - 2016/17 - 2017/18 - 2018/19 - 2019/20
 
 ### [Master Universitario en Investigación en Inteligencia Artificial](http://www.aepia.org/aepia/index.php/masteria)  - UIMP - AEPIA
----
+
 
 * Ciencia de datos y aprendizaje automático: 2016/17 - 2017/18 - 2018/19 - 2019/20
 
 
 ### [Master of Business Administration](https://www.cegea.upv.es/formacion/mdpe-mba/) - CEGEA - UPV
-----
+
 
 * Business Intelligence: 2019/20
 * Big Data para Negocios: 2019/20
 
-### edX (MOOC)
-----
+### [edX](https://www.edx.org/es/course/aprendizaje-automatico-y-ciencia-de-datos) (MOOC)
 
-* [Aprendizaje automático y ciencia de datos](https://www.edx.org/es/course/aprendizaje-automatico-y-ciencia-de-datos): 2018/19 - 2019/20
+
+* Aprendizaje automático y ciencia de datos: 2018/19 - 2019/20
   * ~13K already enrolled!
 
 
