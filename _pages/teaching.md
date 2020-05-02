@@ -20,29 +20,29 @@ author_profile: true
 
 
 
-### Bachelor's Degree in Informatics Engineering - ETSInf - UPV
+### [Bachelor's Degree in Informatics Engineering](https://www.upv.es/titulaciones/GII/) - ETSInf - UPV
 
 
-* Sistemas de Información Estratégicos (SIE): 2013/14, 2014/15, 2018/19, 2019/20
+* Sistemas de Información Estratégicos (SIE): 2013/14 - 2014/15 - 2018/19 - 2019/20
 
-### Master's Degree in Informatics Engineering - ETSInf - UPV
-
-
-* Data Science (CDA): 2017/18, 2018/19, 2019/20
-
-### Master Big Data Analytics - ETSInf - UPV
+### [Master's Degree in Informatics Engineering](http://www.upv.es/titulaciones/MUIINF/indexi.html) - ETSInf - UPV
 
 
-* Introducción al Business Intelligence: 2014/15, 2015/16, 2016/17, 2017/18, 2018/19, 2019/20
-* Visualización de Información Médica: 2015/16, 2016/17, 2017/18, 2018/19, 2019/20
+* Data Science (CDA): 2017/18 - 2018/19 - 2019/20
 
-### Master Universitario en Investigación en Inteligencia Artificial  - UIMP
+### [Master Big Data Analytics](https://bigdata.webs.upv.es/) - ETSInf - UPV
+
+
+* Introducción al Business Intelligence: 2014/15 - 2015/16 - 2016/17 - 2017/18 - 2018/19 - 2019/20
+* Visualización de Información Médica: 2015/16 - 2016/17 - 2017/18 - 2018/19 - 2019/20
+
+### [Master Universitario en Investigación en Inteligencia Artificial](http://www.aepia.org/aepia/index.php/masteria)  - UIMP - AEPIA
 ---
 
-* Ciencia de datos y aprendizaje automático: 2016/17, 2017/18, 2018/19, 2019/20
+* Ciencia de datos y aprendizaje automático: 2016/17 - 2017/18 - 2018/19 - 2019/20
 
 
-### Master of Business Administration - CEGEA - UPV
+### [Master of Business Administration](https://www.cegea.upv.es/formacion/mdpe-mba/) - CEGEA - UPV
 ----
 
 * Business Intelligence: 2019/20
@@ -51,6 +51,7 @@ author_profile: true
 ### edX (MOOC)
 ----
 
-* Aprendizaje automático y ciencia de datos: 2018/19, 2019/20
+* [Aprendizaje automático y ciencia de datos](https://www.edx.org/es/course/aprendizaje-automatico-y-ciencia-de-datos): 2018/19 - 2019/20
+  * ~13K already enrolled!
 
 
