@@ -49,7 +49,7 @@ Program Committees
 * ECML [2020](https://ecmlpkdd2020.net/)
 
 
-Prizes
+Awards
 ======
 
 * [**Best Paper Award**]() @ [ECAI 2016](http://www.ecai2016.org): [*Making sense of item response theory in machine learning*](http://ebooks.iospress.com/volumearticle/44867)
