@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/fmartinezplumed/"
   orcid            : "http://orcid.org/0000-0003-2902-6477"
   pinterest        :
   soundcloud       :
@@ -176,9 +176,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
