@@ -55,8 +55,8 @@ Organising Committees
 
 * Co-organising the 1st [**Evaluating Progress in AI (EPAI2020)**](http://dmip.webs.upv.es/EPAI2020/) Workshop at [ECAI 2020](http://ecai2020.eu/).
 * Co-organised the 1st [**Architectures and Evaluation for Generality, Autonomy & Progress in AI (AEGAP)**](http://cadia.ru.is/workshops/aegap2018/) Workshop at [IJCAI 2018](https://www.ijcai-18.org/).
-* Co-organised the 2nd [**Evaluating General-Purpose AI (EGPAI)**](http://dmip.webs.upv.es/EGPAI2017/) Workshop at [IJCAI 2017]().
-* Co-organised the 1st [**Data Wrangling Automation (DWA)**](http://dmip.webs.upv.es/DWA2016/) Workshop at [ICDM 2016]().
+* Co-organised the 2nd [**Evaluating General-Purpose AI (EGPAI)**](http://dmip.webs.upv.es/EGPAI2017/) Workshop at [IJCAI 2017](https://ijcai-17.org/).
+* Co-organised the 1st [**Data Wrangling Automation (DWA)**](http://dmip.webs.upv.es/DWA2016/) Workshop at [ICDM 2016](https://icdm2016.eurecat.cat/).
 
 
 Awards
