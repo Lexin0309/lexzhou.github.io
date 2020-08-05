@@ -15,7 +15,7 @@ Recent Highlights
 
 * Co-organising the 1st Workshop on *[Evaluating Progress in AI (EPAI2020)](http://dmip.webs.upv.es/EPAI2020/)*  @ [ECAI 2020](http://ecai2020.eu/) taking place (digitally) in Santiago (Spain) in September 4, 2020.
 
-* 3 papers accepted for ECAI 2020:  [Tracking AI: The Capability is (Not) Near](http://ecai2020.eu/papers/1009_paper.pdf),  [AI Paradigms and AI Safety: Mapping Artefacts and Techniques to Safety Issues](https://digital.ecai2020.eu/papers/1364_paper.pdf) and [Family and Prejudice: A Behavioural Taxonomy of Machine Learning Techniques](https://digital.ecai2020.eu/papers/1285_paper.pdf).
+* 3 papers accepted for ECAI 2020:  [Tracking AI: The Capability is (Not) Near](http://ecai2020.eu/papers/1009_paper.pdf),  [AI Paradigms and AI Safety: Mapping Artefacts and Techniques to Safety Issues](https://ecai2020.eu/papers/1364_paper.pdf) and [Family and Prejudice: A Behavioural Taxonomy of Machine Learning Techniques](https://ecai2020.eu/papers/1285_paper.pdf).
 
 * Paper accepted for IEEE Transactions on Knowledge and Data Engineering journal: [*CRISP-DM Twenty Years Later: From Data Mining Processes to Data Science Trajectories*](https://doi.org/10.1109/TKDE.2019.2962680), 2020.
 
