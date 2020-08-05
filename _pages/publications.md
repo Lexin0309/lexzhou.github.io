@@ -9,12 +9,13 @@ author_profile: true
 
 * **Fernando Mart&iacute;nez-Plumed**, Lidia Contreras-Ochando, C&egrave;sar Ferri, Jos&eacute; Hern&aacute;ndez-Orallo, Meelis Kull, Nicolas Lachiche and M. Jos&eacute; Ram&iacute;rez-Quintana, Peter Flach: [*"CRISP-DM Twenty Years Later: From Data Mining Processes to Data Science Trajectories"*](https://doi.org/10.1109/TKDE.2019.2962680),  [IEEE Transactions on Knowledge and Data Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69) (Early Access), 2020.
 
+* **Fernando Mart&iacute;nez-Plumed**, Jos&eacute; Hern&aacute;ndez-Orallo, [*"Dual Indicators to Analyse AI Benchmarks: Difficulty, Discrimination, Ability and Generality"*](https://doi.org/10.1109/TG.2018.2883773), [IEEE Transactions on Games](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673) Volume: 12 (2), pp 121 - 131, June 2020.
+
 * **Fernando Martínez-Plumed**, Jose Hernández-Orallo, Emilia Gómez, [*"Tracking AI: The Capability is (Not) Near"*](),  Proceedings of the [24th European Conference on Artificial Intelligence (ECAI 2020)](http://ecai2020.eu/),  Santiago de Compostela, Spain, September 2020.
 
-* Jose Hernández-Orallo, **Fernando Martínez-Plumed**, Shahar Avin, Jess Whittlestone, Seán Ó hÉigeartaigh, [*"AI Paradigms and AI Safety:Mapping Artefacts and Techniques to Safety Issues"*](), Proceedings of the [24th European Conference on Artificial Intelligence (ECAI 2020)](http://ecai2020.eu/),  Santiago de Compostela, Spain, September 2020.
+* Jose Hernández-Orallo, **Fernando Martínez-Plumed**, Shahar Avin, Jess Whittlestone, Seán Ó hÉigeartaigh, [*"AI Paradigms and AI Safety:Mapping Artefacts and Techniques to Safety Issues"*](https://digital.ecai2020.eu/papers/1364_paper.pdf), Proceedings of the [24th European Conference on Artificial Intelligence (ECAI 2020)](http://ecai2020.eu/),  Santiago de Compostela, Spain, September 2020.
 
-* Raül Fabra-Boluda, Cèsar Ferri, **Fernando Martínez-Plumed**, Jose Hernández-Orallo, Mª José Ramírez-Quintana, [*"Family and Prejudice: A Behavioural Taxonomy ofMachine Learning Techniques"*](), Proceedings of the [24th European Conference on Artificial Intelligence (ECAI 2020)](http://ecai2020.eu/),  Santiago de Compostela, Spain, September 2020.
-
+* Raül Fabra-Boluda, Cèsar Ferri, **Fernando Martínez-Plumed**, Jose Hernández-Orallo, Mª José Ramírez-Quintana, [*"Family and Prejudice: A Behavioural Taxonomy ofMachine Learning Techniques"*](https://digital.ecai2020.eu/papers/1285_paper.pdf), Proceedings of the [24th European Conference on Artificial Intelligence (ECAI 2020)](http://ecai2020.eu/),  Santiago de Compostela, Spain, September 2020.
 
 * **Fernando Mart&iacute;nez-Plumed**,  Song&uuml;l Tolan, Annarosa Pesole, José Hernández-Orallo, Enrique Fernández-Macias, Emilia Gómez: [*"Does AI Qualify for the Job? A Biderectional Model Mapping Labour and AI intensities"*](https://doi.org/10.1145/3375627.3375831 ), Proceedings of the [AAAI/ACM conference on Artificial Intelligence, Ethics and Society (AIES 2020)](https://www.aies-conference.com/2020/), New York, USA, February 7-8, 2020.
 
@@ -23,6 +24,11 @@ author_profile: true
 * Sofia Samoili, Montserrat Lopez Cobo, Emilia Gomez, Giuditta De Prato, **Fernando Martinez-Plumed**, Blagoj Delipetrev: [*“AI WATCH. Defining Artificial Intelligence”*](http://dx.doi.org/10.2760/382730), Publications Office of the European Union, Luxembourg, 2020, ISBN 978-92-76-17045-7 (online), doi:10.2760/382730 (online), JRC118163, 2020.
 
 * **Fernando Martínez Plumed**, Jose Hernández-Orallo, Emilia Gómez, [*"AI Watch: Methodology to Monitor the Evolution of AI Technologies"*](http://dx.doi.org/10.2760/643950), Publications Office of the European Union, Seville, 2020, ISBN 978-92-76-17153-9 (online), doi:10.2760/643950 (online), JRC120090, 2020.
+
+*  Delipetrev, B., Tsinaraki, C., Nepelski, D., Gomez Gutierrez, E., **Martinez Plumed, F.**, Misuraca, G., De Prato, G., Fullerton, K., Craglia, M., Duch Brown, N., Nativi, S. and Van Roy, V., [*"AI Watch 2019 Activity Report"*](http://dx.doi.org/10.2760/007745), Desruelle, P. editor(s), EUR 30254 EN, Publications Office of the European Union, Luxembourg, 2020, ISBN 978-92-76-19515-3 (online), doi:10.2760/007745 (online)
+
+* Nativi, S., Anastasakis, K., Asturiol Bofill, D., Balahur-Dobrescu, A., Barbaglia, L., Baumann, K., Beslay, L., Bremer, S., Cardona, M., Castillo, C., Charisi, V., Consoli, S., Corban, C., D`andrimont, R., De Prato, G., Deceuninck, P., Delipetrev, B., Devos, W., Dottori, F., Duch Brown, N., Ferrara, P., Ferri, S., Gomez Gutierrez, E., Gomez Losada, A., Halamoda Kenzaoui, B., Halkia, S., Hamon, R., Hradec, J., Jenkinson, G., Junklewitz, H., Kalas, M., Kemper, T., Lemoine, G., Lopez Cobo, M., Lorini, V., Manzan, S., Martinez Sanchez, L., **Martinez Plumed** , F., Milenov, P., Nai Fovino, I., Nappo, D., Noce, L., Papazoglou, M., Petrillo, M., Piovesan, J., Puertas Gallardo, A., Righi, R., Rolland, E., Sabo, F., Salamon, P., Samoili, S., Sanchez Martin, J., Sanchez Belenguer, C., Sequeira, V., Soille, P., Syrris, V., Thomakos, D., Tolan, S., Tosetti, E., Van Damme, M., Van Der Velde, M., Vazquez-Prada Baillet, M., Whelan, M., Wittwehr, C., Wolfart, E., Worth, A. and Yordanov, M., [*"Artificial Intelligence at the JRC*"] (http://dx.doi.org/10.2760/864732), 2nd workshop on Artificial Intelligence at the JRC, Ispra 5th July 2019, Nativi, S. editor(s), Publications Office of the European Union, Luxembourg, 2020, ISBN 978-92-76-18943-5 (online),978-92-76-18998-5, doi:10.2760/511755 (online), JRC120539.
+
 
 
 2019
