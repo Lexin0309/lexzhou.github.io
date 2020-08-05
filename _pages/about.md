@@ -13,19 +13,19 @@ Scientific Project Officer at the [Joint Research Centre](https://ec.europa.eu/j
 Recent Highlights
 ======
 
-* Co-organising the 1st Workshop on *[Evaluating Progress in AI (EPAI2020)](http://dmip.webs.upv.es/EPAI2020/)*  @ [ECAI 2020](http://ecai2020.eu/) taking place in Santiago (Spain) in June 9, 2020.
+* Co-organising the 1st Workshop on *[Evaluating Progress in AI (EPAI2020)](http://dmip.webs.upv.es/EPAI2020/)*  @ [ECAI 2020](http://ecai2020.eu/) taking place (digitally) in Santiago (Spain) in September 4, 2020.
 
-* 3 papers accepted for ECAI 2020:  [Tracking AI: The Capability is (Not) Near](),  [AI Paradigms and AI Safety: Mapping Artefacts and Techniques to Safety Issues]() and [Family and Prejudice: A Behavioural Taxonomy of Machine Learning Techniques]().
+* 3 papers accepted for ECAI 2020:  [Tracking AI: The Capability is (Not) Near](http://ecai2020.eu/papers/1009_paper.pdf),  [AI Paradigms and AI Safety: Mapping Artefacts and Techniques to Safety Issues](https://digital.ecai2020.eu/papers/1364_paper.pdf) and [Family and Prejudice: A Behavioural Taxonomy of Machine Learning Techniques](https://digital.ecai2020.eu/papers/1285_paper.pdf).
 
 * Paper accepted for IEEE Transactions on Knowledge and Data Engineering journal: [*CRISP-DM Twenty Years Later: From Data Mining Processes to Data Science Trajectories*](https://doi.org/10.1109/TKDE.2019.2962680), 2020.
+
+* Paper accepted for the  IEEE Transactions on Games Journal: [*Dual Indicators to Analyse AI Benchmarks: Difficulty, Discrimination, Ability and Generality*](https://doi.org/10.1109/TG.2018.2883773), 2020.
 
 * Paper accepted for the [AAAI/ACM Conference on Artificcial Intelligence, Ethics, and Society](https://www.aies-conference.com/2020/): "Does AI Qualify for the Job? A Bidirectional Model Mapping Labour and AI Intensities", 2020.
 
 * Paper accepted for the Artificial Intelligence Journal: [*Item Response Theory in AI: Analysing Machine Learning Classifiers at the Instance Level*](https://authors.elsevier.com/a/1YWua-c5NdLy), 2019.
 
 * 2 papers accepted for ECML 2019:  [Automated Data Transformation with Inductive Programming and Dynamic Background Knowledge](https://doi.org/10.1007/978-3-030-46133-1_44) and [ABK-ADAPT: Dynamic Background Knowledge for Automating Data Transformation](https://doi.org/10.1007/978-3-030-46133-1_45).
-
-* Paper accepted for the  IEEE Transactions on Games Journal: [*Dual Indicators to Analyse AI Benchmarks: Difficulty, Discrimination, Ability and Generality*](https://doi.org/10.1109/TG.2018.2883773), 2018.
 
 * Paper accepted for [IJCAI 2018](https://www.ijcai-18.org/): [*The Facets of Artificial Intelligence*](https://www.ijcai.org/proceedings/2018/718). 
 
