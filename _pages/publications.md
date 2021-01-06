@@ -6,7 +6,7 @@ author_profile: true
 
 2021
 ----
- "Futures of artificial intelligence through technology readiness levels." Telematics and Informatics 58: 101525.
+
 * **Fernando Mart&iacute;nez-Plumed**, Emilia Gómez, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Futures of artificial intelligence through technology readiness levels"*](https://doi.org/10.1016/j.tele.2020.101525),  [Telematics and Informatics](https://www.journals.elsevier.com/telematics-and-informatics), Elsevier, Volume 58, May 2021.
 
 2020
