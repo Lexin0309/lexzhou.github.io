@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+2021
+----
+ "Futures of artificial intelligence through technology readiness levels." Telematics and Informatics 58: 101525.
+* **Fernando Mart&iacute;nez-Plumed**, Emilia Gómez, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Futures of artificial intelligence through technology readiness levels"*](https://doi.org/10.1016/j.tele.2020.101525),  [Telematics and Informatics](https://www.journals.elsevier.com/telematics-and-informatics), Elsevier, Volume 58, May 2021.
+
 2020
 ----
 
@@ -20,6 +25,8 @@ author_profile: true
 * **Fernando Mart&iacute;nez-Plumed**,  Song&uuml;l Tolan, Annarosa Pesole, José Hernández-Orallo, Enrique Fernández-Macias, Emilia Gómez: [*"Does AI Qualify for the Job? A Biderectional Model Mapping Labour and AI intensities"*](https://doi.org/10.1145/3375627.3375831 ), Proceedings of the [AAAI/ACM conference on Artificial Intelligence, Ethics and Society (AIES 2020)](https://www.aies-conference.com/2020/), New York, USA, February 7-8, 2020.
 
 * Songul Tolan, Annarosa Pesole, **Fernando Martínez-Plumed**, Enrique Fernandez-Macias, José Hernández-Orallo & Emilia Gómez, [*"Measuring the Occupational Impact of AI: Tasks, Cognitive Abilities and AI Benchmarks"*](https://EconPapers.repec.org/RePEc:ipt:laedte:202002), JRC Working Papers on Labour, Education and Technology 2020-02, Joint Research Centre (Seville site). Presented at [1st LISER-IAB Conference on Digital Transformations and the Future of Work](https://inomics.com/de/conference/1st-liser-iab-conference-on-digital-transformations-and-the-future-of-work-1397090), Luxembourg, Feb 13-14, 2020.
+
+* **Fernando Martínez Plumed**, Emilia Gómez, José Hernández-Orallo: ["AI Watch: Assessing Technology Readiness Levels for Artificial Intelligence"](http://dx.doi.org/10.2760/15025), Publications Office of the European Union, Luxembourg, 2020, ISBN 978-92-76-22987-2 (online), EUR 30401 EN, JRC122014, 2020.
 
 * Sofia Samoili, Montserrat Lopez Cobo, Emilia Gomez, Giuditta De Prato, **Fernando Martinez-Plumed**, Blagoj Delipetrev: [*“AI WATCH. Defining Artificial Intelligence”*](http://dx.doi.org/10.2760/382730), Publications Office of the European Union, Luxembourg, 2020, ISBN 978-92-76-17045-7 (online), doi:10.2760/382730 (online), JRC118163, 2020.
 
