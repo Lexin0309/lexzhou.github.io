@@ -62,7 +62,6 @@ https://doi.org/10.1016/j.artint.2018.09.004), [Artificial Intelligence Journal]
 
 2018
 ----
-* **Fernando Mart&iacute;nez-Plumed**, Jos&eacute; Hern&aacute;ndez-Orallo, [*"Dual Indicators to Analyse AI Benchmarks: Difficulty, Discrimination, Ability and Generality"*](https://doi.org/10.1109/TG.2018.2883773), [IEEE Transactions on Games](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782673) (Early Access), November, 2018.
 
 * **Fernando Mart&iacute;nez-Plumed** , Bao Sheng Loe, Peter Flach, Se&aacute;n &Oacute; h&Eacute;igeartaigh, Karina Vold, Jos&eacute; Hern&aacute;ndez-Orallo, [*"The Facets of Artificial Intelligence: A Framework to Track the Evolution of AI"*](https://www.ijcai.org/proceedings/2018/718), Proceedings of the [27th International Joint Conference on Artificial Intelligence (IJCAI 2018)](https://www.ijcai-18.org/), pp 5180-5187, Stockholm, Sweden, July 13-19, 2018.
 
