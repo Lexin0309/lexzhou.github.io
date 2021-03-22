@@ -13,9 +13,9 @@ Scientific Project Officer at the [Joint Research Centre](https://ec.europa.eu/j
 Recent Highlights
 ======
 
-* Paper accepter for the Wiley [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x): [*"Missing the missing values: The ugly duckling of fairness in machine learning"*](https://doi.org/10.1002/int.22415), 2021.
+* Paper accepter for the Wiley International Journal of Intelligent Systems: [*"Missing the missing values: The ugly duckling of fairness in machine learning"*](https://doi.org/10.1002/int.22415), 2021.
 
-* Paper accepter for the Elsevier [Telematics and Informatics](https://www.journals.elsevier.com/telematics-and-informatics): [*"Futures of Artificial Intelligence through Technology Readiness Levels"*](https://doi.org/10.1016/j.tele.2020.101525), 2021.
+* Paper accepter for the Elsevier Telematics and Informatics: [*"Futures of Artificial Intelligence through Technology Readiness Levels"*](https://doi.org/10.1016/j.tele.2020.101525), 2021.
 
 * Co-organising the 1st Workshop on *[Evaluating Progress in AI (EPAI2020)](http://dmip.webs.upv.es/EPAI2020/)*  @ [ECAI 2020](http://ecai2020.eu/) taking place (digitally) in Santiago (Spain) in September 4, 2020.
 
