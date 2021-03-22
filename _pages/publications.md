@@ -7,6 +7,8 @@ author_profile: true
 2021
 ----
 
+* **Fernando Mart&iacute;nez-Plumed**, Pablo Barredo,  Seán Ó hÉigeartaigh, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Missing the missing values: The ugly duckling of fairness in machine learning"*](https://doi.org/10.1002/int.22415),  [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x), Wiley, published as OnlineOpen, 2021.
+
 * **Fernando Mart&iacute;nez-Plumed**, Emilia Gómez, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Futures of Artificial Intelligence through Technology Readiness Levels"*](https://doi.org/10.1016/j.tele.2020.101525),  [Telematics and Informatics](https://www.journals.elsevier.com/telematics-and-informatics), Elsevier, Volume 58, May 2021.
 
 * Gomez Gutierrez, E., Charisi, V., Tolan, S., Miron, M., **Martinez Plumed, F.** and Escobar Planas, M., [*"HUMAINT: Understanding the impact of Artificial Intelligence
