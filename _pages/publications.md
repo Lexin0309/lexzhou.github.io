@@ -11,6 +11,8 @@ author_profile: true
 
 * **Fernando Mart&iacute;nez-Plumed**, Emilia Gómez, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Futures of Artificial Intelligence through Technology Readiness Levels"*](https://doi.org/10.1016/j.tele.2020.101525),  [Telematics and Informatics](https://www.journals.elsevier.com/telematics-and-informatics), Elsevier, Volume 58, May 2021.
 
+* Grubanov-Boskovic, S., Ghio, D., Goujon, A., Kalantaryan, S., Belmonte, M., Scipioni, M., Conte, A., Gómez-González, E., Gomez Gutierrez, E., Tolan, S., **Martinez Plumed, F.**, Pesole, A., Fernandez Macias, E. and Hernandez-Orallo, J., [Healthcare and long-term care workforce: demographic challenges and potential contribution of migration and digital technology](http://dx.doi.org/10.2760/33427),  Publications Office of the European Union, Luxembourg, ISBN 978-92-76-30233-9 (online), 978-92-76-30232-2 (print), 2021.
+
 * Gomez Gutierrez, E., Charisi, V., Tolan, S., Miron, M., **Martinez Plumed, F.** and Escobar Planas, M., [*"HUMAINT: Understanding the impact of Artificial Intelligence
 on human behaviour*](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC122667/humaint-brochure_online-version.pdf), Amran, G. editor(s), Publications Office of the European Union, Luxembourg, 2021, ISBN 978-92-76-28212-9 (online),978-92-76-28211-2 (print).
 
