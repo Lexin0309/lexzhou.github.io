@@ -19,9 +19,7 @@ Recent Highlights
 
 * 3 papers accepted for ECAI 2020:  [Tracking AI: The Capability is (Not) Near](http://ecai2020.eu/papers/1009_paper.pdf),  [AI Paradigms and AI Safety: Mapping Artefacts and Techniques to Safety Issues](https://ecai2020.eu/papers/1364_paper.pdf) and [Family and Prejudice: A Behavioural Taxonomy of Machine Learning Techniques](https://ecai2020.eu/papers/1285_paper.pdf).
 
-* Paper accepted for IEEE Transactions on Knowledge and Data Engineering journal: [*CRISP-DM Twenty Years Later: From Data Mining Processes to Data Science Trajectories*](https://doi.org/10.1109/TKDE.2019.2962680), 2020.
-
-* Paper accepted for the  IEEE Transactions on Games Journal: [*Dual Indicators to Analyse AI Benchmarks: Difficulty, Discrimination, Ability and Generality*](https://doi.org/10.1109/TG.2018.2883773), 2020.
+* Papers accepted for IEEE Transactions on Knowledge and Data Engineering journal: [*CRISP-DM Twenty Years Later: From Data Mining Processes to Data Science Trajectories*](https://doi.org/10.1109/TKDE.2019.2962680), and the IEEE Transactions on Games Journal: [*Dual Indicators to Analyse AI Benchmarks: Difficulty, Discrimination, Ability and Generality*](https://doi.org/10.1109/TG.2018.2883773), 2020.
 
 * Paper accepted for the [AAAI/ACM Conference on Artificcial Intelligence, Ethics, and Society](https://www.aies-conference.com/2020/): "Does AI Qualify for the Job? A Bidirectional Model Mapping Labour and AI Intensities", 2020.
 
