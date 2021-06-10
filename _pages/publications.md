@@ -7,10 +7,13 @@ author_profile: true
 2021
 ----
 
-* **Martínez-Plumed, F.**, Barredo, P., hÉigeartaigh, S.Ó.:. [*Research community dynamics behind popular AI benchmarks*](
+* **Martínez-Plumed, F.**, Barredo, P., hÉigeartaigh, S.Ó., Hernández-Orallo, J.: [*Research community dynamics behind popular AI benchmarks*](
 https://rdcu.be/ckK8X). [Nature Machine Intelligence](https://www.nature.com/natmachintell/), 2021. https://doi.org/10.1038/s42256-021-00339-6
 
 * **Fernando Mart&iacute;nez-Plumed**, Cèsar Ferri, David Nieves, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Missing the missing values: The ugly duckling of fairness in machine learning"*](https://doi.org/10.1002/int.22415),  [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x), Wiley, published as OnlineOpen, 2021.
+
+* Songul Tolan, Annarosa Pesole, **Fernando Martínez-Plumed**, Enrique Fernandez-Macias, José Hernández-Orallo & Emilia Gómez: [*"Measuring the Occupational Impact of AI: Tasks, Cognitive Abilities and AI Benchmarks"*](https://doi.org/10.1613/jair.1.12647), [Journal of Artificial Intelligence Research (JAIR)](https://www.jair.org/index.php/jair), Volume: 71, pp 191-236, 2021.
+
 
 * **Fernando Mart&iacute;nez-Plumed**, Emilia Gómez, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Futures of Artificial Intelligence through Technology Readiness Levels"*](https://doi.org/10.1016/j.tele.2020.101525),  [Telematics and Informatics](https://www.journals.elsevier.com/telematics-and-informatics), Elsevier, Volume 58, May 2021.
 
