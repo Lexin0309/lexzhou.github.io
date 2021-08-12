@@ -7,8 +7,7 @@ author_profile: true
 2021
 ----
 
-* **Martínez-Plumed, F.**, Barredo, P., hÉigeartaigh, S.Ó., Hernández-Orallo, J.: [*Research community dynamics behind popular AI benchmarks*](
-https://rdcu.be/ckK8X). [Nature Machine Intelligence](https://www.nature.com/natmachintell/), 2021.
+* **Martínez-Plumed, F.**, Barredo, P., hÉigeartaigh, S.Ó., Hernández-Orallo, J.: [*Research community dynamics behind popular AI benchmarks*](https://rdcu.be/ckK8X). [Nature Machine Intelligence](https://www.nature.com/natmachintell/), 2021.
 
 * **Fernando Mart&iacute;nez-Plumed**, Cèsar Ferri, David Nieves, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Missing the missing values: The ugly duckling of fairness in machine learning"*](https://doi.org/10.1002/int.22415),  [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x), Wiley, published as OnlineOpen, 2021.
 
@@ -21,6 +20,12 @@ https://rdcu.be/ckK8X). [Nature Machine Intelligence](https://www.nature.com/nat
 
 * Gomez Gutierrez, E., Charisi, V., Tolan, S., Miron, M., **Martinez Plumed, F.** and Escobar Planas, M., [*"HUMAINT: Understanding the impact of Artificial Intelligence
 on human behaviour*](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC122667/humaint-brochure_online-version.pdf), Amran, G. editor(s), Publications Office of the European Union, Luxembourg, 2021, ISBN 978-92-76-28212-9 (online),978-92-76-28211-2 (print).
+
+* **Fernando Mart&iacute;nez-Plumed**, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Project-Based Learning for Scaffolding Data Scientists' Skills"*](), [IEEE 16th International Conference on Computer Science & Education (ICCSE 2021)]http://ieee-iccse.org/(), 17-21, August, Lancaster, United Kingdom, 2021.
+
+* Gonzalo Jaimovitch-Lopez, Cesar Ferri, Jose Hernandez-Orallo, **Fernando Mart&iacute;nez-Plumed** and María José Ramírez-Quintana: [*"Can language models automate data wrangling?"*](https://sites.google.com/view/autods), [ECMLPKDD Workshop on Automating Data Science (ADS 2021)](https://sites.google.com/view/autods), September 2021.
+
+
 
 2020
 ----
