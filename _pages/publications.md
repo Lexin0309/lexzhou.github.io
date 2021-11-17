@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-2021
+2022
 ----
 
 * Jos&eacute; Hern&aacute;ndez-Orallo, Wout Schellaert, **Fernando Mart&iacute;nez-Plumed**, : [*"Training on the Test Set: Mapping the System-Problem Space in AI"*](), [AAAI 36th AAAI Conference on Artificial Intelligence (AAAI 2022)](https://aaai.org/Conferences/AAAI-22/), feb 22 - March 1, Vancouver (Canada), 2022.
