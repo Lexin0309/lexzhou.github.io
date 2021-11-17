@@ -13,7 +13,9 @@ Scientific Project Officer at the [Joint Research Centre](https://ec.europa.eu/j
 Recent Highlights
 ======
 
-* Papers accepted for publication in the Nature Machine Intelligence journal: [*Research community dynamics behind popular AI benchmarks*](https://rdcu.be/ckK8X), the Wiley International Journal of Intelligent Systems: [*"Missing the missing values: The ugly duckling of fairness in machine learning"*](https://doi.org/10.1002/int.22415), the Journal of Artificial Intelligence Research:  [*"Measuring the Occupational Impact of AI: Tasks, Cognitive Abilities and AI Benchmarks"*](https://doi.org/10.1613/jair.1.12647), and the Elsevier Telematics and Informatics: [*"Futures of Artificial Intelligence through Technology Readiness Levels"*](https://doi.org/10.1016/j.tele.2020.101525), 2021
+* Paper accepted for AAAI 2022: [*Training on the Test Set: Mapping the System-Problem Space in AI*]()
+
+* Papers accepted for publication in the Nature Machine Intelligence journal: [*Research community dynamics behind popular AI benchmarks*](https://rdcu.be/ckK8X), Nature Scientific Reports [*General intelligence disentangled via a generality metric for natural and artificial intelligence*](), the Wiley International Journal of Intelligent Systems: [*"Missing the missing values: The ugly duckling of fairness in machine learning"*](https://doi.org/10.1002/int.22415), the Journal of Artificial Intelligence Research:  [*"Measuring the Occupational Impact of AI: Tasks, Cognitive Abilities and AI Benchmarks"*](https://doi.org/10.1613/jair.1.12647), and the Elsevier Telematics and Informatics: [*"Futures of Artificial Intelligence through Technology Readiness Levels"*](https://doi.org/10.1016/j.tele.2020.101525), 2021
 
 * Co-organising the 1st Workshop on *[Evaluating Progress in AI (EPAI2020)](http://dmip.webs.upv.es/EPAI2020/)*  @ [ECAI 2020](http://ecai2020.eu/) taking place (digitally) in Santiago (Spain) in September 4, 2020.
 
