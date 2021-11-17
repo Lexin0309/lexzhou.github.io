@@ -23,14 +23,14 @@ author_profile: true
 
 * **Fernando Mart&iacute;nez-Plumed**, Emilia Gómez, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Futures of Artificial Intelligence through Technology Readiness Levels"*](https://doi.org/10.1016/j.tele.2020.101525),  [Telematics and Informatics](https://www.journals.elsevier.com/telematics-and-informatics), Elsevier, Volume 58, May 2021.
 
+* **Fernando Mart&iacute;nez-Plumed**, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Project-Based Learning for Scaffolding Data Scientists' Skills"*](), [IEEE 16th International Conference on Computer Science & Education (ICCSE 2021)](http://ieee-iccse.org/), 17-21, August, Lancaster, United Kingdom, 2021. [<b>Best Poster Award</b>]
+
 * Grubanov-Boskovic, S., Ghio, D., Goujon, A., Kalantaryan, S., Belmonte, M., Scipioni, M., Conte, A., Gómez-González, E., Gomez Gutierrez, E., Tolan, S., **Martinez Plumed, F.**, Pesole, A., Fernandez Macias, E. and Hernandez-Orallo, J., [Healthcare and long-term care workforce: demographic challenges and potential contribution of migration and digital technology](http://dx.doi.org/10.2760/33427),  Publications Office of the European Union, Luxembourg, ISBN 978-92-76-30233-9 (online), 978-92-76-30232-2 (print), 2021.
 
 * Gomez Gutierrez, E., Charisi, V., Tolan, S., Miron, M., **Martinez Plumed, F.** and Escobar Planas, M., [*"HUMAINT: Understanding the impact of Artificial Intelligence
 on human behaviour*](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC122667/humaint-brochure_online-version.pdf), Amran, G. editor(s), Publications Office of the European Union, Luxembourg, 2021, ISBN 978-92-76-28212-9 (online),978-92-76-28211-2 (print).
 
 * Sofia Samoili, Montserrat Lopez Cobo, Blagoj Delipetrev, **Fernando Martinez-Plumed**, Emilia Gomez, Giuditta De Prato: [*“Defining Artificial Intelligence 2.0. Towards an operational definition and taxonomy of AI for the AI landscape”*](http://dx.doi.org/10.2760/019901), Publications Office of the European Union, Luxembourg, 2021, ISBN 978-92-76-42648-6 (online), doi:10.2760/019901 (online), JRC126426, 2021.
-
-* **Fernando Mart&iacute;nez-Plumed**, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Project-Based Learning for Scaffolding Data Scientists' Skills"*](), [IEEE 16th International Conference on Computer Science & Education (ICCSE 2021)](http://ieee-iccse.org/), 17-21, August, Lancaster, United Kingdom, 2021. [<b>Best Poster Award</b>]
 
 * Gonzalo Jaimovitch-Lopez, Cesar Ferri, Jose Hernandez-Orallo, **Fernando Mart&iacute;nez-Plumed** and María José Ramírez-Quintana: [*"Can language models automate data wrangling?"*](https://sites.google.com/view/autods), [ECMLPKDD Workshop on Automating Data Science (ADS 2021)](https://sites.google.com/view/autods), September 2021.
 
