@@ -15,7 +15,7 @@ author_profile: true
 
 * **Martínez-Plumed, F.**, Barredo, P., hÉigeartaigh, S.Ó., Hernández-Orallo, J.: [*Research community dynamics behind popular AI benchmarks*](https://rdcu.be/ckK8X). [Nature Machine Intelligence](https://www.nature.com/natmachintell/), Vol. 3, pp 581–589, 2021.
 
-José Hernández‑Orallo, Bao Sheng Loe, Lucy Cheke, **Fernando Martínez‑Plumed**, & Seán Ó hÉigeartaigh: [*General intelligence disentangled via a generality metric for natural and artificial intelligence,*](). [Nature Scientific Reports](https://www.nature.com/srep/), 2021.
+* José Hernández‑Orallo, Bao Sheng Loe, Lucy Cheke, **Fernando Martínez‑Plumed**, & Seán Ó hÉigeartaigh: [*General intelligence disentangled via a generality metric for natural and artificial intelligence,*](). [Nature Scientific Reports](https://www.nature.com/srep/), 2021.
 
 * **Fernando Mart&iacute;nez-Plumed**, Cèsar Ferri, David Nieves, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Missing the missing values: The ugly duckling of fairness in machine learning"*](https://doi.org/10.1002/int.22415),  [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x), Wiley, published as OnlineOpen, 2021.
 
