@@ -13,6 +13,8 @@ Scientific Project Officer at the [Joint Research Centre](https://ec.europa.eu/j
 Recent Highlights
 ======
 
+* *European Commission JRC Excellent Award*: 2021 Best Young Researcher
+
 * Paper accepted for AAAI 2022: [*Training on the Test Set: Mapping the System-Problem Space in AI*]()
 
 * Papers accepted for publication in the Nature Machine Intelligence journal: [*Research community dynamics behind popular AI benchmarks*](https://rdcu.be/ckK8X), Nature Scientific Reports [*General intelligence disentangled via a generality metric for natural and artificial intelligence*](), the Wiley International Journal of Intelligent Systems: [*"Missing the missing values: The ugly duckling of fairness in machine learning"*](https://doi.org/10.1002/int.22415), the Journal of Artificial Intelligence Research:  [*"Measuring the Occupational Impact of AI: Tasks, Cognitive Abilities and AI Benchmarks"*](https://doi.org/10.1613/jair.1.12647), and the Elsevier Telematics and Informatics: [*"Futures of Artificial Intelligence through Technology Readiness Levels"*](https://doi.org/10.1016/j.tele.2020.101525), 2021
@@ -63,6 +65,10 @@ Organising Committees
 
 Awards
 ======
+
+* European Commission JRC Excellent Award: 2021 Best Young Researcher
+
+* [**Best Poster Award**](): [16th IEEE ICCSE](http://ieee-iccse.org/): [*Project-Based Learning for Scaffolding Data Scientists' Skills*](https://ieeexplore.ieee.org/document/9569289)
 
 * [**Best Paper Award**]() @ [ECAI 2016](http://www.ecai2016.org): [*Making sense of item response theory in machine learning*](http://ebooks.iospress.com/volumearticle/44867)
 
