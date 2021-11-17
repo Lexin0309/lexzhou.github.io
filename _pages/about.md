@@ -68,7 +68,7 @@ Awards
 
 * European Commission JRC Excellence Award: 2021 Best Young Researcher
 
-* [**Best Poster Award**](): [16th IEEE ICCSE](http://ieee-iccse.org/): [*Project-Based Learning for Scaffolding Data Scientists' Skills*](https://ieeexplore.ieee.org/document/9569289)
+* [**Best Poster Award**]() @ [16th IEEE ICCSE](http://ieee-iccse.org/): [*Project-Based Learning for Scaffolding Data Scientists' Skills*](https://ieeexplore.ieee.org/document/9569289)
 
 * [**Best Paper Award**]() @ [ECAI 2016](http://www.ecai2016.org): [*Making sense of item response theory in machine learning*](http://ebooks.iospress.com/volumearticle/44867)
 
