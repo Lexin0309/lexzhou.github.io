@@ -7,7 +7,7 @@ author_profile: true
 2022
 ----
 
-* Jos&eacute; Hern&aacute;ndez-Orallo, Wout Schellaert, **Fernando Mart&iacute;nez-Plumed**, : [*"Training on the Test Set: Mapping the System-Problem Space in AI"*](), [36th AAAI Conference on Artificial Intelligence (AAAI 2022)](https://aaai.org/Conferences/AAAI-22/), feb 22 - March 1, Vancouver (Canada), 2022.
+* Jos&eacute; Hern&aacute;ndez-Orallo, Wout Schellaert, **Fernando Mart&iacute;nez-Plumed**, : [*"Training on the Test Set: Mapping the System-Problem Space in AI"*](), [36th AAAI Conference on Artificial Intelligence (AAAI 2022)](https://aaai.org/Conferences/AAAI-22/), Feb 22 - March 1, Vancouver, Canada, 2022.
 
 
 2021
@@ -34,7 +34,7 @@ on human behaviour*](https://publications.jrc.ec.europa.eu/repository/bitstream/
 
 * Gonzalo Jaimovitch-Lopez, Cesar Ferri, Jose Hernandez-Orallo, **Fernando Mart&iacute;nez-Plumed** and María José Ramírez-Quintana: [*"Can language models automate data wrangling?"*](https://sites.google.com/view/autods), [ECMLPKDD Workshop on Automating Data Science (ADS 2021)](https://sites.google.com/view/autods), September 2021.
 
-* **Fernando Mart&iacute;nez-Plumed**, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Aprender haciendo para los futuros científicos de datos"*](http://jidinf.webs.upv.es/wp-content/uploads/2021/11/Actas_JIDINF2021.pdf). [Jornadas de Innovación Docente en Ingeniería Informática (JIDINF 2021)](http://jidinf.webs.upv.es/), 5 July, valencia, Spain, 2021.
+* **Fernando Mart&iacute;nez-Plumed**, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Aprender haciendo para los futuros científicos de datos"*](http://jidinf.webs.upv.es/wp-content/uploads/2021/11/Actas_JIDINF2021.pdf). [Jornadas de Innovación Docente en Ingeniería Informática (JIDINF 2021)](http://jidinf.webs.upv.es/), July 5, Valencia, Spain, 2021.
 
 
 2020
