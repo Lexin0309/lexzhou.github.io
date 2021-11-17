@@ -7,12 +7,19 @@ author_profile: true
 2021
 ----
 
-* **Martínez-Plumed, F.**, Barredo, P., hÉigeartaigh, S.Ó., Hernández-Orallo, J.: [*Research community dynamics behind popular AI benchmarks*](https://rdcu.be/ckK8X). [Nature Machine Intelligence](https://www.nature.com/natmachintell/), 2021.
+* Jos&eacute; Hern&aacute;ndez-Orallo, Wout Schellaert, **Fernando Mart&iacute;nez-Plumed**, : [*"Training on the Test Set: Mapping the System-Problem Space in AI"*](), [AAAI 36th AAAI Conference on Artificial Intelligence (AAAI 2022)](https://aaai.org/Conferences/AAAI-22/), feb 22 - March 1, Vancouver (Canada), 2022.
+
+
+2021
+----
+
+* **Martínez-Plumed, F.**, Barredo, P., hÉigeartaigh, S.Ó., Hernández-Orallo, J.: [*Research community dynamics behind popular AI benchmarks*](https://rdcu.be/ckK8X). [Nature Machine Intelligence](https://www.nature.com/natmachintell/), Vol. 3, pp 581–589, 2021.
+
+José Hernández‑Orallo, Bao Sheng Loe, Lucy Cheke, **Fernando Martínez‑Plumed**, & Seán Ó hÉigeartaigh: [*General intelligence disentangled via a generality metric for natural and artificial intelligence,*](). [Nature Scientific Reports](https://www.nature.com/srep/), 2021.
 
 * **Fernando Mart&iacute;nez-Plumed**, Cèsar Ferri, David Nieves, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Missing the missing values: The ugly duckling of fairness in machine learning"*](https://doi.org/10.1002/int.22415),  [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x), Wiley, published as OnlineOpen, 2021.
 
 * Songul Tolan, Annarosa Pesole, **Fernando Martínez-Plumed**, Enrique Fernandez-Macias, José Hernández-Orallo & Emilia Gómez: [*"Measuring the Occupational Impact of AI: Tasks, Cognitive Abilities and AI Benchmarks"*](https://doi.org/10.1613/jair.1.12647), [Journal of Artificial Intelligence Research (JAIR)](https://www.jair.org/index.php/jair), Volume: 71, pp 191-236, 2021.
-
 
 * **Fernando Mart&iacute;nez-Plumed**, Emilia Gómez, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Futures of Artificial Intelligence through Technology Readiness Levels"*](https://doi.org/10.1016/j.tele.2020.101525),  [Telematics and Informatics](https://www.journals.elsevier.com/telematics-and-informatics), Elsevier, Volume 58, May 2021.
 
@@ -25,6 +32,7 @@ on human behaviour*](https://publications.jrc.ec.europa.eu/repository/bitstream/
 
 * Gonzalo Jaimovitch-Lopez, Cesar Ferri, Jose Hernandez-Orallo, **Fernando Mart&iacute;nez-Plumed** and María José Ramírez-Quintana: [*"Can language models automate data wrangling?"*](https://sites.google.com/view/autods), [ECMLPKDD Workshop on Automating Data Science (ADS 2021)](https://sites.google.com/view/autods), September 2021.
 
+* **Fernando Mart&iacute;nez-Plumed**, Jos&eacute; Hern&aacute;ndez-Orallo: [*"Aprender haciendo para los futuros científicos de datos"*](http://jidinf.webs.upv.es/wp-content/uploads/2021/11/Actas_JIDINF2021.pdf). [Jornadas de Innovación Docente en Ingeniería Informática (JIDINF 2021)](http://jidinf.webs.upv.es/), 5 July, valencia, Spain, 2021.
 
 
 2020
