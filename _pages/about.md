@@ -13,7 +13,7 @@ Scientific Project Officer at the [Joint Research Centre](https://ec.europa.eu/j
 Recent Highlights
 ======
 
-* *European Commission JRC Excellent Award*: 2021 Best Young Researcher
+* *European Commission JRC Excellence Award*: 2021 Best Young Researcher
 
 * Paper accepted for AAAI 2022: [*Training on the Test Set: Mapping the System-Problem Space in AI*]()
 
@@ -66,7 +66,7 @@ Organising Committees
 Awards
 ======
 
-* European Commission JRC Excellent Award: 2021 Best Young Researcher
+* European Commission JRC Excellence Award: 2021 Best Young Researcher
 
 * [**Best Poster Award**](): [16th IEEE ICCSE](http://ieee-iccse.org/): [*Project-Based Learning for Scaffolding Data Scientists' Skills*](https://ieeexplore.ieee.org/document/9569289)
 
