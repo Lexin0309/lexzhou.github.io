@@ -7,6 +7,9 @@ author_profile: true
 2022
 ----
 
+* **Fernando Mart&iacute;nez-Plumed**,  David Castellano-Falcón, Carlos Monserrat, Jos&eacute; Hern&aacute;ndez-Orallo: [*"When AI Difficulty is Easy:
+The Explanatory Power of Predicting IRT Difficulty"*](),  [36th AAAI Conference on Artificial Intelligence (AAAI 2022)](https://aaai.org/Conferences/AAAI-22/), Feb 22 - March 1, Vancouver, Canada, 2022.
+
 * Jos&eacute; Hern&aacute;ndez-Orallo, Wout Schellaert, **Fernando Mart&iacute;nez-Plumed**, : [*"Training on the Test Set: Mapping the System-Problem Space in AI"*](), [36th AAAI Conference on Artificial Intelligence (AAAI 2022)](https://aaai.org/Conferences/AAAI-22/), Feb 22 - March 1, Vancouver, Canada, 2022.
 
 
