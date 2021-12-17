@@ -15,7 +15,8 @@ Recent Highlights
 
 * *European Commission JRC Excellence Award*: 2021 Best Young Researcher
 
-* Paper accepted for AAAI 2022: [*Training on the Test Set: Mapping the System-Problem Space in AI*]()
+* Two papers accepted for AAAI 2022: [*Training on the Test Set: Mapping the System-Problem Space in AI*]() and [*When AI Difficulty is Easy:
+The Explanatory Power of Predicting IRT Difficulty*]()
 
 * Papers accepted for publication in the Nature Machine Intelligence journal: [*Research community dynamics behind popular AI benchmarks*](https://rdcu.be/ckK8X), Nature Scientific Reports [*General intelligence disentangled via a generality metric for natural and artificial intelligence*](https://www.nature.com/articles/s41598-021-01997-7), the Wiley International Journal of Intelligent Systems: [*"Missing the missing values: The ugly duckling of fairness in machine learning"*](https://doi.org/10.1002/int.22415), the Journal of Artificial Intelligence Research:  [*"Measuring the Occupational Impact of AI: Tasks, Cognitive Abilities and AI Benchmarks"*](https://doi.org/10.1613/jair.1.12647), and the Elsevier Telematics and Informatics: [*"Futures of Artificial Intelligence through Technology Readiness Levels"*](https://doi.org/10.1016/j.tele.2020.101525), 2021
 
