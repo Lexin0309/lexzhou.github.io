@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Scientific Project Officer at the [Joint Research Centre](https://ec.europa.eu/jrc/en/about/jrc-site/seville), European Commission. Lecturer in the [Master in Big Data Analytics](http://bigdata.inf.upv.es/) and in the [Máster Universitario en Ingeniería Informática](http://muiinf.webs.upv.es/) at the Technical University of Valencia ([UPV](http://www.upv.es/)). Teaching Assistant in the [Máster Universitario en Investigación en Inteligencia Artificial](http://www.uimp.es/postgrado/estudios/fichaestudio.php?plan=P03S&any=2016-17&verasi=N&lan=es) at [UIMP](http://www.uimp.es/). I received a B.Sc. degree in Computer Science (2009), M.Sc. degree in Software Engineering, Formal Methods and Information Systems (2010), a Post-Graduate Diploma in Engineering Business Management (2011) and a Ph.D in Computer Science (2016) from UPV. My main research and academic interest encompasses several areas of Artificial Intelligence, machine learning, IRT, inductive programming, cognitive systems, data science and visualisation. 
+
+
+Data Science BSc Junior student at the Valencia Polytechnic University ([UPV](http://www.upv.es/)). Machine Learning Research Collaborator at [Biomedical Data Science Lab - ITACA](https://www.bdslab.upv.es/). AI Research Collaborator at [Valencian Research Institute for Artificial Intelligence - VRAIN](https://vrain.upv.es/). My main research and academic interest encompasses several areas of Artificial Intelligence, Machine Learning, Data Science, Health, and Visualisation. 
 
 Recent Highlights
 ======
+
+* PENDING TO BE CHANGED EVERYTHING BELOW:
 
 * *European Commission JRC Excellence Award*: 2021 Best Young Researcher
 
@@ -39,47 +43,9 @@ The Explanatory Power of Predicting IRT Difficulty*]()
 * Co-organised  the 1st Workshop on *[Architectures and Evaluation for Generality, Autonomy & Progress in AI (AEGAP2018)](http://cadia.ru.is/workshops/aegap2018/)*  @ [IJCAI-ECAI 2018](https://www.ijcai-18.org/), [AAMAS 2018](http://celweb.vuse.vanderbilt.edu/aamas18/) & [ICML 2018](https://icml.cc/) which took place in in Stockholm in July 2018.
 		
 
-
-
-
-Program Committees
-======
-
-* IJCAI [2019](https://ijcai19.org/), [2020](https://ijcai20.org/)
-* AAAI [2020](https://aaai.org/Conferences/AAAI-20/), [2021](https://aaai.org/Conferences/AAAI-21/)
-* NIPS/NeurIPS [2018](https://nips.cc/Conferences/2018), [2019](https://nips.cc/Conferences/2019), [2020](https://nips.cc/Conferences/2020), [2021](https://nips.cc/Conferences/2021)
-* UAI [2019](http://auai.org/uai2019/), [2020](http://www.auai.org/uai2020/), [2021](https://www.auai.org/~w-auai/uai2021/)
-* ICRL [2019](https://iclr.cc/Conferences/2019), [2020](https://iclr.cc/)
-* ECAI [2020](http://ecai2020.eu/)
-* ECML [2020](https://ecmlpkdd2020.net/), [2021](https://2021.ecmlpkdd.org/)
-* ACM SIGKDD [2021](https://www.kdd.org/kdd2021/)
-* ICML [2021](https://icml.cc/)
-
-Organising Committees
-======
-
-* Co-organised the 1st [**Evaluating Progress in AI (EPAI2020)**](http://dmip.webs.upv.es/EPAI2020/) Workshop at [ECAI 2020](http://ecai2020.eu/).
-* Co-organised the 1st [**Architectures and Evaluation for Generality, Autonomy & Progress in AI (AEGAP)**](http://cadia.ru.is/workshops/aegap2018/) Workshop at [IJCAI 2018](https://www.ijcai-18.org/).
-* Co-organised the 2nd [**Evaluating General-Purpose AI (EGPAI)**](http://dmip.webs.upv.es/EGPAI2017/) Workshop at [IJCAI 2017](https://ijcai-17.org/).
-* Co-organised the 1st [**Data Wrangling Automation (DWA)**](http://dmip.webs.upv.es/DWA2016/) Workshop at [ICDM 2016](https://icdm2016.eurecat.cat/).
-
-
 Awards
 ======
 
-* European Commission JRC Excellence Award: 2021 Best Young Researcher
+* Excellence Scholar Award with the best course record at Valencia Polytechnic University (UPV), 2019-2020
 
-* [**Best Poster Award**]() @ [16th IEEE ICCSE](http://ieee-iccse.org/): [*Project-Based Learning for Scaffolding Data Scientists' Skills*](https://ieeexplore.ieee.org/document/9569289)
-
-* [**Best Paper Award**]() @ [ECAI 2016](http://www.ecai2016.org): [*Making sense of item response theory in machine learning*](http://ebooks.iospress.com/volumearticle/44867)
-
-* [**Best Paper Award Runner-up**](https://www.cser.ac.uk/news/safeai-workshop/) @ [AAAI SafeAI 2019](https://safeai.webs.upv.es/): [*Surveying Safety-relevant AI Characteristics*](http://ceur-ws.org/Vol-2301/paper_22.pdf)
-
-
-* <a href="http://www.upv.es/noticias-upv/noticia-10040-hackforgood-gl-es.html"><b>2nd Prize (Local) & 2nd Prize (National)</b></a> VI Hackathon Telef&oacute;nica <em><a href="http://hackforgood.net/">HackForGood 2018</a></em> - Project <a href="http://users.dsic.upv.es/~flip/particleAI/">ParticleAI</a>.
-
-* <a href="http://noticias.inf.upv.es/?p=7962"><b>1st prize</b></a> <a href="http://dataupv.webs.upv.es/ii-opendatathon-etsinf-upv/">II OpenDatathon ETSINF-UPV 2017</a>: <em>Valencia City council Award</em> - Project <a href="http://safe-tools.dsic.upv.es/bikeflow/"> bikeFlow</a> - <a href="./papers/fmartinez_BikeFlow_TR.pdf">TechReport</a>.
-
-* <a href="http://hackforgood.net/el-resumen-de-hackforgood-2016/"><b>1st Prize (Local) & 3rd Prize (National)</b></a> IV Hackathon Telef&oacute;nica <em><a href="http://hackforgood.net/">HackForGood 2016</a></em> - Project <a href="http://users.dsic.upv.es/~flip/bikeXplorer/">BikeXplorer</a>.					
-
-* <a href="http://noticias.inf.upv.es/?p=7962"><b>1st prize</b></a> <a href="http://dataupv.webs.upv.es/i-opendatathon-etsinf-upv/">I OpenDatathon ETSINF-UPV 2016</a>: <em>BigML Award for Best predictive project</em> - Project <a href="http://users.dsic.upv.es/~flip/trafico/">TrafficXplorer</a>.
+* Excellence Scholar Award with the best course record at Valencia Polytechnic University (UPV), 2020-2021
