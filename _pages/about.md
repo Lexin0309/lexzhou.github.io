@@ -46,6 +46,6 @@ The Explanatory Power of Predicting IRT Difficulty*]()
 Awards
 ======
 
-* Excellence Scholar Award with the best course record at Valencia Polytechnic University (UPV), 2019-2020
+* *Excellence Scholar Award* with the best course record at Valencia Polytechnic University (UPV), 2019-2020
 
-* Excellence Scholar Award with the best course record at Valencia Polytechnic University (UPV), 2020-2021
+* *Excellence Scholar Award* with the best course record at Valencia Polytechnic University (UPV), 2020-2021
