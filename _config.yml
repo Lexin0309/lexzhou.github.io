@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-EN"
-title                    : "Fernando Martínez-Plumed"
+title                    : "Lexin Zhou"
 title_separator          : "-"
-name                     : &name "Fernando Martínez-Plumed"
+name                     : &name "Lexin Zhou"
 description              : &description "Homepage"
-url                      : https://nandomp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lexzhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nandomp/nandomp.github.io"
+repository               : "lexzhou/lexzhou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fernando Martínez-Plumed"
-  avatar           : "Nando2.jpg"
-  bio              : "Postdoctoral researcher in Artificial Intelligence"
-  location         : "Technical University of Valencia"
+  name             : "Lexin Zhou"
+  avatar           : 
+  bio              : "Data Science BSc student at UPV & ML Research Collaborator at Biomedical Data Science Lab - ITACA & AI Research Collaborator at Valencian Research Institute for Artificial Intelligence - VRAIN"
+  location         : "Valencia Polytechnic University"
   employer         :
-  googlescholar    : "https://scholar.google.es/citations?user=a5qlaGIAAAAJ&hl=en"
-  email            : "fmartinez@dsic.upv.es"
+  googlescholar    : "https://scholar.google.es/citations?hl=en&authuser=1&user=VV76Eo8AAAAJ"
+  email            : "lexinzhouds@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nandomp"
+  github           : "lexzhou"
   google_plus      :
   keybase          :
   instagram        :
-  lastfm           :
-  linkedin         : "https://www.linkedin.com/in/fmartinezplumed/"
-  orcid            : "http://orcid.org/0000-0003-2902-6477"
+  lastfm           : 
+  linkedin         : "https://www.linkedin.com/in/lexin-zhou-094951202/"
+  orcid            : "https://orcid.org/0000-0003-1161-4270"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "NandoMartinezP"
+  twitter          : "lexin_zhou"
   vine             :
   weibo            :
   xing             :
