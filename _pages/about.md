@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Data Science BSc Junior student at the Valencia Polytechnic University ([UPV](http://www.upv.es/)). Machine Learning Research Collaborator at [Biomedical Data Science Lab - ITACA](https://www.bdslab.upv.es/). AI Research Collaborator at [Valencian Research Institute for Artificial Intelligence - VRAIN](https://vrain.upv.es/). My main research and academic interest encompasses several areas of Artificial Intelligence, Machine Learning, Health, and Data Science.
+Data Science B.Sc. Junior student at the Valencia Polytechnic University ([UPV](http://www.upv.es/)). Machine Learning Research Collaborator at [Biomedical Data Science Lab - ITACA](https://www.bdslab.upv.es/). AI Research Collaborator at [Valencian Research Institute for Artificial Intelligence - VRAIN](https://vrain.upv.es/). My main research and academic interest encompasses several areas of Artificial Intelligence, Machine Learning, Health, and Data Science.
 
 Recent Highlights
 ======
