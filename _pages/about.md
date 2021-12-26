@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Data Science BSc Junior student at the Valencia Polytechnic University ([UPV](http://www.upv.es/)). Machine Learning Research Collaborator at [Biomedical Data Science Lab - ITACA](https://www.bdslab.upv.es/). AI Research Collaborator at [Valencian Research Institute for Artificial Intelligence - VRAIN](https://vrain.upv.es/). My main research and academic interest encompasses several areas of Artificial Intelligence, Machine Learning, Data Science, Health, and Visualisation. 
+Data Science BSc Junior student at the Valencia Polytechnic University ([UPV](http://www.upv.es/)). Machine Learning Research Collaborator at [Biomedical Data Science Lab - ITACA](https://www.bdslab.upv.es/). AI Research Collaborator at [Valencian Research Institute for Artificial Intelligence - VRAIN](https://vrain.upv.es/). My main research and academic interest encompasses several areas of Artificial Intelligence, Machine Learning, Health, and Data Science.
 
 Recent Highlights
 ======
@@ -19,29 +19,13 @@ Recent Highlights
 
 * *European Commission JRC Excellence Award*: 2021 Best Young Researcher
 
-* Two papers accepted for AAAI 2022: [*Training on the Test Set: Mapping the System-Problem Space in AI*]() and [*When AI Difficulty is Easy:
-The Explanatory Power of Predicting IRT Difficulty*]()
+* One paper under revision process (with a major revision) at JMIR public health and surveillance: [*Subphenotyping of COVID-19 patients at pre-admission towards anticipated severity stratification: an analysis of 778 692 Mexican patients through an age-gender unbiased meta-clustering technique*](https://doi.org/10.1101/2021.02.21.21252132), 2021.
 
-* Papers accepted for publication in the Nature Machine Intelligence journal: [*Research community dynamics behind popular AI benchmarks*](https://rdcu.be/ckK8X), Nature Scientific Reports [*General intelligence disentangled via a generality metric for natural and artificial intelligence*](https://www.nature.com/articles/s41598-021-01997-7), the Wiley International Journal of Intelligent Systems: [*"Missing the missing values: The ugly duckling of fairness in machine learning"*](https://doi.org/10.1002/int.22415), the Journal of Artificial Intelligence Research:  [*"Measuring the Occupational Impact of AI: Tasks, Cognitive Abilities and AI Benchmarks"*](https://doi.org/10.1613/jair.1.12647), and the Elsevier Telematics and Informatics: [*"Futures of Artificial Intelligence through Technology Readiness Levels"*](https://doi.org/10.1016/j.tele.2020.101525), 2021
+* Presented one conference paper at Mathematical Modelling in Engineering & Human Behaviour 2021:  [*A population-based study of COVID-19 patient’s survival prediction and the potential biases in machine learning*](https://jornadas.imm.upv.es/proceedings/Modelling2021.pdf)
 
-* Co-organising the 1st Workshop on *[Evaluating Progress in AI (EPAI2020)](http://dmip.webs.upv.es/EPAI2020/)*  @ [ECAI 2020](http://ecai2020.eu/) taking place (digitally) in Santiago (Spain) in September 4, 2020.
+* Main researcher of [**SUBCOVERWD-19**](http://www.itaca.upv.es/projects_page/single-projects/) with [Biomedical Data Science Lab](https://www.bdslab.upv.es/), [INCLIVA Health Research Institute of Valencian Clinic Hospital](https://www.incliva.es/) and [Research Institute of the University Hospital 12 de Octubre de Madrid i + 12](https://imas12.es/); a data science project in respect of Severity Subgroup Discovery and Classification on COVID-19 Real World Data through Machine Learning and Data Quality assessment where we build a novel AI Clinical Decision Support System using ML that facilitates the prognosis and estimation of the evolution of patients with COVID-19, at the time of hospital admission or ICU admission and is especially useful in the event of outbreaks of the virus. The Clinical Decision Support System will make it possible to know the potential severity level and intervene early in the event of, for example, an acute respiratory failure. The project is having an extraordinary media coverage at, e.g., [El Independiente] (https://www.elindependiente.com/futuro/2020/08/04/desarrollan-un-sistema-de-ia-para-pronostico-personalizado-de-afectados-covid-19/), [La Vanguardia] (https://www.lavanguardia.com/local/valencia/20200804/482675943882/un-nuevo-sistema-de-inteligencia-artificial-facilitara-el-pronostico-y-la-evolucion-de-los-pacientes.html), [Pharma Market](https://www.phmk.es/i-d/nuevo-sistema-de-inteligencia-artificial-facilitara-el-pronostico-y-evolucion-del-covid-19) and [YouTube](https://www.youtube.com/watch?v=oFAx1dFhXu8).  
 
-* 3 papers accepted for ECAI 2020:  [Tracking AI: The Capability is (Not) Near](http://ecai2020.eu/papers/1009_paper.pdf),  [AI Paradigms and AI Safety: Mapping Artefacts and Techniques to Safety Issues](https://ecai2020.eu/papers/1364_paper.pdf) and [Family and Prejudice: A Behavioural Taxonomy of Machine Learning Techniques](https://ecai2020.eu/papers/1285_paper.pdf).
-
-* Papers accepted for IEEE Transactions on Knowledge and Data Engineering journal: [*CRISP-DM Twenty Years Later: From Data Mining Processes to Data Science Trajectories*](https://doi.org/10.1109/TKDE.2019.2962680), and the IEEE Transactions on Games Journal: [*Dual Indicators to Analyse AI Benchmarks: Difficulty, Discrimination, Ability and Generality*](https://doi.org/10.1109/TG.2018.2883773), 2020.
-
-* Paper accepted for the [AAAI/ACM Conference on Artificcial Intelligence, Ethics, and Society](https://www.aies-conference.com/2020/): "Does AI Qualify for the Job? A Bidirectional Model Mapping Labour and AI Intensities", 2020.
-
-* Paper accepted for the Artificial Intelligence Journal: [*Item Response Theory in AI: Analysing Machine Learning Classifiers at the Instance Level*](https://authors.elsevier.com/a/1YWua-c5NdLy), 2019.
-
-* 2 papers accepted for ECML 2019:  [Automated Data Transformation with Inductive Programming and Dynamic Background Knowledge](https://doi.org/10.1007/978-3-030-46133-1_44) and [ABK-ADAPT: Dynamic Background Knowledge for Automating Data Transformation](https://doi.org/10.1007/978-3-030-46133-1_45).
-
-* Paper accepted for [IJCAI 2018](https://www.ijcai-18.org/): [*The Facets of Artificial Intelligence*](https://www.ijcai.org/proceedings/2018/718). 
-
-* Researcher and main developer of [**SATAN**](https://safe-tools.dsic.upv.es/shiny/saler/) (with [Generalitat Valenciana](https://safe-tools.dsic.upv.es/shiny/saler/)), a data science project to detect and prevent fraud and corruption in public administration. The project is having  an extraordinary [media coverage](https://www.google.com/search?safe=off&biw=1920&bih=969&tbm=nws&ei=QgFUXP-PBISAur4PrqKCqAU&q=SATAN+sistema+alertas+generalitat+valenciana+&oq=SATAN+sistema+alertas+generalitat+valenciana+&gs_l=psy-ab.3...25935.31932.0.32104.17.17.0.0.0.0.110.1520.13j4.17.0....0...1c.1.64.psy-ab..4.1.96...33i10k1.0.VJ2Jg4ik1bE).  
-
-* Co-organised  the 1st Workshop on *[Architectures and Evaluation for Generality, Autonomy & Progress in AI (AEGAP2018)](http://cadia.ru.is/workshops/aegap2018/)*  @ [IJCAI-ECAI 2018](https://www.ijcai-18.org/), [AAMAS 2018](http://celweb.vuse.vanderbilt.edu/aamas18/) & [ICML 2018](https://icml.cc/) which took place in in Stockholm in July 2018.
-		
+* Main researcher of [OCDE “Artificial Intelligence and the Future of Skills”](https://www.oecd.org/education/ceri/)
 
 Awards
 ======
