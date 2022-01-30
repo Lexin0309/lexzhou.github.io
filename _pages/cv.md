@@ -60,3 +60,5 @@ Service and leadership
 * Currently signed in to 43 different slack teams
 
 -->
+
+My CV available at: https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/328b77a9-3cf7-44d8-8f62-52135b2faea4?view=html
