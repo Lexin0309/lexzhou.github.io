@@ -33,3 +33,5 @@ Awards
 * *Excellence Scholar Award* with the best course record at Valencia Polytechnic University (UPV), 2020-2021
 
 * *Research Collaboration Scholarship* at Valencian Research Institute for Artificial Intelligence (VRAIN), 2020-2021 
+
+* *Santander Bank Studies Progress Scholarship* at Valencia Polytechnic University (UPV), 2020-2021
