@@ -15,7 +15,7 @@ Data Science B.Sc. Junior student at the Valencia Polytechnic University ([UPV](
 Recent Highlights
 ======
 
-* One paper under revision process (with a major revision) at [JMIR public health and surveillance](https://publichealth.jmir.org/): [*Subphenotyping of COVID-19 patients at pre-admission towards anticipated severity stratification: an analysis of 778 692 Mexican patients through an age-gender unbiased meta-clustering technique*](https://doi.org/10.1101/2021.02.21.21252132), 2021.
+* One paper accepted by [JMIR public health and surveillance](https://publichealth.jmir.org/): [*Subphenotyping of COVID-19 patients at pre-admission towards anticipated severity stratification: an analysis of 778 692 Mexican patients through an age-gender unbiased meta-clustering technique*](https://doi.org/10.1101/2021.02.21.21252132), 2022.
 
 * One conference paper at [Mathematical Modelling in Engineering & Human Behaviour 2021](https://www.imm.upv.es/jornadas/2021/home.html):  [*A population-based study of COVID-19 patient’s survival prediction and the potential biases in machine learning*](https://jornadas.imm.upv.es/proceedings/Modelling2021.pdf).
 
