@@ -37,3 +37,11 @@ Awards
 * *Research Collaboration Scholarship* at Valencian Research Institute for Artificial Intelligence (VRAIN), 2020-2021 
 
 * *Santander Bank Studies Progress Scholarship* at Valencia Polytechnic University (UPV), 2020-2021
+
+In the Media
+======
+Don't take this too seriously:
+
+* *(Las Provincias)[https://www.lasprovincias.es/comunitat/inteligencia-artificial-controlar-20220408235952-ntvo.html]* 
+* *(Europa Press)[https://www.europapress.es/comunitat-valenciana/noticia-estudio-upv-referencia-internacional-aplicacion-ia-seguimiento-covid-20220331102627.html]* 
+* *(Valencia Polytechnic University)[https://www.upv.es/noticias-upv/noticia-13533-inteligencia-a-es.html]* 
